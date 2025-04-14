@@ -6,9 +6,9 @@
 - # type: twitter
   # icon: "fa-brands fa-x-twitter"
   
--  type: discord
-   icon: "fa-brands fa-discord"
-   url:  'https://discord.gg/Ems3HPs7Kt'
+-  #type: discord
+   #icon: "fa-brands fa-discord"
+   #url:  'https://discord.gg/Ems3HPs7Kt'
 
 -  # type: googlesheets
    # icon: "fa-solid fa-file-lines"
