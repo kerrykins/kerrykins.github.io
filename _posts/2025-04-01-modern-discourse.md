@@ -8,6 +8,8 @@ tags: [science, discourse]
 pin: false
 math: true
 mermaid: true
+toc: false
+comments: true
 
 ---
 
