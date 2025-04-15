@@ -39,7 +39,7 @@ But bitterness doesn’t erase beauty.
 
 For nearly two years, I served as guild master. That span of time holds weight. It was a time of joyful chaos. It was a time where people felt safe enough to be themselves. Even if most of it faded, or evolved into something else, it happened. And because it happened, it matters. 
 
-I genuinely wish my former guildmates the very best. I hope the guild continues to grow and thrive in ways I couldn’t have imagined. And I hope quietly and sincerely that I added something positive to their lives during the time we shared.
+I wish my former guildmates the very best. I hope the guild continues to grow and thrive in ways I couldn’t have imagined. And I hope quietly and sincerely that I added something positive to their lives during the time we shared.
 
 I’ve long since logged out. The title is gone and burden set down. But I carry it with me: the lessons, the failures, the small moments of connection that shimmered like a campfire in Icecrown. 
 
