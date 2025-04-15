@@ -37,8 +37,11 @@ The goodbyes I didn’t get from the people I thought would reach out left a mar
 
 But bitterness doesn’t erase beauty.
 
-I gave parts of myself to that guild. I gave parts of me that wanted to build something better than what I’d known before. For a while, it worked. People found each other. We had great laughs. We had amazing raids. Our community was thriving. Even if most of it faded or evolved into something else, it happened. And because it happened, it matters. 
+For nearly two years, I served as guild master. That span of time holds weight. It was a time of joyful chaos. It was a time where people felt safe enough to be themselves. Even if most of it faded, or evolved into something else, it happened. And because it happened, it matters. 
+
+I genuinely wish my former guildmates the very best. I hope the guild continues to grow and thrive in ways I couldn’t have imagined. And I hope quietly and sincerely that I added something positive to their lives during the time we shared.
 
 I’ve long since logged out. The title is gone and burden set down. But I carry it with me: the lessons, the failures, the small moments of connection that shimmered like a campfire in Icecrown. 
+
 Maybe, just maybe, that’s enough.
 
