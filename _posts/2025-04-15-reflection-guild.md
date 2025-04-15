@@ -29,7 +29,7 @@ As we faced down the barrel of a new expansion, the community shifted. Or perhap
 
 The truth is, I think my departure was quietly welcomed. It wasn’t because I was disliked – at least not by most - but because the guild already moved beyond me. It had grown into something I didn’t quite understand. I had grown into someone it no longer needed. Perhaps my approach became alienating. Perhaps *I* had become alienating. It’s hard to say. What was certain were two things: I was burnt out, and they were ready to move on. 
 
-I remain slightly bitter to this day. It isn’t a spiteful bitterness, mind you, but a tender and aching way you’d feel when something mattered a lot, and then changed without you. The way I said goodbye didn’t help either; it didn’t honour the relationships I had made. When I stepped down, I was hurt by what felt like fraying connections and silence where closeness once lived. I didn’t reach out gently, nor offer soft farewells. I left on the terms of my disappointment, shaped by the belief that the people I had grown fond of no longer needed me. 
+I remain slightly bitter to this day. It isn’t a spiteful bitterness, mind you, but a tender and aching way you’d feel when something mattered a lot, and then changed without you. The way I said goodbye didn’t help either; it didn’t honour the relationships I had made. When I stepped down, I was hurt by what felt like fraying connections and silence where closeness once lived. I didn’t reach out gently, nor offer soft farewells. I left on the terms of my disappointment, shaped by the belief that the people I had grown fond of no longer needed or wanted me around. 
 
 The silence that followed hurt. It was, in many ways, a silence I helped create. 
 
