@@ -13,18 +13,27 @@ comments: true
 
 ---
 
-Have you ever tried building IKEA furniture with a friend without the instructions? It’s a challenge. But what if your friend refuses to believe in Allen keys?
+Have you ever tried building IKEA furniture with a friend without the instructions? It’s a challenge. But what if your friend refuses to believe in Allen keys? Good luck getting anything to stand up straight.
 
-Good luck getting anything to stand up straight.
+Now, you might think you’re building the same thing – a shelf, perhaps – but if one person tosses the manual out and starts improvising, it’s no longer collaborating. All you’re doing is assembling in parallel and probably getting more confused by the minute. 
 
-I used to think disagreements were about who had the better facts. It turns out that we’re lucky, nowadays, if we can agree that facts even exist. Debating feel less like a clash of ideas and more like arguing over a blueprint while the other person is busy re-inventing gravity. At some point, you realise that it is hard to find common ground when the other person insists the Earth is flat.
+And the only shared and likely outcome? Watching it fall apart. 
 
-Discussion only works when there is a shared baseline. It is a fundamental premise that we both stand on. It can be named or implied. But it exists. For scientific and policy debates, that baseline is often empirical data. Lately, however, it feels like even that has come up for negotiation.
+I used to think disagreements were about who had the better facts. Nowadays, we’re lucky if we can agree that facts even exist. Debate feels less like a clash of ideas and more like arguing over a blueprint while the other person is busy re-inventing gravity. At some point, you realise that it’s hard to find common ground when the other person insists the Earth is flat.
 
-If we cannot agree that 2 + 2 = 4, climate change is real, or studies using scientific methods and controlled variables tell us something meaningful about the world, then what is the conversation actually about?
+Discussion only works when there’s a shared baseline. It is a fundamental premise that we both stand on. It can be named or implied, but it exists. For scientific and policy debates, that baseline is often empirical data. Lately, it feels like even that has come up for negotiation.
 
-This is like trying to build a bridge together, but one of us insists that gravity is a hoax. I can bring the best materials and expertise the world has to offer, but if the other person will not acknowledge the laws (of physics) that hold the structure up, it is not collaborating on a bridge. It is standing on opposite cliffs yelling across a canyon.
+If we cannot agree that 2 + 2 = 4, then what’s left to talk about?
 
-Don’t get me wrong – scientific data is not perfect. But it gives us shared footing. It offers the minimum trust needed to start a conversation about important issues. It is a belief that we are at least looking at the same terrain. We may interpret the landscape differently, sure, but we’re looking at the same thing.
+If climate change is just an ‘opinion’, then what exactly are we debating?
 
-Without that shared premise, the dialogue turns into performance, power play, or worse – a distortion meant to exhaust rather than to engage. And that does not move anything forward.
+And if peer-reviewed research can be dismissed on a whim, then what counts as evidence?
+
+Without a shared foundation as a baseline trust in reality, the conversation often becomes moot before it even begins. 
+
+It’s like trying to build a bridge with someone who thinks gravity is a hoax. You can bring the best materials and expertise the world has to offer, but if they won’t accept the laws of physics that hold the structure up, it isn’t collaborating on a bridge. It’s standing on opposite cliffs yelling across a canyon.
+
+Don’t get me wrong – scientific data is not perfect. But it gives us shared footing. It offers the minimum trust needed to start a conversation about important issues. It’s a belief that we are at least looking at the same terrain. We may interpret the landscape differently, sure, but we’re looking at the same thing.
+
+Without that shared premise, the dialogue turns into performance, power play, or worse – a distortion meant to exhaust rather than to engage. And that doesn’t move anything forward.
+
