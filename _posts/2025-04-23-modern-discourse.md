@@ -2,7 +2,7 @@
 title: The Ground Beneath the Talk
 description: Reflecting on Modern Social Issue Discourses
 author: kerrykins
-date: 2025-04-20 00:00:00 -0500
+date: 2025-04-23 00:00:00 -0500
 categories: [Reflections]
 tags: [science, discourse]
 pin: false
