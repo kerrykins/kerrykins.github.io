@@ -4,7 +4,7 @@ description: Reflecting on Modern Social Issue Discourses
 author: kerrykins
 date: 2025-04-21 00:00:00 -0500
 categories: [Reflections]
-tags: [science, discourse]
+tags: [epistemology, discourse, debate, dialogue]
 pin: false
 math: true
 mermaid: true
