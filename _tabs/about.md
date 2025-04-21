@@ -5,7 +5,7 @@ order: 1
 ---
 
 > "It’s not a cry for help; it’s a well-punctuated whisper."
-{: .prompt-info }
+{: .prompt-tip }
 
 Hey yo!
 

@@ -13,6 +13,9 @@ comments: true
 
 ---
 
+> This piece was written as part of an exercise in an online writing workshop.
+{: .prompt-info }
+
 Have you ever tried building IKEA furniture with a friend without the instructions? It’s a challenge. But what if your friend refuses to believe in Allen keys? Good luck getting anything to stand up straight.
 
 Now, you might think you’re building the same thing – a shelf, perhaps – but if one person tosses the manual out and starts improvising, it’s no longer collaborating. All you’re doing is assembling in parallel and probably getting more confused by the minute. 
