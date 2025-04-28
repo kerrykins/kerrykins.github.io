@@ -42,6 +42,6 @@ Please note that this office does not provide catharsis on demand.
 
 Thank you for your interest in emotional maturity.
 
-Best regards,
+Best regards, 
 The Department of I’m Still Processing It
 
