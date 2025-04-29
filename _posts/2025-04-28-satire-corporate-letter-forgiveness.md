@@ -4,7 +4,7 @@ description: A satirical piece on society's expectations on forgiveness.
 author: kerrykins
 date: 2025-04-28 00:00:00 -0500
 categories: [Satire]
-tags: [forgiveness, performance, social expectations]
+tags: [forgiveness, performance, social expectations, abuse]
 pin: false
 math: true
 mermaid: true
