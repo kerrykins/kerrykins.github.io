@@ -2,7 +2,7 @@
 title: Tomorrow Comes With Its Own Freeze
 description: A quiet meditation on knowing what would help — and freezing anyway.
 author: kerrykins
-date: 2025-04-29 00:00:00 -0500
+date: 2025-04-29 00:00:00 -0400
 categories: [Creative Nonfiction]
 tags: [CPTSD, paralysis, anxiety, trauma]
 pin: false
