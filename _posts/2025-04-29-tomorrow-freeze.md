@@ -17,8 +17,8 @@ comments: true
 
 It doesn’t yell. It doesn’t have to. It’s said with a reverberating familiarity.
 
-It usually starts like that.
-Sharp. Unforgiving.
+It usually starts like that. \
+Sharp. Unforgiving. \
 The panic, disguised as urgency, usually rushes in soon after.
 
 *“Get up. Fix it. Now.”*
