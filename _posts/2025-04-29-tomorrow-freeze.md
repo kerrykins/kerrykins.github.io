@@ -47,41 +47,41 @@ The body says, *“Don’t you dare.”*
 And you freeze. 
 
 You freeze in front of a stairwell you’ve seen a hundred times. \
-You’ve mapped it out. You know where it goes. \
+You’ve mapped it out. You know where it goes. 
 
 But between you and the first step, there’s a solid wall of ice. \
 It’s built from years of fear, avoidance, exhaustion, and depression.
 
-Some days, you chip at it. You make cracks.
-You are rewarded with the familiar tendrils of warmth pushing through.
+Some days, you chip at it. You make cracks. \
+You are rewarded with the familiar tendrils of warmth pushing through. \
 You tell yourself, *“Tomorrow.”* 
 
-But by morning, the wall glints mercilessly at you, as if yesterday never happened.
+But by morning, the wall glints mercilessly at you, as if yesterday never happened. \
 
 Some days, the ice does give way.
-But when you first touch the stair, the whole thing shifts ever so slightly.
+But when you first touch the stair, the whole thing shifts ever so slightly. \
 It’s like the air shifts - like the body's bracing for the impact that never comes.
 
 *“Don’t climb it. DANGER. Don’t try it. DANGER. Don’t risk it.”*
 
-And you don’t.
-Not because you know it’s dangerous - but because it feels like it is.
+And you don’t. \
+Not because you know it’s dangerous - but because it feels like it is. \
 Because falling again would hurt too much.
 
 Or so you tell yourself.  
 
-Day after day, you stay behind the ice.
+Day after day, you stay behind the ice. \
 You tell yourself that you’ll try again tomorrow.
 
 But tomorrow comes with its own freeze.
 
 You begin to chip all over again.
 
-Except it's not a literal wall of ice. And you're not not holding a pickaxe.
-But in a room, on a couch buried under a heavy mess of blankets, with a cup of coffee you meant to drink hours ago.
-With unread emails, with unopened tabs, and with one thing - just the one - you know you need to do.
+Except it's not a literal wall of ice. And you're not not holding a pickaxe. \
+But in a room, on a couch buried under a heavy mess of blankets, with a cup of coffee you meant to drink hours ago. \
+With unread emails, with unopened tabs, and with one thing - just the one - you know you need to do. 
 
-You know what would help.
+You know what would help. \
 You do.
 
 You really do.
