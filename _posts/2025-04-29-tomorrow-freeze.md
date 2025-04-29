@@ -4,7 +4,7 @@ description: A quiet meditation on knowing what would help — and freezing anyw
 author: kerrykins
 date: 2025-04-29 00:00:00 -0500
 categories: [Creative Nonfiction]
-tags: [CPTSD, trauma, depression]
+tags: [CPTSD, paralysis, anxiety, trauma]
 pin: false
 math: true
 mermaid: true
