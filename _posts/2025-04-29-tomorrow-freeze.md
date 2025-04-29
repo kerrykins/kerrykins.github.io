@@ -27,30 +27,30 @@ But the second you move, it shifts.
 
 *“Not like that. Not yet. It’s not good enough.”* 
 
-Except you want to do better.
+Except you want to do better. \
 So you tell yourself, *“Do the thing, let’s do what we know helps. Just do it.”* 
 
-But when you reach for it, anxiety grinds its gears.
-It becomes too loud to think.
-It short circuits everything you had planned.
+But when you reach for it, anxiety grinds its gears. \
+It becomes too loud to think. \
+It short circuits everything you had planned. \
 
-Suddenly, everything you know – everything that’s supposed to help – feels sharp.
+Suddenly, everything you know – everything that’s supposed to help – feels sharp. \
 Dangerous.
 
-These are the moments when you know exactly what would help.
-But still, you don’t move.
-It’s not confusion. Nor is it avoidance.
+These are the moments when you know exactly what would help. \
+But still, you don’t move. \
+It’s not confusion. Nor is it avoidance. 
 
-The mind says, *“Do it.”* 
+The mind says, *“Do it.”* \
 The body says, *“Don’t you dare.”* 
 
 And you freeze. 
 
-You freeze in front of a stairwell you’ve seen a hundred times.
-You’ve mapped it out. You know where it goes.
+You freeze in front of a stairwell you’ve seen a hundred times. \
+You’ve mapped it out. You know where it goes. \
 
-But between you and the first step, there’s a solid wall of ice.
-It’s built from years of fear, avoidance, exhaustion, and depression. 
+But between you and the first step, there’s a solid wall of ice. \
+It’s built from years of fear, avoidance, exhaustion, and depression.
 
 Some days, you chip at it. You make cracks.
 You are rewarded with the familiar tendrils of warmth pushing through.
