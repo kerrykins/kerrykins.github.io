@@ -32,7 +32,7 @@ So you tell yourself, *“Do the thing, let’s do what we know helps. Just do i
 
 But when you reach for it, anxiety grinds its gears. \
 It becomes too loud to think. \
-It short circuits everything you had planned. \
+It short circuits everything you had planned. 
 
 Suddenly, everything you know – everything that’s supposed to help – feels sharp. \
 Dangerous.
