@@ -35,7 +35,7 @@ Even knowing all that though – *even* when I hold that logic close – there a
 
 That kind of memory doesn’t sting, but it lingers. It teaches. It reminds me that connections aren’t guaranteed, and that staying in someone’s life - *really* staying – takes more than intention. It takes movement. 
 
-At the end of the day, the normalcy of drifting connections is one of those quiet heartbreaks that no one really prepares you for. That’s why, when someone matters, when a connection feels worth preserving, you make time. Meaningful connections require tending and without it, even the strongest bonds quietly stretch into distance. Eventually, that distance becomes space. 
+At the end of the day, the normalcy of drifting connections is one of those quiet heartbreaks that no one really prepares you for. That’s why, when someone matters, when a connection feels worth preserving, you make time. Meaningful connections require tending, and without it, even the strongest bonds quietly stretch into distance. Eventually, that distance becomes space. 
 
 Reach out.\
 Send that meme.\
