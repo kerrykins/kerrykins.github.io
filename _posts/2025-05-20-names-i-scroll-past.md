@@ -3,7 +3,7 @@ title: Names I Still Scroll Past
 description: A quiet reflection on how easily people drift apart.
 author: kerrykins
 date: 2025-05-20 00:00:00 -0400
-categories: [Reflectionn]
+categories: [Reflections]
 tags: [Friendship, Connection, Reflection, Distance]
 pin: false
 math: true
