@@ -140,3 +140,76 @@ comments: true
 - [Key Transgender Support Resources](https://www.cdnaids.ca/key-transgender-support-resources/)
 - [Canada Transgender Resources](https://www.transgendermap.com/guidance/resources/canada/)
 - [Resources About Gender Identity](https://www.thetrevorproject.org/resources/category/gender-identity/)
+
+## Accessing Medical Gender Affirming Care in London
+
+**Gender affirming medical care** (GAC) includes a range of treatments such as hormone therapy, voice training, surgeries, and permanent hair removal. However, this part will focus specifically on hormone replacement therapy (HRT) and OHIP-funded surgeries. 
+
+Accessing medical gender affirming health care (GAC) usually begins with your primary care provider (PCP). 
+
+If your PCP feels managing GAC is beyond their clinical competency, **they have a professional obligation to provide a timely and effective referral to a qualified medical professional.** You cannot be denied care or a referral based on a provider's personal, moral, or religious beliefs. 
+
+### Gender Affirming Care Guidelines
+
+[**Rainbow Health Ontario's Gender Affirming Care Guidelines**](https://www.rainbowhealthontario.ca/wp-content/uploads/2025/08/Guidelines-4th-Edition-2026.pdf)
+
+[**Quality Standards for Gender-Affirming Care for Gender-Diverse People**](https://www.ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-gender-affirming-care-adults-en.pdf) by Ontario Health
+
+In addition, you can see how other health systems approach gender affirming care:
+- [Trans Care BC](http://www.phsa.ca/transcarebc/Documents/HealthProf/Primary-Care-Toolkit.pdf)
+- [Fenway Health](https://www.lgbthealtheducation.org/publication/transgender-sod/)
+- [University of California, San Francisco](http://transhealth.ucsf.edu/trans?page=guidelines-home)
+
+### Hormone Replacement Therapy (HRT)
+
+Under the **informed consent model** (ICM), providers can prescribe hormones without requiring psychological evaluations or a formal diagnosis of gender dysphoria. 
+
+Quick Guides for Hormone Therapy
+- Feminising HRT: [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html) | [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf)
+- Masculinising HRT: [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html) | [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_mascHT_rev2021.pdf)
+
+HRT is not a one-size-fits-all protocol. Bodies process hormones differently; providers are recommended to adjust medications based on your goals, risk profile, and responses.
+
+### Non-Binary Considerations
+
+Official guidelines lack regimens for tailored outcomes for non-binary people (enbies). Many providers defer to 'micro-dosing' standard regimens. 
+
+For enbies seeking feminisation w/o breast growth, experimental approaches exist in the community (e.g., SERMs) but strictly outside of guidelines.  Pursuing such approaches will require intense self-advocacy, such as providing existing medical literature and engaging in shared risk-assessment to reach a conclusion. 
+
+On the other hand, RHO recognises individualised approaches for enbies seeking masculinisation w/o facial hair or bottom growth (e.g., combining testosterone with DHT blockers like finasteride). 
+
+Further reading:
+- [San Francisco's HRT Guidelines](https://tinyurl.com/5fk43shb) mentions alternative regimens
+- Peer-reviewed article in recognised medical journals discussing SERMs: [Article 1](https://tinyurl.com/jcuefvsj) | [Article 2](https://tinyurl.com/2ryhpbna)
+- [Transfeminine Science](https://transfemscience.org/articles/serms-transfem)
+
+### Gender Affirming Care Medical Providers In London
+
+Below is a list of clinics/medical professionals that offer GAC in London, Ontario. __Check with the office as intake may be closed.__
+
+- [Gender Pathways Service](https://www.lhsc.on.ca/gender-pathways-service)
+  - 17yo or younger only
+- Primary Care
+  - [London Intercommunity Health Centre](https://lihc.on.ca/programs-services/gender-care/) (16+, Intake CLOSED)
+  - Dr. AJ MacDonald (519-433-2996)
+- Endocrinologists
+  - Dr. Emily Brennan (519-601-8621)
+  - Dr. Julia Creider (519-850-3234)
+  - Dr. Stanislaus Van Uum (519-646-6170)
+  - Dr. Ranjit Singarayer (226-680-0802)
+- [Foria Clinic](https://www.foriaclinic.com/) - virtual care
+
+### Transition-Related Surgeries (TRS)
+
+- Rainbow Health Ontario
+  - [**TRS Summary Sheets**](https://www.rainbowhealthontario.ca/wp-content/uploads/2024/09/Gender-Affirming-Surgery-Summary-Sheets-Series-1.pdf) with information about breast augmentation, top surgery, vaginoplasty, hysterectomy & salpingo-oophorectomy, phalloplasty, metoidioplasty, orchiectomy, and a surgery preparation guide. 
+  - [Referrals, Letters, Surgery](https://www.rainbowhealthontario.ca/TransHealthGuide/resources-referralsadvocacy.html)
+  - [TRS Information](https://www.womenscollegehospital.ca/care-programs/surgery/transition-related-surgery/) - Women's College Hospital
+  
+### Accessing Transition-Related Surgeries
+
+Unlike HRT's informed consent model, OHIP-funded surgeries require provincial approval. Different surgeries require different formal surgical assessments (e.g., chest surgeries require one assessment whereas bottom surgeries require two). 
+
+After your provider submits the funding application, the Ministry of Health must approve it before any surgery can take place. 
+
+See [TRS Frequently Asked Questions](https://www.rainbowhealthontario.ca/wp-content/uploads/2025/08/RHO-GAS-FAQ.pdf) for information about assessments, referrals, and OHIP coverage.
