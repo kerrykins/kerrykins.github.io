@@ -166,6 +166,7 @@ If your PCP feels managing GAC is beyond their clinical competency, **they have 
 Under the **informed consent model** (ICM), providers can prescribe hormones without requiring psychological evaluations or a formal diagnosis of gender dysphoria. 
 
 Quick Guides for Hormone Therapy
+
 | Feminising HRT| [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html) <br> [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf)
 | Masculinising HRT| [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html) <br> [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_mascHT_rev2021.pdf)
 
