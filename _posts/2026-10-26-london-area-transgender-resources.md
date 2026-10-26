@@ -4,7 +4,7 @@ description: A list of resources for trans folx living in London, Ontario
 author: kerrykins
 date: 2026-10-26 00:00:00 -0400
 categories: [Information]
-tags: [info, trans, LGBTQ+]
+tags: [info, trans, LGBTQ+, LondonON]
 pin: false
 math: true
 mermaid: true
