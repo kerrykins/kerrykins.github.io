@@ -34,13 +34,13 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Kerry
+  name: Kerry Lo
 #  email: example@domain.com # change to your email address
 #  fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your Twitter homepage
-    #- https://github.com/username # change to your GitHub homepage
+    - https://github.com/kerrykins # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/images/caitlyn3.jpg'
+avatar: '/images/profile1.jpg'
 
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
