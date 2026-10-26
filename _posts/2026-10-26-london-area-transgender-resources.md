@@ -191,7 +191,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | Name of Service | Type of Provider | Contact Information | Additional Details |
 | :------- | :------- | :------ | :------- |
 | [Gender Pathways Service](https://www.lhsc.on.ca/gender-pathways-service) | Multidisciplinary |  | 17yo or younger only |
-| [Gender Care at London InterCommunity Health Centre (LIHC)](https://lihc.on.ca/programs-services/gender-care/) | Primary Care  |  | 16+ only <br> Intake CLOSED |
+| [Gender Care at LIHC](https://lihc.on.ca/programs-services/gender-care/) | Primary Care  |  | 16+ only <br> Intake CLOSED |
 | Dr. AJ MacDonald | Primary Care | 519-433-2996 |  |
 | Dr. Emily Brennan | Endocrinologist | 519-850-3234 |  |
 | Dr. Julia Creider | Endocrinologist | 519-601-8621 |  |
