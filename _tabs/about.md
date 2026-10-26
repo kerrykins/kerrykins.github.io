@@ -1,6 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
+
 order: 1
 ---
 
@@ -18,4 +19,5 @@ I have a sociology brain plus a side (bad) habit of making eye contact with my t
 This is where I make sense of the world, myself, and all the awkward queer little in-betweens of both.
 
 Come for the reflections. Stay for the existential puns 8). 
+
 
