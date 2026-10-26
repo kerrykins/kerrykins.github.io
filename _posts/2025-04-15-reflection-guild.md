@@ -4,7 +4,7 @@ description: A reflection on community, burnout, and the quiet aftermath of step
 author: kerrykins
 date: 2025-04-15 00:00:00 -0500
 categories: [Reflections]
-tags: [World of Warcraft, guild, LGBTQ+]
+tags: [world of warcraft, guild, LGBTQ+]
 pin: false
 math: true
 mermaid: true
