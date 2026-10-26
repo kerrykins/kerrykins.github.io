@@ -71,7 +71,7 @@ comments: true
 | [Trans Wellness Initiative (Alberta-focused)](https://transwellnessinitiative.ca/) | |
 | [Justice Trans](https://justicetrans.org/)  |  |
 
-## Social Media and Online Groups
+### Social Media and Online Groups
 
 | Platform  | Description |
 | :---------------- | :----------- |
@@ -180,14 +180,18 @@ Quick Guides for Hormone Therapy
 
 Official guidelines lack regimens for tailored outcomes for non-binary people. Many providers defer to 'micro-dosing' standard regimens. This can be challenging for non-binary people seeking specific goals. 
 
-For non-binary people seeking feminisation w/o breast growth, experimental approaches exist in the community (e.g., SERMs) but strictly outside of guidelines.  Pursuing such approaches will require intense self-advocacy, such as providing existing medical literature and engaging in shared risk-assessment to reach a conclusion. 
+For non-binary people seeking feminisation w/o breast growth, experimental approaches exist in the community (e.g., SERMs) but strictly outside of official guidelines.  Pursuing such approaches will require intense self-advocacy, such as providing existing medical literature and engaging in shared risk-assessment to reach a conclusion. You will likely encounter medical providers deeming experimental approaches as beyond their clinical competency.
 
 On the other hand, RHO recognises individualised approaches for non-binary people seeking masculinisation w/o facial hair or bottom growth (e.g., combining testosterone with DHT blockers like finasteride). 
 
-Further reading:
-- [San Francisco's HRT Guidelines](https://tinyurl.com/5fk43shb) mentions alternative regimens
-- Peer-reviewed article in recognised medical journals discussing SERMs: [Article 1](https://tinyurl.com/jcuefvsj) | [Article 2](https://tinyurl.com/2ryhpbna)
-- [Transfeminine Science](https://transfemscience.org/articles/serms-transfem)
+Further reading
+
+| Title | Type | Additional Details |
+| :----- | :----- | :----- |
+| [San Francisco's HRT Guidelines](https://tinyurl.com/5fk43shb) | City Health Guideline | San Francisco's official city guidelines acknowledge the growing community experimental use of SERMs for feminising therapy.
+| [Selective Estrogen Receptor Modulators:<br> A Potential Option For Non-Binary<br> Gender-Affirming Hormonal Care?](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2021.701364/full) | Peer-reviewed Article | Peer-reviewed article written with endocrinologists in a recognised medical journal about the potential use of SERMs for feminising HRT. | 
+| [Gender-affirming endocrine care for youth with a nonbinary gender identity](https://journals.sagepub.com/doi/10.1177/20420188231160405) | Peer-reviewed Article | Peer-reviewed article mentioning SERMs as a potential drug for gender-affirming care.
+| [A Review of Selective Estrogen Receptor Modulators and their Potential for Transfeminine Hormone Therapy](https://transfemscience.org/articles/serms-transfem/) | Community Article | Community-written article about the potential use of SERMs in transfemme hormone therapy. 
 
 ### GAC Medical Providers In London
 
