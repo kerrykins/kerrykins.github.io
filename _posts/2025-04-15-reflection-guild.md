@@ -21,27 +21,25 @@ In late 2022, I joined a queer guild. At the time, I was closeted, crumbling, an
 
 Then I became guild master. 
 
-I believed that I could build something that could outlast me. For a while, it worked. We ran raids. We survived ‘guild killer’ events. We juggled spreadsheets. We groaned in exasperation when signups didn’t work out. We dealt with loot drama. In turn, I learned to lead in voice and silence. I made mistakes and still made things happen. Good things. Events and connections felt like magic at the time. 
+I believed that I could build something that could outlast me. For a while, it worked. We ran raids. We survived ‘guild killer’ events. We juggled spreadsheets. We groaned in exasperation when signups didn’t work out. We dealt with loot drama. In turn, I learned to lead in voice and silence. I made mistakes and still made things happen. Good things. Events and connections felt like magic.
 
-Seasons change though - the tavern I once stumbled into soon became unfamiliar. It didn't happen overnight, but it steadily crept in. 
+Seasons change though - the tavern I once stumbled into, found my lil' comfortable corner, and called home soon became unfamiliar. It didn't happen overnight, but it rather steadily crept in. 
 
 I first noticed it when we faced down the barrel of a new expansion. I saw that the community shifted. Or perhaps it had already shifted before I noticed. The people I started this journey with began to drift. Those connections began to fray. Many people moved onto another game. Unfortunately, some of those relationships were lost to tension and fatigue. Mind you, I was not without fault; there are many things that I would have done differently. But the pressure was on and exhaustion had taken its toll. In those moments, it was hard to see clearly and even harder to act perfectly. 
 
 The truth is, I think my departure was quietly welcomed. It wasn’t because I was disliked – at least not by most - but because the guild already moved beyond me. It had grown into something I didn’t quite understand. I had grown into someone it no longer needed. Perhaps my approach became alienating. Perhaps *I* had become alienating. It’s hard to say. What was certain were two things: I was burnt out and they were ready to move on. 
 
-I remain slightly bitter to this day. It isn’t a spiteful bitterness, mind you, but a tender and aching way you’d feel when something mattered a lot and then changed without you. The way I said goodbye didn’t help either; it didn’t honour the relationships I had made. When I stepped down, I was hurt by what felt like fraying connections and silence where closeness once lived. I didn’t reach out gently nor offer soft farewells. I left on the terms of my disappointment that was shaped by the belief that the people I had grown fond of no longer needed or wanted me around. 
+I remain slightly bitter to this day. Mind you, it isn’t a spiteful bitterness but rather a tender ache. The way you’d feel when something mattered a lot and then changed without you. I said my goodbyes in a way that didn’t honour the connections I had made. When I stepped down, I was hurt by what felt like fraying connections and silence where closeness once lived. I didn’t reach out gently nor offer soft farewells. I left on the terms of my disappointment that was shaped by the belief that the people I had grown fond of no longer needed or wanted me around. 
 
 Of course, the silence that followed hurt. It was a silence I helped create. 
 
 The goodbyes I didn’t get from the people I thought would reach out left a mark. In another version of things, I would’ve done things differently. I would have left with more grace and openness. But again, exhaustion speaks loudly. At the time, I was too worn down to part ways kindly. 
 
-Still, bitterness doesn’t erase beauty.
+Fortunately, bitterness doesn’t erase beauty.
 
 For nearly two years, I served as guild master. Two years is a span of time that holds weight. It was a time of joyful chaos. It was a time where people felt safe enough to be themselves. Even if most of it faded or evolved into something else, it happened. Because it happened, it matters. 
 
-I wish my former guildmates the very best. I hope the guild continues to grow and thrive in ways I couldn’t have imagined. I hope quietly and sincerely that I added something positive to their lives during the time we shared.
+To my former guildmates, I wish you the very best. I hope the guild continues to grow and thrive in ways I couldn’t have imagined. I hope that I added something positive to your lives during the time we shared.
 
-I’ve long since logged out. The title is gone and burden set down. I still carry the lessons, the failures, and the connections I made.  
-
-Maybe, just maybe, that’s enough.
+I’ve long since logged out. The title is gone. I've set it all of it down. But I'll carry the lessons, the failures, and the connections I made.  
 
