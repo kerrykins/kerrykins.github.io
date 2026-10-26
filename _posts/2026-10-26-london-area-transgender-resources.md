@@ -173,11 +173,11 @@ HRT is not a one-size-fits-all protocol. Bodies process hormones differently; pr
 
 #### Non-Binary Considerations
 
-Official guidelines lack regimens for tailored outcomes for non-binary people (enbies). Many providers defer to 'micro-dosing' standard regimens. 
+Official guidelines lack regimens for tailored outcomes for non-binary people. Many providers defer to 'micro-dosing' standard regimens. 
 
-For enbies seeking feminisation w/o breast growth, experimental approaches exist in the community (e.g., SERMs) but strictly outside of guidelines.  Pursuing such approaches will require intense self-advocacy, such as providing existing medical literature and engaging in shared risk-assessment to reach a conclusion. 
+For non-binary people seeking feminisation w/o breast growth, experimental approaches exist in the community (e.g., SERMs) but strictly outside of guidelines.  Pursuing such approaches will require intense self-advocacy, such as providing existing medical literature and engaging in shared risk-assessment to reach a conclusion. 
 
-On the other hand, RHO recognises individualised approaches for enbies seeking masculinisation w/o facial hair or bottom growth (e.g., combining testosterone with DHT blockers like finasteride). 
+On the other hand, RHO recognises individualised approaches for non-binary people seeking masculinisation w/o facial hair or bottom growth (e.g., combining testosterone with DHT blockers like finasteride). 
 
 Further reading:
 - [San Francisco's HRT Guidelines](https://tinyurl.com/5fk43shb) mentions alternative regimens
