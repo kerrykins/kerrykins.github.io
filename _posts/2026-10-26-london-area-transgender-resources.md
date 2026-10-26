@@ -157,9 +157,9 @@ If your PCP feels managing GAC is beyond their clinical competency, **they have 
 [**Quality Standards for Gender-Affirming Care for Gender-Diverse People**](https://www.ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-gender-affirming-care-adults-en.pdf) by Ontario Health
 
 In addition, you can see how other health systems approach gender affirming care:
-- [Trans Care BC](http://www.phsa.ca/transcarebc/Documents/HealthProf/Primary-Care-Toolkit.pdf)
+- [Trans Care BC](https://www.phsa.ca/transcarebc/Documents/HealthProf/Primary-Care-Toolkit.pdf)
 - [Fenway Health](https://www.lgbthealtheducation.org/publication/transgender-sod/)
-- [University of California, San Francisco](http://transhealth.ucsf.edu/trans?page=guidelines-home)
+- [University of California, San Francisco](https://transhealth.ucsf.edu/trans?page=guidelines-home)
 
 ### Hormone Replacement Therapy (HRT)
 
