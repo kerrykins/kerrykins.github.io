@@ -19,7 +19,7 @@ comments: true
 > Updates are not guaranteed to keep this post up-to-date. I'll try to update it as much as I can.
 {: .prompt-warning }
 
-> Always verify the information, especially when it pertains to your health and wellbeing. 
+> Always verify the information especially when it pertains to your health and wellbeing. 
 {: .prompt-danger }
 
 ## Organisations
