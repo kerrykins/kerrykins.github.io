@@ -190,8 +190,8 @@ Further reading
 | :----- | :----- | :----- |
 | [San Francisco's HRT Guidelines](https://tinyurl.com/5fk43shb) | City Health Guideline | San Francisco's official city guidelines acknowledge the growing community experimental use of SERMs for feminising therapy.
 | [Selective Estrogen Receptor Modulators:<br> A Potential Option For Non-Binary<br> Gender-Affirming Hormonal Care?](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2021.701364/full) | Peer-reviewed Article | Peer-reviewed article written with endocrinologists in a recognised medical journal about the potential use of SERMs for feminising HRT. | 
-| [Gender-affirming endocrine care for youth with a nonbinary gender identity](https://journals.sagepub.com/doi/10.1177/20420188231160405) | Peer-reviewed Article | Peer-reviewed article mentioning SERMs as a potential drug for gender-affirming care.
-| [A Review of Selective Estrogen Receptor Modulators and their Potential for Transfeminine Hormone Therapy](https://transfemscience.org/articles/serms-transfem/) | Community Article | Community-written article about the potential use of SERMs in transfemme hormone therapy. 
+| [Gender-affirming endocrine care for youth <br> with a nonbinary gender identity](https://journals.sagepub.com/doi/10.1177/20420188231160405) | Peer-reviewed Article | Peer-reviewed article mentioning SERMs as a potential drug for gender-affirming care.
+| [A Review of Selective Estrogen Receptor <br> Modulators and their Potential <br> for Transfeminine Hormone Therapy](https://transfemscience.org/articles/serms-transfem/) | Community Article | Community-written article about the potential use of SERMs in transfemme hormone therapy. 
 
 ### GAC Medical Providers In London
 
