@@ -28,9 +28,7 @@ You will be voting for:
 - Your __Ward Councillor__
 - Your __School Board Trustee__
 
-**Note:** With less than 24 hours until voting begins, part 1 is written with providing reliable information as quickly as possible, especially to those that haven't yet read up on their candidates. Thus, I have linked to [London Decides](https://londondecides.ca/files/transit/). This site [states it uses AI research tools to "dig" for sources](https://londondecides.ca/methodology/). Primary sources are provided with most information on the site. Review it as necessary. 
-
-Kerry is not associated with London Decides. 
+**Note:** With less than 24 hours until voting begins, this post is written with providing reliable information as quickly as possible, especially to those that haven't yet read up on their candidates. Thus, I have linked to [London Decides](https://londondecides.ca/files/transit/). This site [states it uses AI research tools to "dig" for sources](https://londondecides.ca/methodology/). Primary sources are provided with most information on the site. Review it as necessary. 
 
 ---
 
