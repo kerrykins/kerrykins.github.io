@@ -41,4 +41,4 @@ At the end of the day, the normalcy of drifting connections is one of those quie
 
 Reach out.\
 Send that meme.\
-Make the trip.\
+Make the trip.
