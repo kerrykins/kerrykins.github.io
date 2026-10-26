@@ -16,27 +16,27 @@ comments: true
 > This piece was written as part of an exercise in an online writing workshop.
 {: .prompt-info }
 
-Have you ever tried building IKEA furniture with a friend without the instructions? It’s a challenge. But what if your friend refuses to believe in Allen keys? Good luck getting anything to stand up straight.
+Have you ever tried building IKEA furniture with a friend but without the instructions? It’s a challenge. What if your friend refuses to believe in Allen keys? Good luck getting anything to stand up straight.
 
-Now, you might think you’re building the same thing – a shelf, perhaps – but if one person tosses the manual out and starts improvising, it’s no longer collaborating. All you’re doing is assembling in parallel and probably getting more confused by the minute. 
+Now, you might think you’re building the same thing. Your receipt says it's a shelf, so it's a shelf. But if one person tosses the manual out and starts improvising? That's no longer collaborating, is it? No, all you’re doing is assembling in parallel and probably getting more confused by the minute. Or infuriated. 
 
-And the only shared and likely outcome? Watching it fall apart. 
+The likely outcome? You all get to watch it fall apart. Hopefully no one is hurt. 
 
-I used to think disagreements were about who had the better facts. Nowadays, we’re lucky if we can agree that facts even exist. Debate feels less like a clash of ideas and more like arguing over a blueprint while the other person is busy re-inventing gravity. At some point, you realise that it’s hard to find common ground when the other person insists the Earth is flat.
+I used to think disagreements were about who had the better facts. Nowadays, we’re lucky if we can agree that facts even exist. Debate feels less like a respectful clash of ideas and more like arguing over a blueprint while the other person is busy re-inventing gravity. At some point, you realise that it’s hard to find common ground when the other person insists the Earth is flat.
 
-Discussion only works when there’s a shared baseline. It is a fundamental premise that we both stand on. It can be named or implied, but it exists. For scientific and policy debates, that baseline is often empirical data. Lately, it feels like even that has come up for negotiation.
+Discussion only works when there’s a shared baseline. It is a fundamental premise that we both stand on. For scientific and policy debates, that baseline is often empirical data. Lately, it feels like even *that* has come up for negotiation.
 
-If we cannot agree that 2 + 2 = 4, then what’s left to talk about?
+There is *nothing* to talk about if we can't agree that 2 + 2 = 4. 
 
-If climate change is just an ‘opinion’, then what exactly are we debating?
+We can't discuss climate change if it's just an ‘opinion’ to you.
 
-And if peer-reviewed research can be dismissed on a whim, then what counts as evidence?
+If peer-reviewed research can be dismissed on a whim, then honestly, I don't know what even is evidence?
 
-Without a shared foundation as a baseline trust in reality, the conversation often becomes moot before it even begins. 
+When we toss out this shared foundation - this baseline of reality - the conversation becomes moot before it even begins. 
 
-It’s like trying to build a bridge with someone who thinks gravity is a hoax. You can bring the best materials and expertise the world has to offer, but if they won’t accept the laws of physics that hold the structure up, it isn’t collaborating on a bridge. It’s standing on opposite cliffs yelling across a canyon.
+You cannot build a bridge with someone who thinks gravity is a hoax. Bring the best materials and expertise the world has to offer, but if they won’t accept the laws of physics that hold the structure up, there's no collaboration. Both of you are just standing on opposite cliffs yelling across a canyon. There's no bridge. There will *never* be a bridge. 
 
-Don’t get me wrong – scientific data is not perfect. But it gives us shared footing. It offers the minimum trust needed to start a conversation about important issues. It’s a belief that we are at least looking at the same terrain. We may interpret the landscape differently, sure, but we’re looking at the same thing.
+Don’t get me wrong though, I'm aware that scientific data is not perfect. But it gives us shared footing. It offers the minimum trust that we both need to start a conversation about important issues. It’s a belief that we are at least looking at the same terrain. We can interpret the landscape differently, sure, but we’re looking at the same terrain. 
 
-Without that shared premise, the dialogue turns into performance, power play, or worse – a distortion meant to exhaust rather than to engage. And that doesn’t move anything forward.
+Without that shared premise though, I've learned that the dialogue likely a distortion meant to exhaust rather than to engage. That's just exhausting. 
 
