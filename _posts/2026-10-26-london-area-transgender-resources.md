@@ -152,11 +152,11 @@ If your PCP feels managing GAC is beyond their clinical competency, **they have 
 
 ### GAC Guidelines
 
-[**Rainbow Health Ontario's Gender Affirming Care Guidelines**](https://www.rainbowhealthontario.ca/wp-content/uploads/2025/08/Guidelines-4th-Edition-2026.pdf)
+#### Guidelines for Ontario
+- [**Rainbow Health Ontario's Gender Affirming Care Guidelines**](https://www.rainbowhealthontario.ca/wp-content/uploads/2025/08/Guidelines-4th-Edition-2026.pdf)
+- [**Quality Standards for Gender-Affirming Care for Gender-Diverse People**](https://www.ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-gender-affirming-care-adults-en.pdf) by Ontario Health
 
-[**Quality Standards for Gender-Affirming Care for Gender-Diverse People**](https://www.ontariohealth.ca/content/dam/ontariohealth/documents/filter-list/qs/qs-gender-affirming-care-adults-en.pdf) by Ontario Health
-
-In addition, you can see how other health systems approach gender affirming care:
+#### Guidelines In Other Healthcare Jurisdictions
 - [Trans Care BC](https://www.phsa.ca/transcarebc/Documents/HealthProf/Primary-Care-Toolkit.pdf)
 - [Fenway Health](https://www.lgbthealtheducation.org/publication/transgender-sod/)
 - [University of California, San Francisco](https://transhealth.ucsf.edu/trans?page=guidelines-home)
@@ -166,8 +166,8 @@ In addition, you can see how other health systems approach gender affirming care
 Under the **informed consent model** (ICM), providers can prescribe hormones without requiring psychological evaluations or a formal diagnosis of gender dysphoria. 
 
 Quick Guides for Hormone Therapy
-- Feminising HRT: [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html) | [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf)
-- Masculinising HRT: [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html) | [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_mascHT_rev2021.pdf)
+| Feminising HRT| [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html) <br> [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf)
+| Masculinising HRT| [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html) <br> [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_mascHT_rev2021.pdf)
 
 HRT is not a one-size-fits-all protocol. Bodies process hormones differently; providers are recommended to adjust medications based on your goals, risk profile, and responses.
 
@@ -188,17 +188,16 @@ Further reading:
 
 Below is a list of clinics/medical professionals that offer GAC in London, Ontario. __Check with the office as intake may be closed.__
 
-- [Gender Pathways Service](https://www.lhsc.on.ca/gender-pathways-service)
-  - 17yo or younger only
-- Primary Care
-  - [London Intercommunity Health Centre](https://lihc.on.ca/programs-services/gender-care/) (16+, Intake CLOSED)
-  - Dr. AJ MacDonald (519-433-2996)
-- Endocrinologists
-  - Dr. Emily Brennan (519-601-8621)
-  - Dr. Julia Creider (519-850-3234)
-  - Dr. Stanislaus Van Uum (519-646-6170)
-  - Dr. Ranjit Singarayer (226-680-0802)
-- [Foria Clinic](https://www.foriaclinic.com/) - virtual care
+| Name of Service | Type of Provider | Contact Information | Additional Details |
+| :------- | :------- | :------ | :------- |
+| [Gender Pathways Service](https://www.lhsc.on.ca/gender-pathways-service) | Multidisciplinary |  | 17yo or younger only |
+| [Gender Care at London InterCommunity Health Centre (LIHC)](https://lihc.on.ca/programs-services/gender-care/) | Primary Care  |  | 16+ only <br> Intake CLOSED |
+| Dr. AJ MacDonald | Primary Care | 519-433-2996 |  |
+| Dr. Emily Brennan | Endocrinologist | 519-850-3234 |  |
+| Dr. Julia Creider | Endocrinologist | 519-601-8621 |  |
+| Dr. Stanislaus Van Uum | Endocrinologist | 519-646-6170 |  |
+| Dr. Ranjit Singarayer | Endocrinologist | 226-680-0802 |  |
+| [Foria Clinic](https://www.foriaclinic.com/) | Virtual Clinic |  |  |
 
 ### Transition-Related Surgeries (TRS)
 
