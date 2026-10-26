@@ -8,7 +8,7 @@ tags: [Info, Trans]
 pin: false
 math: true
 mermaid: true
-toc: false
+toc: true
 comments: true
 
 ---
@@ -25,10 +25,11 @@ comments: true
 ## Organisations
 
 ### London Region Organisations
-| Organisation                      | Description          |
-| :--------------------------- | :--------------- |
-| [London InterCommunity Health Centre](https://lihc.on.ca/resources/gender-affirming-and-lgbtq2s-sexual-health-supports/)          |      |
-| [pflag Canada (London)](https://www.pflaglondon.ca/)         |     |
+
+| Organisation  | Description |
+| :---------------- | :----------- |
+| [London InterCommunity Health Centre](https://lihc.on.ca/resources/gender-affirming-and-lgbtq2s-sexual-health-supports/) | |
+| [pflag Canada (London)](https://www.pflaglondon.ca/) |  |
 | [Pride London](https://pridelondon.ca/) |  |
 | [Queer Intersections (QX)](https://www.qxcanada.org/) |  |
 | [Queer Nexus](https://www.facebook.com/share/1DySC93LQn/)  |  |
