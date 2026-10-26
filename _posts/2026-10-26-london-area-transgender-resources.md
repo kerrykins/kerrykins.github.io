@@ -1,5 +1,5 @@
 ---
-title: Trans-Related Resources for London Ontario
+title: 🏳️‍⚧️ Trans-Related Resources for London Ontario 🏳️‍⚧️
 description: A list of resources for trans folx living in London, Ontario
 author: kerrykins
 date: 2026-10-26 00:00:00 -0400
@@ -13,7 +13,7 @@ comments: true
 
 ---
 
-> This was written as part of a resource post for a local Discord server for Trans Awareness Month 2026.
+> This was written as part of a resource post for a local Discord server for Trans Awareness Month 2026 🏳️‍⚧️.
 {: .prompt-info }
 
 > Updates are not guaranteed to keep this post up-to-date. I'll try to update it as much as I can.
