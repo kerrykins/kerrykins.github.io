@@ -167,16 +167,16 @@ Under the **informed consent model** (ICM), providers can prescribe hormones wit
 
 Quick Guides for Hormone Therapy
 
-| Feminising HRT| [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html) <br> [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf) |
-| Masculinising HRT| [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html) <br> [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_mascHT_rev2021.pdf) |
+| Feminising HRT| [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html) | [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf) |
+| Masculinising HRT| [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html) | [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_mascHT_rev2021.pdf) |
 
-: Feminising HRT: [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html) || [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf)
+: Feminising HRT: [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html) & [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf)
 
 HRT is not a one-size-fits-all protocol. Bodies process hormones differently; providers are recommended to adjust medications based on your goals, risk profile, and responses.
 
 #### Non-Binary Considerations
 
-Official guidelines lack regimens for tailored outcomes for non-binary people. Many providers defer to 'micro-dosing' standard regimens. 
+Official guidelines lack regimens for tailored outcomes for non-binary people. Many providers defer to 'micro-dosing' standard regimens. This can be challenging for non-binary people seeking specific goals. 
 
 For non-binary people seeking feminisation w/o breast growth, experimental approaches exist in the community (e.g., SERMs) but strictly outside of guidelines.  Pursuing such approaches will require intense self-advocacy, such as providing existing medical literature and engaging in shared risk-assessment to reach a conclusion. 
 
