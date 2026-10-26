@@ -167,9 +167,10 @@ Under the **informed consent model** (ICM), providers can prescribe hormones wit
 
 Quick Guides for Hormone Therapy
 
-| :---- | :---------------- |
 | Feminising HRT| [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html) <br> [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf) |
 | Masculinising HRT| [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html) <br> [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_mascHT_rev2021.pdf) |
+
+: Feminising HRT: [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html) || [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf)
 
 HRT is not a one-size-fits-all protocol. Bodies process hormones differently; providers are recommended to adjust medications based on your goals, risk profile, and responses.
 
