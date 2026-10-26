@@ -1,7 +1,6 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-<<<<<<< HEAD
 order: 1
 ---
 
@@ -20,10 +19,3 @@ This is where I make sense of the world, myself, and all the awkward queer littl
 
 Come for the reflections. Stay for the existential puns 8). 
 
-=======
-order: 4
----
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
->>>>>>> v7.6.0
