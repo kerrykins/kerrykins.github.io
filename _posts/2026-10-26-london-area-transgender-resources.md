@@ -4,7 +4,7 @@ description: A list of resources for trans folx living in London, Ontario
 author: kerrykins
 date: 2026-10-26 00:00:00 -0400
 categories: [Information]
-tags: [Info, Trans]
+tags: [Info, Trans, LGBTQ+]
 pin: false
 math: true
 mermaid: true
@@ -174,8 +174,6 @@ Quick Guides for Hormone Therapy
 | Feminising HRT| [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html) | [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf) |
 | Masculinising HRT| [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html) | [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_mascHT_rev2021.pdf) |
 
-
-
 #### Non-Binary Considerations
 
 Official guidelines lack regimens for tailored outcomes for non-binary people. Many providers defer to 'micro-dosing' standard regimens. This can be challenging for non-binary people seeking specific goals. 
@@ -188,10 +186,10 @@ Further reading
 
 | Title | Type | Additional Details |
 | :----- | :----- | :----- |
-| [San Francisco's HRT Guidelines](https://tinyurl.com/5fk43shb) | City Health Guideline | San Francisco's official city guidelines <br> acknowledge the growing community <br> experimental use of SERMs for feminising therapy.
+| [San Francisco's HRT Guidelines](https://tinyurl.com/5fk43shb) | City Health Guideline | San Francisco's official city guidelines <br> acknowledge the growing community <br> experimental use of SERMs for feminising <br> therapy.
 | [Selective Estrogen Receptor Modulators:<br> A Potential Option For Non-Binary<br> Gender-Affirming Hormonal Care?](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2021.701364/full) | Peer-reviewed Article | Peer-reviewed article written with <br> endocrinologists in a recognised medical <br> journal about the potential use of SERMs <br> for feminising HRT. | 
-| [Gender-affirming endocrine care for youth <br> with a nonbinary gender identity](https://journals.sagepub.com/doi/10.1177/20420188231160405) | Peer-reviewed Article | Peer-reviewed article mentioning SERMs as a potential drug for gender-affirming care.
-| [A Review of Selective Estrogen Receptor <br> Modulators and their Potential <br> for Transfeminine Hormone Therapy](https://transfemscience.org/articles/serms-transfem/) | Community Article | Community-written article about the <br> potential use of SERMs in <br> transfemme hormone therapy. 
+| [Gender-affirming endocrine care for youth <br> with a nonbinary gender identity](https://journals.sagepub.com/doi/10.1177/20420188231160405) | Peer-reviewed Article | Peer-reviewed article mentioning <br> SERMs as a potential drug for <br> gender-affirming care.
+| [A Review of Selective Estrogen Receptor <br> Modulators and their Potential <br> for Transfeminine Hormone Therapy](https://transfemscience.org/articles/serms-transfem/) | Community Article | Community-written article about the <br> potential use of SERMs in transfemme <br> hormone therapy. 
 
 ### GAC Medical Providers In London
 
