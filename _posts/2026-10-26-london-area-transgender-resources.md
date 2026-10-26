@@ -77,7 +77,7 @@ comments: true
 | :---------------- | :----------- |
 | Reddit | [**r/transontario**](https://www.reddit.com/r/transontario/), [r/mtf](https://www.reddit.com/r/mtf), [r/ftm](https://www.reddit.com/r/ftm),<br> [r/lgbt](https://www.reddit.com/r/lgbt), [r/trans](https://www.reddit.com/r/trans), [r/transtimelines](https://www.reddit.com/r/transtimelines),<br> [r/transgenderteens](https://www.reddit.com/r/transgenderteens), [r/transgender](https://www.reddit.com/r/transgender), [r/nonbinary](https://www.reddit.com/r/nonbinary), [r/genderqueer](https://www.reddit.com/r/genderqueer),<br> [r/TransSpace](https://www.reddit.com/r/transspace), [r/transprogrammer](https://www.reddit.com/r/transprogrammer), [r/Mtf_irl](https://www.reddit.com/r/mtf_irl) |
 | Facebook | [London (Ontario) LGBT Community](https://www.facebook.com/groups/queerlondon) |
-| Discord |  Queer Nexus<br> [r/TransOntario](https://discord.gg/A23m6CczT7) |
+| Discord |  [Queer Nexus](https://discord.gg/nR9qrjZCHG) <br> [r/TransOntario](https://discord.gg/A23m6CczT7) |
 
 ## Resources
 
@@ -167,8 +167,9 @@ Under the **informed consent model** (ICM), providers can prescribe hormones wit
 
 Quick Guides for Hormone Therapy
 
-| Feminising HRT| [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html) <br> [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf)
-| Masculinising HRT| [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html) <br> [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_mascHT_rev2021.pdf)
+| :---- | :---------------- |
+| Feminising HRT| [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html) <br> [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf) |
+| Masculinising HRT| [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html) <br> [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_mascHT_rev2021.pdf) |
 
 HRT is not a one-size-fits-all protocol. Bodies process hormones differently; providers are recommended to adjust medications based on your goals, risk profile, and responses.
 
@@ -208,7 +209,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | Organisation | Information | Additional Details | 
 | :---- | :------------ | :------ |
 | Rainbow Health Ontario | [TRS Summary Sheets](https://www.rainbowhealthontario.ca/wp-content/uploads/2024/09/Gender-Affirming-Surgery-Summary-Sheets-Series-1.pdf) | Information about breast augmentation, top surgery, vaginoplasty, <br> hysterectomy & salpingo-oophorectomy, phalloplasty, metoidioplasty, <br> orchiectomy, and a surgery preparation guide. 
- | [Referrals, Letters, Surgery](https://www.rainbowhealthontario.ca/TransHealthGuide/resources-referralsadvocacy.html) | | 
+| Rainbow Health Ontario | [Referrals, Letters, Surgery](https://www.rainbowhealthontario.ca/TransHealthGuide/resources-referralsadvocacy.html) | | 
 | Women's College Hospital | [TRS Information](https://www.womenscollegehospital.ca/care-programs/surgery/transition-related-surgery/) |  | 
   
 ### Accessing TRS
