@@ -208,7 +208,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 
 | Organisation | Information | Additional Details | 
 | :---- | :------------ | :------ |
-| Rainbow Health Ontario | [TRS Summary Sheets](https://www.rainbowhealthontario.ca/wp-content/uploads/2024/09/Gender-Affirming-Surgery-Summary-Sheets-Series-1.pdf) | Information about breast augmentation, top surgery, vaginoplasty, <br> hysterectomy & salpingo-oophorectomy, phalloplasty, metoidioplasty, <br> orchiectomy, and a surgery preparation guide. 
+| Rainbow Health Ontario | [TRS Summary Sheets](https://www.rainbowhealthontario.ca/wp-content/uploads/2024/09/Gender-Affirming-Surgery-Summary-Sheets-Series-1.pdf) | Information about breast augmentation, top surgery, <br> vaginoplasty, hysterectomy & salpingo-oophorectomy, <br> phalloplasty, metoidioplasty, orchiectomy, <br> and a surgery preparation guide. 
 | Rainbow Health Ontario | [Referrals, Letters, Surgery](https://www.rainbowhealthontario.ca/TransHealthGuide/resources-referralsadvocacy.html) | | 
 | Women's College Hospital | [TRS Information](https://www.womenscollegehospital.ca/care-programs/surgery/transition-related-surgery/) |  | 
   
