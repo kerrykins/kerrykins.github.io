@@ -188,10 +188,10 @@ Further reading
 
 | Title | Type | Additional Details |
 | :----- | :----- | :----- |
-| [San Francisco's HRT Guidelines](https://tinyurl.com/5fk43shb) | City Health Guideline | San Francisco's official city guidelines acknowledge the growing community experimental use of SERMs for feminising therapy.
-| [Selective Estrogen Receptor Modulators:<br> A Potential Option For Non-Binary<br> Gender-Affirming Hormonal Care?](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2021.701364/full) | Peer-reviewed Article | Peer-reviewed article written with endocrinologists in a recognised medical journal about the potential use of SERMs for feminising HRT. | 
+| [San Francisco's HRT Guidelines](https://tinyurl.com/5fk43shb) | City Health Guideline | San Francisco's official city guidelines <br> acknowledge the growing community <br> experimental use of SERMs for feminising therapy.
+| [Selective Estrogen Receptor Modulators:<br> A Potential Option For Non-Binary<br> Gender-Affirming Hormonal Care?](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2021.701364/full) | Peer-reviewed Article | Peer-reviewed article written with <br> endocrinologists in a recognised medical <br> journal about the potential use of SERMs <br> for feminising HRT. | 
 | [Gender-affirming endocrine care for youth <br> with a nonbinary gender identity](https://journals.sagepub.com/doi/10.1177/20420188231160405) | Peer-reviewed Article | Peer-reviewed article mentioning SERMs as a potential drug for gender-affirming care.
-| [A Review of Selective Estrogen Receptor <br> Modulators and their Potential <br> for Transfeminine Hormone Therapy](https://transfemscience.org/articles/serms-transfem/) | Community Article | Community-written article about the potential use of SERMs in transfemme hormone therapy. 
+| [A Review of Selective Estrogen Receptor <br> Modulators and their Potential <br> for Transfeminine Hormone Therapy](https://transfemscience.org/articles/serms-transfem/) | Community Article | Community-written article about the <br> potential use of SERMs in <br> transfemme hormone therapy. 
 
 ### GAC Medical Providers In London
 
@@ -202,8 +202,8 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 
 | Name of Service | Type of Provider | Contact Information | Additional Details |
 | :------- | :------- | :------ | :------- |
-| [Gender Pathways Service](https://www.lhsc.on.ca/gender-pathways-service) | Multidisciplinary |  | 17yo or younger only |
-| [Gender Care at LIHC](https://lihc.on.ca/programs-services/gender-care/) | Primary Care  |  | 16+ only <br> Intake CLOSED |
+| [Gender Pathways Service](https://www.lhsc.on.ca/gender-pathways-service) | Multidisciplinary | gps@lhsc.on.ca | 17yo or younger only |
+| [Gender Care at LIHC](https://lihc.on.ca/programs-services/gender-care/) | Primary Care  | 519-660-0874 ext. 3  <br>  transhealth@lihc.on.ca | 16+ only <br> Intake CLOSED |
 | Dr. AJ MacDonald | Primary Care | 519-433-2996 |  |
 | Dr. Emily Brennan | Endocrinologist | 519-850-3234 |  |
 | Dr. Julia Creider | Endocrinologist | 519-601-8621 |  |
