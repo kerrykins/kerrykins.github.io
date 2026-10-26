@@ -25,11 +25,8 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
-<<<<<<< HEAD
-=======
 
 # Hidden system files
 *~
 .DS_Store
 Thumbs.db
->>>>>>> v7.6.0
