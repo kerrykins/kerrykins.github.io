@@ -36,6 +36,7 @@ comments: true
 | [Wortley Pride](https://wortleypride.com/)  |  |
 
 #### Western University Organisations
+
 | Organisation                      | Description          |
 | :--------------------------- | :--------------- |
 | [SOGS Pride](https://www.instagram.com/sogs.pride/)       |      |
@@ -43,3 +44,34 @@ comments: true
 | [Huron Pride](https://www.instagram.com/huronprideclub/)  |  |
 | [Western EDI](https://www.edi.uwo.ca/) |  |
 | [Pride USC](https://westernusc.ca/services/pride-usc/) | |
+
+#### Fanshawe College Organisations
+
+### Ontario Organisations
+
+| Organisation  | Description |
+| :---------------- | :----------- |
+| [Welcome Friend Association](https://welcomefriend.ca/) | Serving the LGBTQ+ community but has deep roots in Northern Ontario |
+| [Rainbow Health Ontario](https://www.rainbowhealthontario.ca/) |  |
+| [Trans Wellness Ontario](https://www.transwellness.ca/) |  |
+
+### Canadian Organisations
+
+| Organisation  | Description |
+| :---------------- | :----------- |
+| [Eagle Canada](https://egale.ca/) | |
+| [pflag Canada](https://pflagcanada.ca/) |  |
+| [Canadian Centre for Diversity and Inclusion](https://ccdi.ca/en) |  |
+| [Momentum Canada](https://www.momentumcanada.net/) |  |
+| [Canadian Professional Association for Transgender Health](http://cpath.ca/en/)  |  |
+| [Trans Lifeline](https://translifeline.org/)  |  |
+| [Safer Project](https://saferproject.ca/) |  |
+| [Welcome Friend Association](https://welcomefriend.ca/) |  |
+| [Canadian Aids Society](https://www.cdnaids.ca/) |  |
+| [Trans Wellness Initiative (Alberta-focused)](https://transwellnessinitiative.ca/) | |
+| [Justice Trans](https://justicetrans.org/)  |  |
+
+
+## Social Media and Online Groups
+
+
