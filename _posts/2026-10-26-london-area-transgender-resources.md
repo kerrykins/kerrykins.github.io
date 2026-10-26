@@ -186,7 +186,10 @@ Further reading:
 
 ### GAC Medical Providers In London
 
-Below is a list of clinics/medical professionals that offer GAC in London, Ontario. __Check with the office as intake may be closed.__
+Below is a list of clinics/medical professionals that offer GAC in London, Ontario. 
+
+> Check with the office as intake may be closed.
+{: .prompt-warning }
 
 | Name of Service | Type of Provider | Contact Information | Additional Details |
 | :------- | :------- | :------ | :------- |
@@ -201,10 +204,11 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 
 ### Transition-Related Surgeries (TRS)
 
-- Rainbow Health Ontario
-  - [**TRS Summary Sheets**](https://www.rainbowhealthontario.ca/wp-content/uploads/2024/09/Gender-Affirming-Surgery-Summary-Sheets-Series-1.pdf) with information about breast augmentation, top surgery, vaginoplasty, hysterectomy & salpingo-oophorectomy, phalloplasty, metoidioplasty, orchiectomy, and a surgery preparation guide. 
-  - [Referrals, Letters, Surgery](https://www.rainbowhealthontario.ca/TransHealthGuide/resources-referralsadvocacy.html)
-  - [TRS Information](https://www.womenscollegehospital.ca/care-programs/surgery/transition-related-surgery/) - Women's College Hospital
+| Organisation | Information | Additional Details | 
+| :---- | :------------ | :------ |
+| Rainbow Health Ontario | [TRS Summary Sheets](https://www.rainbowhealthontario.ca/wp-content/uploads/2024/09/Gender-Affirming-Surgery-Summary-Sheets-Series-1.pdf) | Information about breast augmentation, top surgery, vaginoplasty, <br> hysterectomy & salpingo-oophorectomy, phalloplasty, metoidioplasty, <br> orchiectomy, and a surgery preparation guide. 
+| | [Referrals, Letters, Surgery](https://www.rainbowhealthontario.ca/TransHealthGuide/resources-referralsadvocacy.html) | | 
+| Women's College Hospital | [TRS Information](https://www.womenscollegehospital.ca/care-programs/surgery/transition-related-surgery/) |  | 
   
 ### Accessing TRS
 
