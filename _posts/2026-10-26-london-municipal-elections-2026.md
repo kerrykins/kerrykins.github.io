@@ -19,7 +19,9 @@ comments: true
 ## Municipal Election
 
 > The next municipal election will be held on **Monday, October 26, 2026**, with voting hours from **10 a.m. to 8 p.m.**
-{: .prompt: info }
+{: .prompt-info }
+
+![Desktop View](/images/londonlogo.png){: width="972" height="589" .w-50 .right}
 
 You will be voting for:
 - __Mayor__
