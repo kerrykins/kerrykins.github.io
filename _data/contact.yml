@@ -1,5 +1,24 @@
 #  The contact options.
 
+<<<<<<< HEAD
+- # type: github
+  # icon: "fab fa-github"
+
+- # type: twitter
+  # icon: "fa-brands fa-x-twitter"
+  
+-  #type: discord
+   #icon: "fa-brands fa-discord"
+   #url:  'https://discord.gg/Ems3HPs7Kt'
+
+-  # type: googlesheets
+   # icon: "fa-solid fa-file-lines"
+   # url:  'https://docs.google.com/spreadsheets/d/1yruogyNokee0M023ooX0PPxb2-KDJNWCthTRRJjhK_4/edit#gid=737946275'
+
+#- type: rss
+  #icon: "fas fa-rss"
+  #noblank: true
+=======
 - type: github
   icon: "fab fa-github"
 
@@ -13,6 +32,7 @@
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+>>>>>>> v7.6.0
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
