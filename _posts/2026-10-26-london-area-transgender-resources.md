@@ -91,8 +91,9 @@ comments: true
 ### Social Transitioning
 
 - [**What does social transition mean?**](https://www.rainbowhealthontario.ca/trans-health-knowledge-base/what-does-social-transition-mean/)
-- Social Transition Tools
-  - [Transfeminine](https://tinyurl.com/566p6u4v) | [Transmasculine](https://tinyurl.com/mvs4w294)
+- Social Transition Tools for:
+  - [Transfeminine Folx](https://tinyurl.com/566p6u4v)
+  - [Transmasculine Folx](https://tinyurl.com/mvs4w294)
   
 ### Changing Your Legal Documents
 
