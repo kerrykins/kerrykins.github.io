@@ -150,7 +150,7 @@ Accessing medical gender affirming health care (GAC) usually begins with your pr
 
 If your PCP feels managing GAC is beyond their clinical competency, **they have a professional obligation to provide a timely and effective referral to a qualified medical professional.** You cannot be denied care or a referral based on a provider's personal, moral, or religious beliefs. 
 
-### Gender Affirming Care Guidelines
+### GAC Guidelines
 
 [**Rainbow Health Ontario's Gender Affirming Care Guidelines**](https://www.rainbowhealthontario.ca/wp-content/uploads/2025/08/Guidelines-4th-Edition-2026.pdf)
 
@@ -171,7 +171,7 @@ Quick Guides for Hormone Therapy
 
 HRT is not a one-size-fits-all protocol. Bodies process hormones differently; providers are recommended to adjust medications based on your goals, risk profile, and responses.
 
-### Non-Binary Considerations
+#### Non-Binary Considerations
 
 Official guidelines lack regimens for tailored outcomes for non-binary people (enbies). Many providers defer to 'micro-dosing' standard regimens. 
 
@@ -184,7 +184,7 @@ Further reading:
 - Peer-reviewed article in recognised medical journals discussing SERMs: [Article 1](https://tinyurl.com/jcuefvsj) | [Article 2](https://tinyurl.com/2ryhpbna)
 - [Transfeminine Science](https://transfemscience.org/articles/serms-transfem)
 
-### Gender Affirming Care Medical Providers In London
+### GAC Medical Providers In London
 
 Below is a list of clinics/medical professionals that offer GAC in London, Ontario. __Check with the office as intake may be closed.__
 
@@ -207,7 +207,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
   - [Referrals, Letters, Surgery](https://www.rainbowhealthontario.ca/TransHealthGuide/resources-referralsadvocacy.html)
   - [TRS Information](https://www.womenscollegehospital.ca/care-programs/surgery/transition-related-surgery/) - Women's College Hospital
   
-### Accessing Transition-Related Surgeries
+### Accessing TRS
 
 Unlike HRT's informed consent model, OHIP-funded surgeries require provincial approval. Different surgeries require different formal surgical assessments (e.g., chest surgeries require one assessment whereas bottom surgeries require two). 
 
