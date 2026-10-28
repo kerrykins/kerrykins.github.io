@@ -12,7 +12,6 @@ toc: false
 comments: true
 image: 
 	lqip: /images/wow9.png
-
 ---
 
 ![Desktop View](/images/wow6.jpg){: width="972" height="589"}
