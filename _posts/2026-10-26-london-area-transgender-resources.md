@@ -38,7 +38,7 @@ I wish to thank the author of the *Gender Affirming Resources Ontario* spreadshe
 
 Use the table of contents to the right to jump to sections. 
 
-The first four sections (Gender Affirming Resources Ontario Spreadsheet, Organisations, Resources, and Accessing Medical Gender Affirming Care) contains general information that is relevant in London as it is in another Ontario city. Thus, you should expect links to sites and organisations that operates province (or even country) wide. 
+The first four sections (Gender Affirming Resources Ontario Spreadsheet, Organisations, Resources, and Accessing Medical Gender Affirming Care) contain general information that is as relevant in London as it is in another Ontario city. Thus, you should expect links to sites and organisations that operates province (or even country) wide. 
 
 The last section only lists London specific resources. If you are only interested in this, use the table of contents to navigate to this quickly. 
 
@@ -298,9 +298,11 @@ WIP
 
 **WIP**
 
-**All events listed are queer-friendly.** 
-🏳️‍⚧ are events specifically for the trans community (including non-binary and other gender-diverse folx) <br> 
-🔞 are events that are 18+
+> **All events listed are queer-friendly.** <br>
+> 🏳️‍⚧ are events specifically for the trans community (including non-binary and other gender-diverse folx) <br> 
+> 🔞 are events that are 18+
+{: .prompt-tip }
+
 
 | Event Name | Type of Event | Date & Time | Location | Cost | Notes |
 | :------ | :------ | :------ | :------ | :------ | :------ | :------ | 
@@ -317,5 +319,9 @@ WIP
 | Karaoke for Homosexuals <br> *by Honey Dip* | Social | | | | | |
 | Social Run <br> *by Frontrunners* | Social <br> Sports & Rec | Tuesday 5:30pm <br> Saturday 9:00am | London Bicycle Cafe | Free| |
 | Trans & NB Munch <br> 🔞 🏳️‍⚧️ | Social | 2nd Saturday <br> 3:30pm-5:30pm | See notes. | Free | Contact organisers for location. <br> Prior approval needed. |
+
+### Food Support
+
+WIP
 
 
