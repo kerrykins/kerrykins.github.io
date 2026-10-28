@@ -294,19 +294,20 @@ WIP
 
 **WIP**
 
-| Event Name | Type of Event | Organiser | Date & Time | Demographic | Description |
-| London Lesbian Film Festival | | | | | | 
-| Aeolian Pride Choruses | | | | | | 
-| Trans* London Social | Social | pflag London | | | | 
-| Trans Collective  | Social | pflag London | | | | 
-| Queerdos  | Social | pflag London | | | | 
-| Parents & Caregivers Group | Support | pflag London | | | |
-| Queer Sewcial | Social | QX | | | |
-| Monthly Hike | Social | QX | | | |
-| Book Club | Social | QX | | | |
-| Karaoke for Homosexuals | Social | Honey Dip | | | |
-| Social Run | Social | Frontrunners London ON | London Bicycle Cafe | | |
-| Trans & NB Munch | Social | | | | 18+ event <br> Must contact organisers for event location and approval. |
+| Event Name | Type of Event | Organiser | Date & Time | Demographic | Cost | Description |
+| :------ | :------ | :------ | :------ | :------ | :------ | :------ | 
+| London Lesbian Film Festival | | | | | | |
+| Aeolian Pride Choruses | | | | | | |
+| Trans* London Social | Social | pflag London | | | Free | |
+| Trans Collective  | Social | pflag London | | | Free | |
+| Queerdos  | Social | pflag London | | | Free | |
+| Parents & Caregivers Group | Support | pflag London | | | Free | |
+| Queer Sewcial | Social | QX | | | Free | |
+| Monthly Hike | Social <br> Sports & Rec | QX | | | Free | |
+| Book Club | Social | QX | | | Free | |
+| Karaoke for Homosexuals | Social | Honey Dip | | | | |
+| Social Run | Social <br> Sports & Rec | Frontrunners London ON | London Bicycle Cafe | | Free | |
+| Trans & NB Munch | Social | | | | Free | 18+ event <br> Must contact organisers for event location and approval. |
 
 
 ## Acknowledgements
