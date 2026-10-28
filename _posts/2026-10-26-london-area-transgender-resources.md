@@ -166,10 +166,6 @@ As of the updating of this article (check the update time at the top), the sprea
 | World Professional Association <br> for Transgender Health (WPATH) | [Standards of Care](https://wpath.org/publications/soc8/) <br> [International Journal of Transgender Health](https://wpath.org/publications/ijth/)
 | Transfeminine Science | [An Introduction to Hormone Therapy for Transfeminine People](https://transfemscience.org/articles/transfem-intro/) <br>  | 
 
-
-
-- [Transfemme Science](https://transfemscience.org/)
-
 ### For Parents
 
 - [My Kid Came Out To Me! What now?](https://london.ca/sites/default/files/2024-10/My%20Kid%20Came%20Out%20To%20Me.pdf)
@@ -396,7 +392,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | :------ | :------ | :------ | :------ | :------ | :------ | :------ | 
 | London Lesbian Film Festival | | | | | | |
 | Aeolian Pride Choruses | | | | | | |
-| Trans* London Social <br> 🏳️‍⚧️ <br> *by pflag London*| Social | 4th Wednesday | See notes. | Free | Contact organisers for location.|
+| Trans* London Social <br> 🏳️‍⚧️ <br> *by pflag London*| Social | 4th Wednesday <br> 6pm-8:30pm | See notes. | Free | Contact organisers for location.|
 | Trans Collective <br> 🏳️‍⚧️ <br> *by pflag London* | Social | 1st Wednesday <br> 6pm-8:30pm | See notes. | Free | Contact organisers for location. |
 | Queerdos <br> *by pflag London* | Social | | See notes. | Free | Contact organisers for location. |
 | Parents & Caregivers Group <br> *by pflag London*| Support | | See notes. | Free |  Contact organisers for location.|
