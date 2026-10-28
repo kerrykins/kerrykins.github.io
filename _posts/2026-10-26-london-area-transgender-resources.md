@@ -16,7 +16,7 @@ comments: true
 > This was written as part of a resource post for a local Discord server for Trans Awareness Month 2026 🏳️‍⚧️. Updates are not guaranteed to keep this post up-to-date.
 {: .prompt-info }
 
-> **Current Status**: Working on verifying and adding London-specific resources for:
+> **Current Status (10/28/26)**: Working on verifying and adding London-specific resources for:
 - Compounding Pharmacies
 - Permanent Hair Removal
 - Trans-friendly Psychotherapists
@@ -65,11 +65,11 @@ This post serves to support and supplement information found in the spreadsheet,
 
 | Organisation                      | Description          |
 | :--------------------------- | :--------------- |
-| [SOGS Pride](https://www.instagram.com/sogs.pride/)       |      |
+| [SOGS Pride](https://www.instagram.com/sogs.pride/)       | Pride commission that is part of the Society of Graduate Students (SOGS) at Western University.    |
 | [Spectrum UWO](https://www.instagram.com/officialspectrumuwo/)       |     |
-| [Huron Pride](https://www.instagram.com/huronprideclub/)  |  |
+| [Huron Pride](https://www.instagram.com/huronprideclub/)  | Pride club at Huron University College at Western University.  |
 | [Western EDI](https://www.edi.uwo.ca/) |  |
-| [Pride USC](https://westernusc.ca/services/pride-usc/) | |
+| [Pride USC](https://westernusc.ca/services/pride-usc/) | Pride commission that is part of the University Students' Council (undergraduates). |
 
 #### Fanshawe College Organisations
 
@@ -105,7 +105,9 @@ This post serves to support and supplement information found in the spreadsheet,
 
 ## Resources
 
-### Beginning Your Transition
+### Transitioning
+
+#### Beginning Your Transition
 
 - [**Transgender Map**](https://www.transgendermap.com/)
   - [Making a Gender Transition](https://www.transgendermap.com/welcome/for-trans-people/)
@@ -113,14 +115,14 @@ This post serves to support and supplement information found in the spreadsheet,
 - [Gender Affirming Hormone Therapy (GAHT) FAQ](https://www.rainbowhealthontario.ca/wp-content/uploads/2025/08/RHO-GAHT-FAQ.pdf)
 - [An Introduction to Hormone Therapy for Transfeminine People](https://transfemscience.org/articles/transfem-intro/)
 
-### Social Transitioning
+#### Social Transitioning
 
 - [**What does social transition mean?**](https://www.rainbowhealthontario.ca/trans-health-knowledge-base/what-does-social-transition-mean/)
 - Social Transition Tools for:
   - [Transfeminine Folx](https://tinyurl.com/566p6u4v)
   - [Transmasculine Folx](https://tinyurl.com/mvs4w294)
   
-### Changing Your Legal Documents
+#### Changing Your Legal Documents
 
 - [Things To Know Before Changing Name or Sex Marker on IDs](https://tinyurl.com/4u5ctus6)
 - For name or sex marker changes on a:
@@ -130,12 +132,12 @@ This post serves to support and supplement information found in the spreadsheet,
   - [Driver's License or Photo Card](https://tinyurl.com/yc3jf62c)
 - [Other Places to Change Name Other Than Government IDs](https://tinyurl.com/4whtczpr)
 
-### Coming Out
+#### Coming Out
 
 - [How Do I Come Out?](https://egale.ca/awareness/coming-out-resource/)
 - [The Coming Out Handbook](https://www.thetrevorproject.org/resources/guide/the-coming-out-handbook/)
 
-### Medical Resources
+### Medical Transition (HRT & Surgeries) 
 
 > Always verify the information especially when it pertains to your health and wellbeing. Always consult a medical professional. 
 {: .prompt-danger }
@@ -164,14 +166,14 @@ This post serves to support and supplement information found in the spreadsheet,
 - Try-U (The Rainbow Youth Umbrella) - email [TRYULondon@gmail.com](mailto:TRYULondon@gmail.com)
 - [Finding a Affirmative Therapist (for LGBTQ+ Youth)](https://www.projectyouthaffirm.org/resources-blog/supporting-lgbtq-youth-through-affirmative-care-finding-a-affirmative-therapist-for-lgbtq-youth)
 
-### General Resources
+### Other Resources
 
 - [Trans Health Knowledge Base](https://www.rainbowhealthontario.ca/2slgbtq-health/trans-health-knowledge-base/)
 - [Key Transgender Support Resources](https://www.cdnaids.ca/key-transgender-support-resources/)
 - [Canada Transgender Resources](https://www.transgendermap.com/guidance/resources/canada/)
 - [Resources About Gender Identity](https://www.thetrevorproject.org/resources/category/gender-identity/)
 
-## Accessing Medical Gender Affirming Care in London
+## Accessing Medical Gender Affirming Care
 
 **Gender affirming medical care** (GAC) includes a range of treatments such as hormone therapy, voice training, surgeries, and permanent hair removal. However, this part will focus specifically on hormone replacement therapy (HRT) and OHIP-funded surgeries. 
 
@@ -220,7 +222,25 @@ On the other hand, RHO recognises individualised approaches for non-binary peopl
 | [Gender-affirming endocrine care for youth <br> with a nonbinary gender identity](https://journals.sagepub.com/doi/10.1177/20420188231160405) | Peer-reviewed Article | Peer-reviewed article mentioning <br> SERMs as a potential drug for <br> gender-affirming care.
 | [A Review of Selective Estrogen Receptor <br> Modulators and their Potential <br> for Transfeminine Hormone Therapy](https://transfemscience.org/articles/serms-transfem/) | Community Article | Community-written article about the <br> potential use of SERMs in transfemme <br> hormone therapy. 
 
-### GAC Medical Providers In London
+### Transition-Related Surgeries (TRS)
+
+| Organisation | Information | Additional Details | 
+| :---- | :------------ | :------ |
+| Rainbow Health Ontario | [TRS Summary Sheets](https://www.rainbowhealthontario.ca/wp-content/uploads/2024/09/Gender-Affirming-Surgery-Summary-Sheets-Series-1.pdf) | Information about breast augmentation, top surgery, <br> vaginoplasty, hysterectomy & salpingo-oophorectomy, <br> phalloplasty, metoidioplasty, orchiectomy, <br> and a surgery preparation guide. 
+| Rainbow Health Ontario | [Referrals, Letters, Surgery](https://www.rainbowhealthontario.ca/TransHealthGuide/resources-referralsadvocacy.html) | | 
+| Women's College Hospital | [TRS Information](https://www.womenscollegehospital.ca/care-programs/surgery/transition-related-surgery/) |  | 
+  
+### Accessing TRS
+
+Unlike HRT's informed consent model, OHIP-funded surgeries require provincial approval. Different surgeries require different formal surgical assessments (e.g., chest surgeries require one assessment whereas bottom surgeries require two). 
+
+After your provider submits the funding application, the Ministry of Health muskert approve it before any surgery can take place. 
+
+See [TRS Frequently Asked Questions](https://www.rainbowhealthontario.ca/wp-content/uploads/2025/08/RHO-GAS-FAQ.pdf) for information about assessments, referrals, and OHIP coverage.
+
+## London Area Resources 
+
+### GAC Medical Providers (London)
 
 Below is a list of clinics/medical professionals that offer GAC in London, Ontario. 
 
@@ -238,18 +258,26 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | Dr. Ranjit Singarayer | Endocrinologist | 226-680-0802 |  |
 | [Foria Clinic](https://www.foriaclinic.com/) | Virtual Clinic |  |  |
 
-### Transition-Related Surgeries (TRS)
+### Compounding Pharmacies (London) 
 
-| Organisation | Information | Additional Details | 
-| :---- | :------------ | :------ |
-| Rainbow Health Ontario | [TRS Summary Sheets](https://www.rainbowhealthontario.ca/wp-content/uploads/2024/09/Gender-Affirming-Surgery-Summary-Sheets-Series-1.pdf) | Information about breast augmentation, top surgery, <br> vaginoplasty, hysterectomy & salpingo-oophorectomy, <br> phalloplasty, metoidioplasty, orchiectomy, <br> and a surgery preparation guide. 
-| Rainbow Health Ontario | [Referrals, Letters, Surgery](https://www.rainbowhealthontario.ca/TransHealthGuide/resources-referralsadvocacy.html) | | 
-| Women's College Hospital | [TRS Information](https://www.womenscollegehospital.ca/care-programs/surgery/transition-related-surgery/) |  | 
-  
-### Accessing TRS
+WIP
 
-Unlike HRT's informed consent model, OHIP-funded surgeries require provincial approval. Different surgeries require different formal surgical assessments (e.g., chest surgeries require one assessment whereas bottom surgeries require two). 
+### Allied Healthcare (London) 
 
-After your provider submits the funding application, the Ministry of Health muskert approve it before any surgery can take place. 
+WIP
 
-See [TRS Frequently Asked Questions](https://www.rainbowhealthontario.ca/wp-content/uploads/2025/08/RHO-GAS-FAQ.pdf) for information about assessments, referrals, and OHIP coverage.
+### Psychotherapists (London) 
+
+WIP
+
+### Permanent Hair Removal (London) 
+
+WIP
+
+### Queer & Trans Socials (London) 
+
+WIP
+
+## Acknowledgements
+
+I wish to thank the author of the *Gender Affirming Resources Ontario* spreadsheet for compiling so many resources for the whole province. 
