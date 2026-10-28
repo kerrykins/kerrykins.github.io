@@ -324,9 +324,9 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | Name | Formulations & Cost | Shipping | Notes | 
 | :------ | :------ | :------ | :------ | 
 | Riverbend Pharmacy | | | |
-| [Canadian Apothecary](https://canapo.ca/) | | | |
-| [North London Medical Pharmacy](https://nlmpharmacy.com/index.html) | EV in Sesame Oil (2.5mL) <br> 20mg/mL: $1.50/mg | | |
-| [True North London Compounding Pharmacy](https://truenorthcompounding.ca/) | EV in Sesame/Cottonseed Oil <br> 10-40mg/ml | | |
+| [**Canadian Apothecary**](https://canapo.ca/) <br> 519-439-4100 | | | |
+| [North London Medical Pharmacy](https://nlmpharmacy.com/index.html) <br> 519-474-1313 | EV in Sesame Oil (2.5mL) <br> 20mg/mL: $1.50/mg | | |
+| [True North London Compounding Pharmacy](https://truenorthcompounding.ca/) <br> 519-471-8622 | EV in Sesame/Cottonseed Oil <br> 10-40mg/ml | | |
  	
 ### Injection Supplies
 
