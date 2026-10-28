@@ -29,7 +29,7 @@ Then I became guild master.
 ![Desktop View](/images/wow3.png){: width="300" height="355"}
 _The first thing I did when I became guild master was to change the guild tabard to this beautiful, kinda gay design 8)!_
 
-![Desktop View](/images/wow14.png){: width="972" height="589"}
+![Desktop View](/images/wow14.jpg){: width="972" height="589"}
 _Another one of our guild events when the guild, during my time as GM, was at its peak social life._
 I believed that I could build something that could outlast me. For a while, it worked. We ran raids. We survived ‘guild killer’ events. We juggled spreadsheets. We groaned in exasperation when signups didn’t work out. We dealt with loot drama. In turn, I learned to lead in voice and silence. I made mistakes and still made things happen. Good things. Events and connections felt like magic.
 
