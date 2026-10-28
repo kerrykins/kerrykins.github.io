@@ -267,9 +267,6 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 > Check with the office as intake may be closed.
 {: .prompt-warning }
 
-> This section is a work in progress. 
-{: .prompt-warning }
-
 > **Abbreviations and Definitions** <br> 
 > - **MD**: Doctor holding a Doctor of Medicine (MD). Family doctors and specialists hold a MD. <br> 
 > - **Primary (MD)**: Family doctor, usually licensed by College of Family Physicians of Canada (CCFP). <br> 
