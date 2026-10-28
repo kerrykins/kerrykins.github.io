@@ -33,6 +33,10 @@
 #   icon: "fas fa-rss"
 #   noblank: true
 
+-  type: discord
+   icon: "fa-brands fa-discord"
+   url:  'https://discord.com/users/292823530637361154'
+  
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon

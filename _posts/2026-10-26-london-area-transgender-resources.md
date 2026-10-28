@@ -57,19 +57,17 @@ comments: true
 
 ### Canadian Organisations
 
-| Organisation  | Description |
-| :---------------- | :----------- |
-| [Eagle Canada](https://egale.ca/) | |
-| [pflag Canada](https://pflagcanada.ca/) |  |
-| [Canadian Centre for Diversity and Inclusion](https://ccdi.ca/en) |  |
-| [Momentum Canada](https://www.momentumcanada.net/) |  |
-| [Canadian Professional Association for Transgender Health](https://cpath.ca/en/)  |  |
-| [Trans Lifeline](https://translifeline.org/)  |  |
-| [Safer Project](https://saferproject.ca/) |  |
-| [Welcome Friend Association](https://welcomefriend.ca/) |  |
-| [Canadian Aids Society](https://www.cdnaids.ca/) |  |
-| [Trans Wellness Initiative (Alberta-focused)](https://transwellnessinitiative.ca/) | |
-| [Justice Trans](https://justicetrans.org/)  |  |
+- [Eagle Canada](https://egale.ca/)
+- [pflag Canada](https://pflagcanada.ca/)
+- [Canadian Centre for Diversity and Inclusion](https://ccdi.ca/en)
+- [Momentum Canada](https://www.momentumcanada.net/)
+- [Canadian Professional Association for Transgender Health](https://cpath.ca/en/)
+- [Trans Lifeline](https://translifeline.org/)
+- [Safer Project](https://saferproject.ca/)
+- [Welcome Friend Association](https://welcomefriend.ca/)
+- [Canadian Aids Society](https://www.cdnaids.ca/)
+- [Trans Wellness Initiative (Alberta-focused)](https://transwellnessinitiative.ca/)
+- [Justice Trans](https://justicetrans.org/)
 
 ### Social Media and Online Groups
 
@@ -87,6 +85,7 @@ comments: true
   - [Making a Gender Transition](https://www.transgendermap.com/welcome/for-trans-people/)
   - [For Gender Questioning People](https://www.transgendermap.com/welcome)
 - [Gender Affirming Hormone Therapy (GAHT) FAQ](https://www.rainbowhealthontario.ca/wp-content/uploads/2025/08/RHO-GAHT-FAQ.pdf)
+- [An Introduction to Hormone Therapy for Transfeminine People](https://transfemscience.org/articles/transfem-intro/)
 
 ### Social Transitioning
 
@@ -183,7 +182,7 @@ For non-binary people seeking feminisation w/o breast growth, experimental appro
 
 On the other hand, RHO recognises individualised approaches for non-binary people seeking masculinisation w/o facial hair or bottom growth (e.g., combining testosterone with DHT blockers like finasteride). 
 
-Further reading
+**Further reading:**
 
 | Title | Type | Additional Details |
 | :----- | :----- | :----- |
