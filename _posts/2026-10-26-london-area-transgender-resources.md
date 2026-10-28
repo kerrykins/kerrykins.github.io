@@ -417,6 +417,7 @@ In Psychology Today, therapists can list three specialities and many expertise. 
 | Karaoke for Homosexuals <br> *by Honey Dip* | Social | 1st Wednesday <br> 6pm-12am | Honey Dip | Free | |
 | Social Run <br> *by Frontrunners* | Social <br> Sports & Rec | Tuesday 5:30pm <br> Saturday 9:00am | London Bicycle Cafe | Free| |
 | Trans & NB Munch <br> 🔞 🏳️‍⚧️ | Social | 2nd Saturday <br> 3:30pm-5:30pm | See notes | Free | Contact organisers for location. <br> Prior approval needed. |
+| Trans & Friends Social <br> 🏳️‍⚧ <br> *by Queer Nexus | Social | Varying Dates & Time | Covent Garden Market | Free | 
 
 #### Trans-Friendly Social Venues
 
