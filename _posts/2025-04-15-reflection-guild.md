@@ -13,7 +13,7 @@ comments: true
 
 ---
 
-![Desktop View](/images/wow6.png){: width="972" height="589"}
+![Desktop View](/images/wow6.jpg){: width="972" height="589"}
 _I exclusively played female blood elves in WoW - long before I came out. What? They're cute! In hindsight, this was *definitely* a sign I was trans._
 
 If someone told me a decade ago that I would find my queer awakening in World of Warcraft, I would’ve laughed at the absurdity of it. If someone told me I would one day be a guild master, I would’ve definitely scoffed at how ridiculous that sounded. 
