@@ -315,8 +315,9 @@ WIP
 | Queer Sewcial <br> *by QX*| Social <br> Arts & Crafts | | | Free | |
 | Monthly Hike <br> *by QX*| Social <br> Sports & Rec |  | | Free | |
 | Book Club <br> *by QX* | Social | | | Free | |
-| Queer Crafters <br> *by Queer Nexus* | Social <br> Arts & Crafts | | | | | |
-| Karaoke for Homosexuals <br> *by Honey Dip* | Social | | | | | |
+| Board Game Social <br> *by QX* | Social | | Crouch Library | Free | |
+| Queer Crafters <br> *by Queer Nexus* | Social <br> Arts & Crafts | 1st Monday | Tea Haus | Free | |
+| Karaoke for Homosexuals <br> *by Honey Dip* | Social | 1st Wednesday | | | | |
 | Social Run <br> *by Frontrunners* | Social <br> Sports & Rec | Tuesday 5:30pm <br> Saturday 9:00am | London Bicycle Cafe | Free| |
 | Trans & NB Munch <br> 🔞 🏳️‍⚧️ | Social | 2nd Saturday <br> 3:30pm-5:30pm | See notes. | Free | Contact organisers for location. <br> Prior approval needed. |
 
