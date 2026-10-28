@@ -290,7 +290,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | [**Gender Pathways Service**](https://www.lhsc.on.ca/gender-pathways-service) <br> gps@lhsc.on.ca | Endocrinologist | HRT <br> Puberty Suppression <br> Psychosocial Support | 17yo or younger only |
 | [**Gender Care @ LIHC**](https://lihc.on.ca/programs-services/gender-care/) <br> 519-660-0874 ext. 3  <br>  transhealth@lihc.on.ca | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | 16+ only <br> Intake CLOSED |
 | **Dr. AJ MacDonald** <br> 519-433-2996 | Primary (MD) | |  |
-| **Western University** <br> **Health & Wellness** | Primary (MD) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | UWO students only. |
+| **Western University** <br> **Health & Wellness** <br> 519-661-3030 | Primary (MD) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | UWO students only. |
 | **Dr. Emily Brennan** <br> 519-850-3234 | Endocrinologist | HRT |  |
 | **Dr. Julia Creider** <br> 519-601-8621 | Endocrinologist | HRT |  |
 | **Dr. Stanislaus Van Uum** <br> 519-646-6170 | Endocrinologist | HRT |  |
