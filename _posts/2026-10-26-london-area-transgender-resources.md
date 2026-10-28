@@ -170,9 +170,9 @@ Under the **informed consent model** (ICM), providers can prescribe hormones wit
 
 Quick Guides for Hormone Therapy
 
-Rainbow Health Ontario | Feminising HRT| [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html) | [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf) |
-Transfeminine Science | Feminising HRT | [An Introduction to Hormone Therapy for Transfeminine People](https://transfemscience.org/articles/transfem-intro/)
-Rainbow Health Ontario | Masculinising HRT| [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html) | [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_mascHT_rev2021.pdf) |
+Rainbow Health Ontario | Feminising HRT| [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-femht.html), [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_femHT_2021.pdf) |
+Transfeminine Science | Feminising HRT | [Article](https://transfemscience.org/articles/transfem-intro/)
+Rainbow Health Ontario | Masculinising HRT| [Website](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html), [PDF](https://www.rainbowhealthontario.ca/TransHealthGuide/pdf/QRG_mascHT_rev2021.pdf) |
 
 #### Non-Binary Considerations
 
