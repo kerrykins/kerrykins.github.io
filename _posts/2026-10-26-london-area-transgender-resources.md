@@ -298,8 +298,8 @@ WIP
 
 **WIP**
 
-**All events listed are queer-friendly.** In addition:
-🏳️‍⚧ are events specifically for the trans community (including non-binary and other gender-diverse folx)
+**All events listed are queer-friendly.** 
+🏳️‍⚧ are events specifically for the trans community (including non-binary and other gender-diverse folx) <br> 
 🔞 are events that are 18+
 
 | Event Name | Type of Event | Date & Time | Location | Cost | Notes |
