@@ -28,7 +28,7 @@ comments: true
 
 | Organisation  | Description |
 | :---------------- | :----------- |
-| [London InterCommunity Health Centre](https://lihc.on.ca/resources/gender-affirming-and-lgbtq2s-sexual-health-supports/) | LIHC operates a gender care program that provides <br> HRT management, primary care, and transition-related surgical support, <br> especially for those that face sytemic barriers <br> in the health care system. |
+| [London InterCommunity Health Centre](https://lihc.on.ca/resources/gender-affirming-and-lgbtq2s-sexual-health-supports/) | LIHC operates a gender care program that provides HRT management, <br> primary care, and transition-related surgical support, <br> especially for those that face sytemic barriers in the health care system. |
 | [pflag Canada (London)](https://www.pflaglondon.ca/) | pflag is the primary local support network for trans individuals and their families. pflag London offers support and social groups for trans youth, the general trans population, parents of trans youth, and partners of trans folx. |
 | [Pride London](https://pridelondon.ca/) | Pride London is the organiser for the city's annual Pride parade in July. |
 | [Queer Intersections (QX)](https://www.qxcanada.org/) | QX is the intersectional queer community centre for London, ON. QX hosts regular events and offers a safe, third-space. |
