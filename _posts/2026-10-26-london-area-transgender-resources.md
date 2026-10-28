@@ -267,7 +267,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 > Check with the office as intake may be closed.
 {: .prompt-warning }
 
-> This section is work in progress. 
+> This section is a work in progress. 
 {: .prompt-warning }
 
 > **Abbreviations and Definitions** <br> 
@@ -321,7 +321,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 
 ### Compounding Pharmacies (London) 
 
-> This section is work in progress. 
+> This section is a work in progress. 
 {: .prompt-warning }
 
 | Name | Formulations & Cost | Shipping | Notes | 
@@ -332,12 +332,12 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 
 ### Injection Supplies
 
-> This section is work in progress. 
+> This section is a work in progress. 
 {: .prompt-warning }
 
 ### Allied Healthcare (London) 
 
-> This section is work in progress. 
+> This section is a work in progress. 
 {: .prompt-warning }
 
 ### Psychotherapists (London) 
@@ -352,12 +352,12 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 
 ### Permanent Hair Removal (London) 
 
-> This section is work in progress. 
+> This section is a work in progress. 
 {: .prompt-warning }
 
 ### Queer & Trans Socials (London) 
 
-> This section is work in progress. 
+> This section is a work in progress. 
 {: .prompt-warning }
 
 > **All events listed are queer-friendly.** <br>
@@ -384,7 +384,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 
 ### Food Support
 
-> This section is work in progress. 
+> This section is a work in progress. 
 {: .prompt-warning }
 
 
