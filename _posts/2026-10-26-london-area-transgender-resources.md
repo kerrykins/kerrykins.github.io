@@ -18,7 +18,9 @@ comments: true
 > **Disclosure**: Resources listed in this document are not listed based on the quality. This guide's purpose is to help identify and list relevant resources. **Always do your own research.**
 {: .prompt-info }
 
->  I do not take any responsibility for the accuracy of the information presented in this guide. Efforts have been made to ensure the information is up to date, accurate, and well-researched. 
+> I do not take any responsibility for the accuracy of the information presented in this guide. Efforts have been made to ensure the information is up to date, accurate, and well-researched. 
+> 
+> Please [message me on Discord](https://discord.com/users/292823530637361154) if a correction or update is needed. I will try my best to update it ASAP.
 {: .prompt-warning }
 
 > **Current Status (10/28/26)**: Working on verifying and adding London-specific resources for:
