@@ -4,7 +4,7 @@ description: A quiet reflection on how easily people drift apart.
 author: kerrykins
 date: 2026-06-24 00:00:00 -0400
 categories: [Reflections]
-tags: [friendship, Connection, reflection, distance]
+tags: [friendship, connection, reflection, distance]
 pin: false
 math: true
 mermaid: true
