@@ -340,7 +340,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 
 ### Psychotherapists (London) 
 
-> This section is work in progress. 
+> This section is a work in progress. 
 {: .prompt-warning }
 
 #### In-Person AND Virtual
