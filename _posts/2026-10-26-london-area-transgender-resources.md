@@ -18,7 +18,7 @@ comments: true
 > **Disclosure**: Resources listed in this document are not listed based on the quality. This guide's purpose is to help identify and list relevant resources. **Always do your own research.**
 {: .prompt-info }
 
->  Kerry does not take any responsibility for the accuracy of the information presented in this guide. 
+>  I do not take any responsibility for the accuracy of the information presented in this guide. Efforts have been made to ensure the information is up to date, accurate, and well-researched. 
 {: .prompt-warning }
 
 > **Current Status (10/28/26)**: Working on verifying and adding London-specific resources for:
@@ -29,6 +29,10 @@ comments: true
 - Queer & Trans Socials 
 - Housing & Food
 {: .prompt-info }
+
+## Acknowledgements
+
+I wish to thank the author of the *Gender Affirming Resources Ontario* spreadsheet for compiling so many resources for the whole province - some of these pertaining to London was copied and pasted into this guide. 
 
 ## Using This Guide 
 
@@ -294,12 +298,16 @@ WIP
 
 **WIP**
 
-| Event Name | Type of Event | Organiser | Date & Time | Demographic | Cost | Description |
+All events listed are queer-friendly. In addition:
+- :transgender_flag: are events specifically for the trans community (including non-binary and other gender-diverse folx)
+- :underage: are events that are 18+
+
+| Event Name | Type of Event | Organiser | Date & Time | Location | Cost | Description |
 | :------ | :------ | :------ | :------ | :------ | :------ | :------ | 
 | London Lesbian Film Festival | | | | | | |
 | Aeolian Pride Choruses | | | | | | |
-| Trans* London Social | Social | pflag London | | | Free | |
-| Trans Collective  | Social | pflag London | | | Free | |
+| Trans* London Social :transgender_flag: | Social | pflag London | | | Free | |
+| Trans Collective  :transgender_flag: | Social | pflag London | | | Free | |
 | Queerdos  | Social | pflag London | | | Free | |
 | Parents & Caregivers Group | Support | pflag London | | | Free | |
 | Queer Sewcial | Social | QX | | | Free | |
@@ -308,9 +316,6 @@ WIP
 | Queer Crafters | Queer Nexus | | | | | |
 | Karaoke for Homosexuals | Social | Honey Dip | | | | |
 | Social Run | Social <br> Sports & Rec | Frontrunners | London Bicycle Cafe | | Free | |
-| Trans & NB Munch | Social | | | | Free | 18+ event <br> Must contact organisers for event location and approval. |
+| Trans & NB Munch :underage: :transgender_flag: | Social | | | | Free | 18+ event <br> Must contact organisers for event location and approval. |
 
 
-## Acknowledgements
-
-I wish to thank the author of the *Gender Affirming Resources Ontario* spreadsheet for compiling so many resources for the whole province - some of these pertaining to London was copied and pasted into this guide. 
