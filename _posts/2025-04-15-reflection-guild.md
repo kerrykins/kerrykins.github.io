@@ -8,8 +8,6 @@ tags: [world of warcraft, guild, LGBTQ+]
 pin: false
 math: true
 mermaid: true
-toc: false
-comments: true
 image: 
 	path: /images/wow6.jpg
 	lqip: /images/wow6_lqip.jpg
@@ -25,7 +23,7 @@ In late 2022, I joined a queer guild. At the time, I was closeted, crumbling, an
 
 Then I became guild master. 
 
-I believed that I could build something that could outlast me. For a while, it worked. We ran raids. We survived ‘guild killer’ events. We juggled spreadsheets. We groaned in exasperation when signups didn’t work out. We dealt with loot drama. In turn, I learned to lead in voice and silence. I made mistakes and still made things happen. Good things. Events and connections felt like magic.
+I believed that I could build something that could outlast me. For a while, it worked. We ran raids. We survived ‘guild killer’ events. We juggled spreadsheets. We groaned in exasperation when signups didn’t work out. We dealt with loot drama. In turn, I learned to lead in voice and in silence. I made mistakes and *still*, I made things happen. Good things. Events and connections were magical (and not because I mained a mage).
 
 ![Desktop View](/images/wow14.jpg){: width="972" height="589"}
 _Another one of our guild events when the guild, during my time as GM, was at its peak social life._
