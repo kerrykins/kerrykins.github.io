@@ -11,7 +11,8 @@ mermaid: true
 toc: false
 comments: true
 image: 
-	path: /images/wow6_lqip.jpg
+	path: /images/wow6.jpg
+	lqip: /images/wow6_lqip.jpg
 	alt: Exclusively playing female blood elves since 2012, long before I came out. What? They're cute! Definitely a sign I was trans.
 ---
 
