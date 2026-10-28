@@ -309,7 +309,7 @@ WIP
 | London Lesbian Film Festival | | | | | | |
 | Aeolian Pride Choruses | | | | | | |
 | Trans* London Social <br> 🏳️‍⚧️ <br> *by pflag London*| Social | 4th Wednesday | See notes. | Free | Contact organisers for location.|
-| Trans Collective <br> 🏳️‍⚧️ <br> *by pflag London* | Social | | See notes. | Free | Contact organisers for location. |
+| Trans Collective <br> 🏳️‍⚧️ <br> *by pflag London* | Social | | See notes. <br> 6pm-8:30pm | Free | Contact organisers for location. |
 | Queerdos <br> *by pflag London* | Social | | See notes. | Free | Contact organisers for location. |
 | Parents & Caregivers Group <br> *by pflag London*| Support | | See notes. | Free |  Contact organisers for location.|
 | Queer Sewcial <br> *by QX*| Social <br> Arts & Crafts | | | Free | |
