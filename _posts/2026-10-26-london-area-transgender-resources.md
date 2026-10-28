@@ -279,31 +279,31 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 
 #### OHIP Covered 
 
-| Name of Service | Provider | Services | Contact | Notes |
+| Name of Service | Provider | Services | Notes |
 | :------- | :------- | :------ | :------- | :------- |
-| [Gender Pathways Service](https://www.lhsc.on.ca/gender-pathways-service) | Endocrinologist | HRT <br> Puberty Suppression <br> Psychosocial Support | gps@lhsc.on.ca | 17yo or younger only |
-| [Gender Care at LIHC](https://lihc.on.ca/programs-services/gender-care/) | Primary (MD) <br> Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | 519-660-0874 ext. 3  <br>  transhealth@lihc.on.ca | 16+ only <br> Intake CLOSED |
-| Dr. AJ MacDonald | Primary (MD) | | 519-433-2996 |  |
-| Western University <br> Health & Wellness | Primary (MD) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | | Western University students only. |
-| Dr. Emily Brennan | Endocrinologist | HRT | 519-850-3234 |  |
-| Dr. Julia Creider | Endocrinologist | HRT | 519-601-8621 |  |
-| Dr. Stanislaus Van Uum | Endocrinologist | HRT | 519-646-6170 |  |
-| Dr. Ranjit Singarayer | Endocrinologist | HRT | 226-680-0802 |  |
-| Dr. Debbie Penava | OB/GYN | OB/GYN | | |
-| Dr. Laura Sovran | OB/GYN | OB/GYN | | |
-| Dr. Stephanie Black | OB/GYN | OB/GYN | | |
-| Dr. Stephanie Moltner | OB/GYN | HRT <br> OB/GYN <br> Post-Op Care | | |
-| CAMH Gender Identity Clinic <br> *Virtual* | Psychiatry | 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychiatry <br> Psychosocial Support | | 17+ only. <br> No HRT |
+| [**Gender Pathways Service**](https://www.lhsc.on.ca/gender-pathways-service) <br> gps@lhsc.on.ca | Endocrinologist | HRT <br> Puberty Suppression <br> Psychosocial Support | 17yo or younger only |
+| [**Gender Care @ LIHC**](https://lihc.on.ca/programs-services/gender-care/) <br> 519-660-0874 ext. 3  <br>  transhealth@lihc.on.ca | Primary (MD) <br> Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | 16+ only <br> Intake CLOSED |
+| **Dr. AJ MacDonald** <br> 519-433-2996 | Primary (MD) | |  |
+| **Western University** <br> **Health & Wellness** | Primary (MD) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | | Western University students only. |
+| **Dr. Emily Brennan** <br> 519-850-3234 | Endocrinologist | HRT |  |
+| **Dr. Julia Creider** <br> 519-601-8621 | Endocrinologist | HRT |  |
+| **Dr. Stanislaus Van Uum** <br> 519-646-6170 | Endocrinologist | HRT |  |
+| **Dr. Ranjit Singarayer** <br> 226-680-0802 | Endocrinologist | HRT |  |
+| **Dr. Debbie Penava** | OB/GYN | OB/GYN | | |
+| **Dr. Laura Sovran** | OB/GYN | OB/GYN | | |
+| **Dr. Stephanie Black** | OB/GYN | OB/GYN | | |
+| **Dr. Stephanie Moltner** | OB/GYN | HRT <br> OB/GYN <br> Post-Op Care | | |
+| **CAMH Gender Identity Clinic** <br> *Virtual* | Psychiatry | 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychiatry <br> Psychosocial Support | | 17+ only. <br> No HRT |
 
 
 #### Private
 
 | Name of Service | Provider | Services | Cost |
 | :------- | :------- | :------ | :------- | 
-| [Foria Clinic](https://www.foriaclinic.com/) <br> *Virtual* | Primary (MD) <br> Primary (NP) |  | Initial $299 <br> Hormone Start $199 <br> Patient Transfer $199 <br> Follow Up $99 <br> Surgery Assess. & Referral $199 <br> Counselling $150 <br> Voice Training $145 | 
-| Michelle Hermans <br> *Virtual* | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assess. | Unknown |
-| Care & Family Health <br> *Virtual* | Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. | $450 + HST per year, or <br> $100 per visit |
-| [Acceptance Clinic](https://www.acceptanceclinic.ca/virtual-gender-affirming-care-nurse-practitioners) <br> *Virtual* | Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | $150-$360/hr |
+| [**Foria Clinic**](https://www.foriaclinic.com/) <br> *Virtual* | Primary (MD) <br> Primary (NP) |  | Initial $299 <br> Hormone Start $199 <br> Patient Transfer $199 <br> Follow Up $99 <br> Surgery Assess. & Referral $199 <br> Counselling $150 <br> Voice Training $145 | 
+| **Michelle Hermans** <br> *Virtual* | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assess. | Unknown |
+| **Care & Family Health** <br> *Virtual* | Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. | $450 + HST per year, or <br> $100 per visit |
+| [**Acceptance Clinic**](https://www.acceptanceclinic.ca/virtual-gender-affirming-care-nurse-practitioners) <br> *Virtual* | Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | $150-$360/hr |
 
 
 ### Compounding Pharmacies (London) 
