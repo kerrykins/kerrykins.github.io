@@ -267,6 +267,9 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 > Check with the office as intake may be closed.
 {: .prompt-warning }
 
+> This section is work in progress. 
+{: .prompt-warning }
+
 > **Abbreviations and Definitions** <br> 
 > - **MD**: Doctor holding a Doctor of Medicine (MD). Family doctors and specialists hold a MD. <br> 
 > - **Primary (MD)**: Family doctor, usually licensed by College of Family Physicians of Canada (CCFP). <br> 
@@ -277,7 +280,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 > - **Assess.**: Abbreviation for 'assessment'. 
 {: .prompt-info }
 
-> Unless noted, you must be referred by a doctor or NP to the clinic. 
+> Unless noted, you must be referred to the clinic/doctor by a doctor or NP. 
 {: .prompt-info }
 
 #### OHIP Covered 
@@ -287,7 +290,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | [**Gender Pathways Service**](https://www.lhsc.on.ca/gender-pathways-service) <br> gps@lhsc.on.ca | Endocrinologist | HRT <br> Puberty Suppression <br> Psychosocial Support | 17yo or younger only |
 | [**Gender Care @ LIHC**](https://lihc.on.ca/programs-services/gender-care/) <br> 519-660-0874 ext. 3  <br>  transhealth@lihc.on.ca | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | 16+ only <br> Intake CLOSED |
 | **Dr. AJ MacDonald** <br> 519-433-2996 | Primary (MD) | |  |
-| **Western University** <br> **Health & Wellness** | Primary (MD) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | Western University students only. |
+| **Western University** <br> **Health & Wellness** | Primary (MD) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | UWO students only. |
 | **Dr. Emily Brennan** <br> 519-850-3234 | Endocrinologist | HRT |  |
 | **Dr. Julia Creider** <br> 519-601-8621 | Endocrinologist | HRT |  |
 | **Dr. Stanislaus Van Uum** <br> 519-646-6170 | Endocrinologist | HRT |  |
@@ -312,9 +315,9 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | **Jake Farr** <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assses. | |
 | **Kerry-Lin McGuire** <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assses. | |
 | [**Michelle Hermans**](https://www.thrivetherapyservices.ca/gender-affirming-care) <br> *Virtual* <br> Self-Referral | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assess. <br> 2nd Surgery Assess. | |
-| [Your Story Counselling Services](https://www.yourstorycounselling.com/) <br> *Virtual* <br> Self-Referral | Social Worker | 2nd Surgery Assess. | $140-190 per hour |
-| [Megan Blair](https://blairccs.com/) <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assess. | $400 for 2nd Surgery Assess. | 
-| [Rune Bland](https://www.rainbowhealthontario.ca/service-provider-directory/rune-bland-bsw-msw-rsw/) <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assess. | $130 per hour |
+| [**Your Story Counselling Services**](https://www.yourstorycounselling.com/) <br> *Virtual* <br> Self-Referral | Social Worker | 2nd Surgery Assess. | $140-190 per hour |
+| [**Megan Blair**](https://blairccs.com/) <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assess. | $400 for 2nd Surgery Assess. | 
+| [**Rune Bland**](https://www.rainbowhealthontario.ca/service-provider-directory/rune-bland-bsw-msw-rsw/) <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assess. | $130 per hour |
 
 
 ### Compounding Pharmacies (London) 
