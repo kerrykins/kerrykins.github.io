@@ -301,6 +301,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | **Dr. Stephanie Moltner** | OB/GYN | HRT <br> OB/GYN <br> Post-Op Care | | |
 | **CAMH Gender Identity Clinic** <br> *Virtual* | Psychiatry | 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychiatry <br> Psychosocial Support | 17+ only. <br> No HRT |
 | [**Horizon Care Ontario**](https://horizon-care.ca/) <br> *Virtual* <br> *Self-Referral* | Primary (MD) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | |
+| [**JHunter NP Services**](https://www.jhunternpservices.ca/) <br> *Virtual* <br> *Self-Referral* | Primary (NP) | Unknown | RHO training suggests training <br> in HRT, surgery, and puberty supprression. |
 
 
 #### Private
