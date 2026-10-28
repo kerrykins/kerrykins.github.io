@@ -342,6 +342,12 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 > This section is a work in progress. 
 {: .prompt-warning }
 
+#### Methodology 
+
+Most psychotherapists listed below were found either in the *Gender Affirming Resources* spreadsheet *or* from Psychology Today. 
+
+In Psychology Today, therapists can list three specialities and many expertise. Only therapists noting they specialise in trans, queer, neurodivergent, and ENM are listed below. 
+
 #### In-Person AND Virtual
 
 | Name | Practitioner | Services | Specialty | Notes |
@@ -357,7 +363,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 
 | Name | Practitioner | Services | Specialty | Notes |
 | :------ | :------ | :------ | :------ | :------ | :------ |
-| [Sj Vriend](https://www.psychologytoday.com/ca/therapists/sj-vriend-ottawa-on/1113431) | RP | Individual Therapy | Trans <br> Queer| Free consult <br> $190 per session |
+| [Sj Vriend](https://www.psychologytoday.com/ca/therapists/sj-vriend-ottawa-on/1113431) | RP | Individual Therapy | Trans <br> Queer| Free consult <br> $190 per session <br> CPATH & WPATH member |
 | [Asher Faerstein](https://www.svnctum.ca/psychotherapy-toronto) | RP | Individual Therapy | Queer <br> Neurodivergent | Free consult <br> $170 per session |
 | [Centrepeace](https://centrepeacelondon.ca/lgbtq-affirming-therapist-in-london-ontario) | RSW | Individual Therapy | Queer | Free consult <br> $165 per session <br> Sliding scale available |
 | [Calire Salisbury](https://www.psychologytoday.com/ca/therapists/claire-salisbury-london-on/281497) | RP | Individual Therapy | Trans <br> Queer | Free consult <br> Unknown cost |
