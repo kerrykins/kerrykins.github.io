@@ -277,14 +277,17 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 > - **Assess.**: Abbreviation for 'assessment'. 
 {: .prompt-info }
 
+> Unless noted, you must be referred by a doctor or NP to the clinic. 
+{: .prompt-info }
+
 #### OHIP Covered 
 
 | Name of Service | Provider | Services | Notes |
 | :------- | :------- | :------ | :------- | :------- |
 | [**Gender Pathways Service**](https://www.lhsc.on.ca/gender-pathways-service) <br> gps@lhsc.on.ca | Endocrinologist | HRT <br> Puberty Suppression <br> Psychosocial Support | 17yo or younger only |
-| [**Gender Care @ LIHC**](https://lihc.on.ca/programs-services/gender-care/) <br> 519-660-0874 ext. 3  <br>  transhealth@lihc.on.ca | Primary (MD) <br> Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | 16+ only <br> Intake CLOSED |
+| [**Gender Care @ LIHC**](https://lihc.on.ca/programs-services/gender-care/) <br> 519-660-0874 ext. 3  <br>  transhealth@lihc.on.ca | Primary (MD) <br> Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | 16+ only <br> Intake CLOSED |
 | **Dr. AJ MacDonald** <br> 519-433-2996 | Primary (MD) | |  |
-| **Western University** <br> **Health & Wellness** | Primary (MD) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | | Western University students only. |
+| **Western University** <br> **Health & Wellness** | Primary (MD) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | Western University students only. |
 | **Dr. Emily Brennan** <br> 519-850-3234 | Endocrinologist | HRT |  |
 | **Dr. Julia Creider** <br> 519-601-8621 | Endocrinologist | HRT |  |
 | **Dr. Stanislaus Van Uum** <br> 519-646-6170 | Endocrinologist | HRT |  |
@@ -293,17 +296,25 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | **Dr. Laura Sovran** | OB/GYN | OB/GYN | | |
 | **Dr. Stephanie Black** | OB/GYN | OB/GYN | | |
 | **Dr. Stephanie Moltner** | OB/GYN | HRT <br> OB/GYN <br> Post-Op Care | | |
-| **CAMH Gender Identity Clinic** <br> *Virtual* | Psychiatry | 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychiatry <br> Psychosocial Support | | 17+ only. <br> No HRT |
+| **CAMH Gender Identity Clinic** <br> *Virtual* | Psychiatry | 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychiatry <br> Psychosocial Support | 17+ only. <br> No HRT |
+| [**Horizon Care Ontario**](https://horizon-care.ca/) <br> *Virtual* <br> *Self-Referral* | Primary (MD) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | |
 
 
 #### Private
 
 | Name of Service | Provider | Services | Cost |
 | :------- | :------- | :------ | :------- | 
-| [**Foria Clinic**](https://www.foriaclinic.com/) <br> *Virtual* | Primary (MD) <br> Primary (NP) |  | Initial $299 <br> Hormone Start $199 <br> Patient Transfer $199 <br> Follow Up $99 <br> Surgery Assess. & Referral $199 <br> Counselling $150 <br> Voice Training $145 | 
-| **Michelle Hermans** <br> *Virtual* | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assess. | Unknown |
-| **Care & Family Health** <br> *Virtual* | Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. | $450 + HST per year, or <br> $100 per visit |
-| [**Acceptance Clinic**](https://www.acceptanceclinic.ca/virtual-gender-affirming-care-nurse-practitioners) <br> *Virtual* | Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | $150-$360/hr |
+| [**Foria Clinic**](https://www.foriaclinic.com/) <br> *Virtual*  <br> *Self-Referral* | Primary (MD) <br> Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. | Initial $299 <br> Hormone Start $199 <br> Patient Transfer $199 <br> Follow Up $99 <br> Surgery Assess. & Referral $199 <br> Counselling $150 <br> Voice Training $145 | 
+| **Michelle Hermans** <br> *Virtual* <br> *Self-Referral* | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assess. | Unknown |
+| [**Care & Family Health**](https://www.careand.ca/) <br> *Virtual* <br> *Self-Referral* | Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. | $450 + HST per year, or <br> $100 per visit |
+| [**Acceptance Clinic**](https://www.acceptanceclinic.ca/virtual-gender-affirming-care-nurse-practitioners) <br> *Virtual* <br> *Self-Referral* | Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | $150-$360/hr |
+| **Amelie Zonato** <br> *Virtual* <br> *Self-Referral* | C.Psych | 2nd Surgery Assses. | $230 per hour <br> Sliding scale available |
+| **Jake Farr** <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assses. | |
+| **Kerry-Lin McGuire** <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assses. | |
+| [**Michelle Hermans**](https://www.thrivetherapyservices.ca/gender-affirming-care) <br> *Virtual* <br> Self-Referral | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assess. <br> 2nd Surgery Assess. | |
+| [Your Story Counselling Services](https://www.yourstorycounselling.com/) <br> *Virtual* <br> Self-Referral | Social Worker | 2nd Surgery Assess. | $140-190 per hour |
+| [Megan Blair](https://blairccs.com/) <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assess. | $400 for 2nd Surgery Assess. | 
+| [Rune Bland](https://www.rainbowhealthontario.ca/service-provider-directory/rune-bland-bsw-msw-rsw/) <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assess. | $130 per hour |
 
 
 ### Compounding Pharmacies (London) 
