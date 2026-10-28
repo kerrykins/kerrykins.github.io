@@ -21,8 +21,6 @@ If someone told me a decade ago that I would find my queer awakening in World of
 Being a guild master is less like captaining a grand ship across open seas and more like captaining a rowboat made of soggy cardboard. Half the time, the crew argued about loot. The other half simply jumped overboard. Despite it all, I loved it still – at least for a while. 
 
 ![Desktop View](/images/wow20.jpg){: width="972" height="589" .w-50 .left}
-_One of my first guild events with this guild! Look at the turnout!_
-
 In late 2022, I joined a queer guild. At the time, I was closeted, crumbling, and *very* unsure about where I belonged. One can say I was lost at sea (haha get it?). I was slowly losing a quiet, private war with my mind. Yet somehow this guild and its oddball band of gaymers and gremlins gave me something I hadn’t had in a long time: a place to be and discover myself. It is through the guild where I got to explore my queerness. Here, I got to build friendships. 
 
 Then I became guild master. 
@@ -46,6 +44,9 @@ The goodbyes I didn’t get from the people I thought would reach out left a mar
 
 Fortunately, bitterness doesn’t erase beauty.
 
+![Desktop View](/images/wow17.jpg){: width="972" height="589"}
+_Finishing our first Val'anyr, Hammer of Ancient Kings despite pugging every week and battling absences during Ulduar!
+
 For nearly two years, I served as guild master. Two years is a span of time that holds weight. It was a time of joyful chaos. It was a time where people felt safe enough to be themselves. Even if most of it faded or evolved into something else, it happened. Because it happened, it matters. 
 
 To my former guildmates, I wish you the very best. I hope the guild continues to grow and thrive in ways I couldn’t have imagined. I hope that I added something positive to your lives during the time we shared.
@@ -53,7 +54,5 @@ To my former guildmates, I wish you the very best. I hope the guild continues to
 I’ve long since logged out. The title is gone. I've set it all of it down. But I'll carry the lessons, the failures, and the connections I made.  
 
 Some other guild photos:
-
 ![Desktop View](/images/wow19.jpg){: width="972" height="589"}
 ![Desktop View](/images/wow18.jpg){: width="972" height="589"}
-![Desktop View](/images/wow17.jpg){: width="972" height="589"}
