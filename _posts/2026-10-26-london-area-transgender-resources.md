@@ -29,11 +29,11 @@ comments: true
 | Organisation  | Description |
 | :---------------- | :----------- |
 | [London InterCommunity Health Centre](https://lihc.on.ca/resources/gender-affirming-and-lgbtq2s-sexual-health-supports/) | LIHC operates a gender care program that provides HRT management, <br> primary care, and transition-related surgical support, <br> especially for those that face sytemic barriers in the health care system. |
-| [pflag Canada (London)](https://www.pflaglondon.ca/) | pflag is the primary local support network for trans individuals and <br> their families. pflag London offers support and social groups for trans youth, <br> the general trans population, parents of trans youth, and partners of trans folx. |
+| [pflag Canada (London)](https://www.pflaglondon.ca/) | pflag is the primary local support network for trans individuals and <br> their families. pflag London offers support and social groups for trans <br> youth, the general trans population, parents of trans youth, and partners <br> of trans folx. |
 | [Pride London](https://pridelondon.ca/) | Pride London is the organiser for the city's annual Pride parade in July. |
 | [Queer Intersections (QX)](https://www.qxcanada.org/) | QX is the intersectional queer community centre for London, ON. <br> QX hosts regular events and offers a safe, third-space. |
 | [Queer Nexus](https://www.facebook.com/share/1DySC93LQn/)  |  |
-| [Wortley Pride](https://wortleypride.com/)  | Wortley Pride operates out of Wortley Village and organises <br> year-round family- and queer-friendly events that are a safe and <br> low-barrier environment. |
+| [Wortley Pride](https://wortleypride.com/)  | Wortley Pride operates out of Wortley Village and organises year-round <br> family- and queer-friendly events that are a safe and low-barrier <br> environment. |
 
 #### Western University Organisations
 
@@ -222,6 +222,6 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 
 Unlike HRT's informed consent model, OHIP-funded surgeries require provincial approval. Different surgeries require different formal surgical assessments (e.g., chest surgeries require one assessment whereas bottom surgeries require two). 
 
-After your provider submits the funding application, the Ministry of Health must approve it before any surgery can take place. 
+After your provider submits the funding application, the Ministry of Health muskert approve it before any surgery can take place. 
 
 See [TRS Frequently Asked Questions](https://www.rainbowhealthontario.ca/wp-content/uploads/2025/08/RHO-GAS-FAQ.pdf) for information about assessments, referrals, and OHIP coverage.
