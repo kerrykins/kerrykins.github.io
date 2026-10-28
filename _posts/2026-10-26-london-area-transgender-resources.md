@@ -384,7 +384,8 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 
 ### Food Support
 
-> This section is a work in progress. 
-{: .prompt-warning }
-
+| Name | Cost | Notes |
+| :----- | :----- | :----- |
+| [Food for Queers](https://queerevents.ca/foodforqueers) | Free | Provides no cost grocery kits for 2SLGBTQIA+ folks |
+| [Queer Food Bank (QFB)](https://www.pflaglondon.ca/queer-food-bank) | Low-cost <br> Free | Food bank |
 
