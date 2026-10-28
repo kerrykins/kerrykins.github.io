@@ -53,3 +53,8 @@ To my former guildmates, I wish you the very best. I hope the guild continues to
 
 I’ve long since logged out. The title is gone. I've set it all of it down. But I'll carry the lessons, the failures, and the connections I made.  
 
+Some other guild photos:
+
+![Desktop View](/images/wow19.jpg){: width="972" height="589" .w-50 .left}
+![Desktop View](/images/wow18.jpg){: width="972" height="589" .w-50 .right}
+![Desktop View](/images/wow17.jpg){: width="972" height="589" .w-50 .right}
