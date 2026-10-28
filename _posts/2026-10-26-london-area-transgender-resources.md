@@ -13,14 +13,40 @@ comments: true
 
 ---
 
-> This was written as part of a resource post for a local Discord server for Trans Awareness Month 2026 🏳️‍⚧️.
+> This was written as part of a resource post for a local Discord server for Trans Awareness Month 2026 🏳️‍⚧️. Updates are not guaranteed to keep this post up-to-date.
 {: .prompt-info }
 
-> Updates are not guaranteed to keep this post up-to-date. I'll try to update it as much as I can.
-{: .prompt-warning }
+> **Current Status**: Working on verifying and adding London-specific resources for:
+- Compounding Pharmacies
+- Permanent Hair Removal
+- Trans-friendly Psychotherapists
+- ID Change Clinics 
+- Queer & Trans Socials 
+- Housing & Food
+{: .prompt-info }
 
-> Always verify the information especially when it pertains to your health and wellbeing. 
-{: .prompt-danger }
+## Gender Affirming Resources Ontario Spreadsheet
+
+Someone [compiled a spreadsheet](https://docs.google.com/spreadsheets/d/111o63Tvt20heohe9KtRW_AZPBKOz4kpZ1pb7r0CJpvU/edit?gid=1664012296#gid=1664012296) for gender affirming resources in Ontario. It is *phenomenal* work. The spreadsheet covers:
+
+- HRT, Surgery Assessments, Post-Op Care 
+- Compounding Pharmacies
+- Injection Supplies
+- Allied Health Professionals 
+- Trans-Friendly Psychotherapists
+- Permanent Hair Removal 
+- ID Change Clinics/Funds 
+- Gender Affirming Surgery 
+- Gender Affirming Gear/Funds 
+- Gender Affirming Services 
+- Queer & Trans Socials, Fun Things to Do 
+- Helpful Links 
+- For Healthcare Providers 
+- Housing & Food
+
+As of the updating of this article (check the update time at the top), the spreadsheet was last updated on **August 17, 2026**. 
+
+This post serves to support and supplement information found in the spreadsheet, especially focusing on resources in London, ON. 
 
 ## Organisations
 
@@ -75,7 +101,7 @@ comments: true
 | :---------------- | :----------- |
 | Reddit | [**r/transontario**](https://www.reddit.com/r/transontario/) <br> [r/mtf](https://www.reddit.com/r/mtf), [r/ftm](https://www.reddit.com/r/ftm), [r/lgbt](https://www.reddit.com/r/lgbt), [r/trans](https://www.reddit.com/r/trans), [r/transtimelines](https://www.reddit.com/r/transtimelines), [r/transgenderteens](https://www.reddit.com/r/transgenderteens), [r/transgender](https://www.reddit.com/r/transgender), <br> [r/nonbinary](https://www.reddit.com/r/nonbinary), [r/genderqueer](https://www.reddit.com/r/genderqueer), [r/TransSpace](https://www.reddit.com/r/transspace), [r/transprogrammer](https://www.reddit.com/r/transprogrammer), [r/Mtf_irl](https://www.reddit.com/r/mtf_irl) |
 | Facebook | [London (Ontario) LGBT Community](https://www.facebook.com/groups/queerlondon) |
-| Discord |  [Queer Nexus](https://discord.gg/nR9qrjZCHG) <br> [r/TransOntario](https://discord.gg/A23m6CczT7) |
+| Discord |  [Queer Nexus](https://discord.gg/nR9qrjZCHG) (London, ON based) <br> [r/TransOntario](https://discord.gg/A23m6CczT7) (province-wide) |
 
 ## Resources
 
@@ -110,6 +136,9 @@ comments: true
 - [The Coming Out Handbook](https://www.thetrevorproject.org/resources/guide/the-coming-out-handbook/)
 
 ### Medical Resources
+
+> Always verify the information especially when it pertains to your health and wellbeing. Always consult a medical professional. 
+{: .prompt-danger }
 
 | Organisation  | Links and Description |
 | :---------------- | :----------- |
