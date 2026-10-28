@@ -11,8 +11,8 @@ mermaid: true
 toc: false
 comments: true
 image: 
-	path: /images/wow6.png
-	alt: Exclusively playing female blood elves since 2012 - long before I came out. What? They're cute! This was definitely a sign I was trans.
+	path: /images/wow6_lqip.jpg
+	alt: Exclusively playing female blood elves since 2012, long before I came out. What? They're cute! Definitely a sign I was trans.
 ---
 
 If someone told me a decade ago that I would find my queer awakening in World of Warcraft, I would’ve laughed at the absurdity of it. If someone told me I would one day be a guild master, I would’ve definitely scoffed at how ridiculous that sounded. 
