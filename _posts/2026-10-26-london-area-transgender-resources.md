@@ -357,8 +357,8 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 
 | Name | Practitioner | Services | Specialty | Notes |
 | :------ | :------ | :------ | :------ | :------ | :------ |
-| [Sj Vriend](https://www.psychologytoday.com/ca/therapists/sj-vriend-ottawa-on/1113431) | RP | Virtual | Individual Therapy | Trans <br> Queer| Free consult <br> $190 per session |
-| [Asher Faerstein](https://www.svnctum.ca/psychotherapy-toronto) | RP | Virtual | Individual Therapy | Queer <br> Neurodivergent | Free consult <br> $170 per session |
+| [Sj Vriend](https://www.psychologytoday.com/ca/therapists/sj-vriend-ottawa-on/1113431) | RP | Individual Therapy | Trans <br> Queer| Free consult <br> $190 per session |
+| [Asher Faerstein](https://www.svnctum.ca/psychotherapy-toronto) | RP | Individual Therapy | Queer <br> Neurodivergent | Free consult <br> $170 per session |
 | [Centrepeace](https://centrepeacelondon.ca/lgbtq-affirming-therapist-in-london-ontario) | RSW | Individual Therapy | Queer | Free consult <br> $165 per session <br> Sliding scale available |
 | [Calire Salisbury](https://www.psychologytoday.com/ca/therapists/claire-salisbury-london-on/281497) | RP | Individual Therapy | Trans <br> Queer | Free consult <br> Unknown cost |
 | [Karly Green](https://www.psychologytoday.com/ca/therapists/karly-green-london-on/1826190) | RP(Q) | Individual Therapy | Queer <br> Chronic Illness | Unknown cost |
@@ -370,9 +370,6 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | [Sarah Szpak](https://www.psychologytoday.com/ca/therapists/sarah-szpak-london-on/1034197) | RSW | Individual Therapy | Trans <br> Queer | Free consult <br> $160 per session |
 | [Yael Shoham](https://www.psychologytoday.com/ca/therapists/yael-shoham-kaleidoscope-counselling-collective-toronto-on/1374806) | RSW | Individual Therapy <br> Couples Therapy | Neurodivergent | Free consult <br> $175 per session |
 | [Brooke Holman](https://www.psychologytoday.com/ca/therapists/brooke-holman-london-on/1384958) | RP(Q) | Individual Therapy | Queer | Free consult <br> $140 per session | Queer, non-binary therapist |
-
-
- 
 
 ### Permanent Hair Removal (London) 
 
