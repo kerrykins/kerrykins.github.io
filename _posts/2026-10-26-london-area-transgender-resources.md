@@ -305,8 +305,9 @@ WIP
 | Queer Sewcial | Social | QX | | | Free | |
 | Monthly Hike | Social <br> Sports & Rec | QX | | | Free | |
 | Book Club | Social | QX | | | Free | |
+| Queer Crafters | Queer Nexus | | | | | |
 | Karaoke for Homosexuals | Social | Honey Dip | | | | |
-| Social Run | Social <br> Sports & Rec | Frontrunners London ON | London Bicycle Cafe | | Free | |
+| Social Run | Social <br> Sports & Rec | Frontrunners | London Bicycle Cafe | | Free | |
 | Trans & NB Munch | Social | | | | Free | 18+ event <br> Must contact organisers for event location and approval. |
 
 
