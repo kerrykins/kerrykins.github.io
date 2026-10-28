@@ -308,21 +308,21 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | Name of Service | Provider | Services | Cost |
 | :------- | :------- | :------ | :------- | 
 | [**Foria Clinic**](https://www.foriaclinic.com/) <br> *Virtual*  <br> *Self-Referral* | Primary (MD) <br> Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. | Initial $299 <br> Hormone Start $199 <br> Patient Transfer $199 <br> Follow Up $99 <br> Surgery Assess. & Referral $199 <br> Counselling $150 <br> Voice Training $145 | 
-| **Michelle Hermans** <br> *Virtual* <br> *Self-Referral* | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assess. | Unknown |
 | [**Care & Family Health**](https://www.careand.ca/) <br> *Virtual* <br> *Self-Referral* | Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. | $450 + HST per year, or <br> $100 per visit |
 | [**Acceptance Clinic**](https://www.acceptanceclinic.ca/virtual-gender-affirming-care-nurse-practitioners) <br> *Virtual* <br> *Self-Referral* | Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | $150-$360/hr |
 | **Amelie Zonato** <br> *Virtual* <br> *Self-Referral* | C.Psych | 2nd Surgery Assses. | $230 per hour <br> Sliding scale available |
 | **Jake Farr** <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assses. | |
 | **Kerry-Lin McGuire** <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assses. | |
-| [**Michelle Hermans**](https://www.thrivetherapyservices.ca/gender-affirming-care) <br> *Virtual* <br> Self-Referral | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assess. <br> 2nd Surgery Assess. | |
-| [**Your Story Counselling Services**](https://www.yourstorycounselling.com/) <br> *Virtual* <br> Self-Referral | Social Worker | 2nd Surgery Assess. | $140-190 per hour |
+| [**Michelle Hermans**](https://www.thrivetherapyservices.ca/gender-affirming-care) <br> *Virtual* <br> *Self-Referral* | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assess. <br> 2nd Surgery Assess. | |
+| [**Your Story Counselling Services**](https://www.yourstorycounselling.com/) <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assess. | $140-190 per hour |
 | [**Megan Blair**](https://blairccs.com/) <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assess. | $400 for 2nd Surgery Assess. | 
 | [**Rune Bland**](https://www.rainbowhealthontario.ca/service-provider-directory/rune-bland-bsw-msw-rsw/) <br> *Virtual* <br> *Self-Referral* | Social Worker | 2nd Surgery Assess. | $130 per hour |
 
 
 ### Compounding Pharmacies (London) 
 
-WIP
+> This section is work in progress. 
+{: .prompt-warning }
 
 | Name | Formulations & Cost | Shipping | Notes | 
 | :------ | :------ | :------ | :------ | 
@@ -332,13 +332,18 @@ WIP
 
 ### Injection Supplies
 
-WIP
+> This section is work in progress. 
+{: .prompt-warning }
 
 ### Allied Healthcare (London) 
 
-WIP
+> This section is work in progress. 
+{: .prompt-warning }
 
 ### Psychotherapists (London) 
+
+> This section is work in progress. 
+{: .prompt-warning }
 
 | Name | Practitioner | Delivery | Services | Lived Experience | Notes |
 | :------ | :------ | :------ | :------ | :------ | :------ | :------ | 
@@ -347,11 +352,13 @@ WIP
 
 ### Permanent Hair Removal (London) 
 
-WIP
+> This section is work in progress. 
+{: .prompt-warning }
 
 ### Queer & Trans Socials (London) 
 
-**WIP**
+> This section is work in progress. 
+{: .prompt-warning }
 
 > **All events listed are queer-friendly.** <br>
 > 🏳️‍⚧ are events specifically for the trans community (including non-binary and other gender-diverse folx) <br> 
@@ -377,6 +384,7 @@ WIP
 
 ### Food Support
 
-WIP
+> This section is work in progress. 
+{: .prompt-warning }
 
 
