@@ -193,11 +193,14 @@ As of the updating of this article (check the update time at the top), the sprea
 
 ## Accessing Medical Gender Affirming Care
 
+> You cannot be denied care or a referral based on a provider's personal, moral, or religious beliefs. 
+{: .prompt-danger }
+
 **Gender affirming medical care** (GAC) includes a range of treatments such as hormone therapy, voice training, surgeries, and permanent hair removal. However, this part will focus specifically on hormone replacement therapy (HRT) and OHIP-funded surgeries. 
 
 Accessing medical gender affirming health care (GAC) usually begins with your primary care provider (PCP). 
 
-If your PCP feels managing GAC is beyond their clinical competency, **they have a professional obligation to provide a timely and effective referral to a qualified medical professional.** You cannot be denied care or a referral based on a provider's personal, moral, or religious beliefs. 
+If your PCP feels managing GAC is beyond their clinical competency, **they have a professional obligation to provide a timely and effective referral to a qualified medical professional.** 
 
 ### GAC Guidelines
 
