@@ -268,12 +268,13 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 {: .prompt-warning }
 
 > **Abbreviations and Definitions**
-> MD: Doctor holding a Doctor of Medicine (MD). Family doctors and specialists hold a MD.
-> Primary (MD): Family doctor, usually licensed by College of Family Physicians of Canada (CCFP)
-> OB/GYN: Specialist in obstetrics and gynaecology. 
-> Endocrinologist: Specialist in dealing with the endocrine system, its diseases, and hormones. 
-> Psychiatrist: Specialist in the diagnosis, treatment, and prevention of mental cnditions. 
-> NP: Nurse Practtioner. Advanced registered nurse trained to assess, order & interpret diagnostic tests, diagnose disease, prescribe medications, and formulate treatment plans. 
+> MD: Doctor holding a Doctor of Medicine (MD). Family doctors and specialists hold a MD. <br> 
+> Primary (MD): Family doctor, usually licensed by College of Family Physicians of Canada (CCFP). <br> 
+> OB/GYN: Specialist in obstetrics and gynaecology. <br> 
+> Endocrinologist: Specialist in dealing with the endocrine system, its diseases, and hormones. <br> 
+> Psychiatrist: Specialist in the diagnosis, treatment, and prevention of mental conditions. <br> 
+> NP: Nurse Practtioner. Advanced registered nurse trained to assess, order & interpret diagnostic tests, diagnose disease, prescribe medications, and formulate treatment plans. <br> 
+> Assess.: Abbreviation for 'assessment'. 
 {: .prompt-info }
 
 #### OHIP Covered 
@@ -281,9 +282,9 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | Name of Service | Provider | Services | Contact | Notes |
 | :------- | :------- | :------ | :------- | :------- |
 | [Gender Pathways Service](https://www.lhsc.on.ca/gender-pathways-service) | Endocrinologist | HRT <br> Puberty Suppression <br> Psychosocial Support | gps@lhsc.on.ca | 17yo or younger only |
-| [Gender Care at LIHC](https://lihc.on.ca/programs-services/gender-care/) | Primary (MD) <br> Primary (NP) | HRT <br> 1st Surgery Assessment <br> 2nd Surgery Assessment <br> Psychosocial Support | 519-660-0874 ext. 3  <br>  transhealth@lihc.on.ca | 16+ only <br> Intake CLOSED |
+| [Gender Care at LIHC](https://lihc.on.ca/programs-services/gender-care/) | Primary (MD) <br> Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | 519-660-0874 ext. 3  <br>  transhealth@lihc.on.ca | 16+ only <br> Intake CLOSED |
 | Dr. AJ MacDonald | Primary (MD) | | 519-433-2996 |  |
-| Western University <br> Health & Wellness | Primary (MD) | HRT <br> 1st Surgery Assessment <br> 2nd Surgery Assessment <br> Post-Op Care <br> Psychosocial Support | | Western University students only. |
+| Western University <br> Health & Wellness | Primary (MD) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | | Western University students only. |
 | Dr. Emily Brennan | Endocrinologist | HRT | 519-850-3234 |  |
 | Dr. Julia Creider | Endocrinologist | HRT | 519-601-8621 |  |
 | Dr. Stanislaus Van Uum | Endocrinologist | HRT | 519-646-6170 |  |
@@ -292,18 +293,17 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | Dr. Laura Sovran | OB/GYN | OB/GYN | | |
 | Dr. Stephanie Black | OB/GYN | OB/GYN | | |
 | Dr. Stephanie Moltner | OB/GYN | HRT <br> OB/GYN <br> Post-Op Care | | |
-| CAMH Gender Identity Clinic <br> *Virtual* | Psychiatry | 1st Surgery Assessment <br> 2nd Surgery Assessment <br> Psychiatry <br> Psychosocial Support | 17+ only. <br> No HRT |
-| | 
+| CAMH Gender Identity Clinic <br> *Virtual* | Psychiatry | 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychiatry <br> Psychosocial Support | | 17+ only. <br> No HRT |
 
 
 #### Private
 
 | Name of Service | Provider | Services | Cost |
 | :------- | :------- | :------ | :------- | 
-| [Foria Clinic](https://www.foriaclinic.com/) | Primary (MD) <br> Primary (NP) |  | Initial $299 <br> Hormone Start $199 <br> Patient Transfer $199 <br> Follow Up $99 <br> Surgery Assessment & Referral $199 <br> Counselling $150 <br> Voice Training $145 | 
-| Michelle Hermans | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assessment | Unknown |
-| Care & Family Health | Primary (NP) | HRT <br> 1st Surgery Assessment <br> 2nd Surgery Assessment | $450 + HST per year, or <br> $100 per visit |
-| [Acceptance Clinic](https://www.acceptanceclinic.ca/virtual-gender-affirming-care-nurse-practitioners) | Primary (NP) | HRT <br> 1st Surgery Assessment <br> 2nd Surgery Assessment <br> Psychosocial Support | $150-$360/hr |
+| [Foria Clinic](https://www.foriaclinic.com/) | Primary (MD) <br> Primary (NP) |  | Initial $299 <br> Hormone Start $199 <br> Patient Transfer $199 <br> Follow Up $99 <br> Surgery Assess. & Referral $199 <br> Counselling $150 <br> Voice Training $145 | 
+| Michelle Hermans | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assess. | Unknown |
+| Care & Family Health | Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. | $450 + HST per year, or <br> $100 per visit |
+| [Acceptance Clinic](https://www.acceptanceclinic.ca/virtual-gender-affirming-care-nurse-practitioners) | Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | $150-$360/hr |
 
 
 ### Compounding Pharmacies (London) 
