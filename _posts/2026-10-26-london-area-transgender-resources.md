@@ -40,7 +40,7 @@ Use the table of contents to the right to jump to sections.
 
 The first four sections (Gender Affirming Resources Ontario Spreadsheet, Organisations, Resources, and Accessing Medical Gender Affirming Care) contain general information that is as relevant in London as it is in another Ontario city. Thus, you should expect links to sites and organisations that operates province (or even country) wide. 
 
-The last section only lists London specific resources. If you are only interested in this, use the table of contents to navigate to this quickly. 
+The last section only lists London specific resources. If you are only interested in this, click [here](https://kerrykins.github.io/posts/london-area-transgender-resources/#london-area-resources) or use the table of contents to navigate to this quickly. 
 
 ## Gender Affirming Resources Ontario Spreadsheet
 
