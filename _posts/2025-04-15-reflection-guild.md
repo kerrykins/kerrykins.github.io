@@ -20,16 +20,11 @@ If someone told me a decade ago that I would find my queer awakening in World of
 
 Being a guild master is less like captaining a grand ship across open seas and more like captaining a rowboat made of soggy cardboard. Half the time, the crew argued about loot. The other half simply jumped overboard. Despite it all, I loved it still – at least for a while. 
 
-
+![Desktop View](/images/wow3.png){: width="972" height="589" .w-50 .left}
+_One of my first guild events with this guild! Look at the turnout!_
 In late 2022, I joined a queer guild. At the time, I was closeted, crumbling, and *very* unsure about where I belonged. One can say I was lost at sea (haha get it?). I was slowly losing a quiet, private war with my mind. Yet somehow this guild and its oddball band of gaymers and gremlins gave me something I hadn’t had in a long time: a place to be and discover myself. It is through the guild where I got to explore my queerness. Here, I got to build friendships. 
 
-![Desktop View](/images/wow3.png){: width="972" height="589"}
-_One of my first guild events with this guild! Look at the turnout!_
-
 Then I became guild master. 
-
-![Desktop View](/images/wow3.png){: width="300" height="181" .w-50 .right}
-_The first thing I did when I became guild master was to change the guild tabard to this beautiful, kinda gay design 8)!_
 
 I believed that I could build something that could outlast me. For a while, it worked. We ran raids. We survived ‘guild killer’ events. We juggled spreadsheets. We groaned in exasperation when signups didn’t work out. We dealt with loot drama. In turn, I learned to lead in voice and silence. I made mistakes and still made things happen. Good things. Events and connections felt like magic.
 
