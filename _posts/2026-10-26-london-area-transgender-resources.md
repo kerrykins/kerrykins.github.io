@@ -14,12 +14,12 @@ comments: true
 ---
 
 > This was written as part of a resource post for a local Discord server for Trans Awareness Month 2026 🏳️‍⚧️. Updates are not guaranteed to keep this post up-to-date.
-
-**Disclosure**: Resources listed in this document are not listed based on the quality. This guide's purpose is to help identify and list relevant resources. **Always do your own research.**
+> 
+> **Disclosure**: Resources listed in this document are not listed based on the quality. This guide's purpose is to help identify and list relevant resources. **Always do your own research.**
 {: .prompt-info }
 
 >  Kerry does not take any responsibility for the accuracy of the information presented in this guide. 
-(: .prompt-warning)
+{: .prompt-warning }
 
 > **Current Status (10/28/26)**: Working on verifying and adding London-specific resources for:
 - Compounding Pharmacies
@@ -40,7 +40,7 @@ The last section only lists London specific resources. If you are only intereste
 
 ## Gender Affirming Resources Ontario Spreadsheet
 
-Someone [compiled a spreadsheet](https://docs.google.com/spreadsheets/d/111o63Tvt20heohe9KtRW_AZPBKOz4kpZ1pb7r0CJpvU/edit?gid=1664012296#gid=1664012296) for gender affirming resources in Ontario. It is *phenomenal* work. The spreadsheet covers:
+Someone [compiled a spreadsheet](https://docs.google.com/spreadsheets/d/111o63Tvt20heohe9KtRW_AZPBKOz4kpZ1pb7r0CJpvU/edit?gid=1664012296#gid=1664012296) for gender affirming resources in Ontario. It is *phenomenal* work. Note the scope of the spreadsheet is for Ontario. The spreadsheet covers the following topics:
 
 - HRT, Surgery Assessments, Post-Op Care 
 - Compounding Pharmacies
@@ -59,7 +59,8 @@ Someone [compiled a spreadsheet](https://docs.google.com/spreadsheets/d/111o63Tv
 
 As of the updating of this article (check the update time at the top), the spreadsheet was last updated on **August 17, 2026**. 
 
-This post serves to support and supplement information found in the spreadsheet, especially focusing on resources in London, ON. 
+> This post serves to support and supplement information found in the spreadsheet, especially focusing on resources in London, ON. 
+{: .prompt-info }
 
 ## Organisations
 
