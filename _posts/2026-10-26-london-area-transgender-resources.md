@@ -288,7 +288,10 @@ WIP
 
 ### Psychotherapists (London) 
 
-WIP
+| Name | Practitioner | Delivery | Services | Lived Experience | Notes |
+| :------ | :------ | :------ | :------ | :------ | :------ | :------ | 
+| Blueprint Counselling | RP <br> RP(Q) <br> RSW <br> Student | In-Person <br> Virtual | Individual Therapy <br> Relationships <br> ADHD/ASD Assessment <br> Group Therapy <br> Art Therapy <br> Family Therapy | Trans <br> Queer | Queer-owned | 
+
 
 ### Permanent Hair Removal (London) 
 
