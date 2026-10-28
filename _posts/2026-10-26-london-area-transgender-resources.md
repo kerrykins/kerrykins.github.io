@@ -258,7 +258,7 @@ See [TRS Frequently Asked Questions](https://www.rainbowhealthontario.ca/wp-cont
 
 ## London Area Resources 
 
-Resources listed in this section are at least anecdotally noted as trans-friendly. If the resource explicitly notes they are trans-friendly (for example, on their website), it will also be noted here. 
+Resources listed in this section are at least anecdotally noted as trans-friendly. If the resource explicitly notes they are trans-friendly (e.g., on their website), it will also be noted here. 
 
 ### GAC Medical Providers (London)
 
