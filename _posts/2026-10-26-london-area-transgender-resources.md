@@ -277,6 +277,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 {: .prompt-info }
 
 #### OHIP Covered 
+
 | Name of Service | Provider | Services | Contact | Notes |
 | :------- | :------- | :------ | :------- | :------- |
 | [Gender Pathways Service](https://www.lhsc.on.ca/gender-pathways-service) | Endocrinologist | HRT <br> Puberty Suppression <br> Psychosocial Support | gps@lhsc.on.ca | 17yo or younger only |
@@ -296,6 +297,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 
 
 #### Private
+
 | Name of Service | Provider | Services | Cost |
 | :------- | :------- | :------ | :------- | 
 | [Foria Clinic](https://www.foriaclinic.com/) | Primary (MD) <br> Primary (NP) |  | Initial $299 <br> Hormone Start $199 <br> Patient Transfer $199 <br> Follow Up $99 <br> Surgery Assessment & Referral $199 <br> Counselling $150 <br> Voice Training $145 | 
