@@ -302,20 +302,20 @@ All events listed are queer-friendly. In addition:
 - :transgender_flag: are events specifically for the trans community (including non-binary and other gender-diverse folx)
 - :underage: are events that are 18+
 
-| Event Name | Type of Event | Organiser | Date & Time | Location | Cost | Description |
+| Event Name | Type of Event | Date & Time | Location | Cost | Notes |
 | :------ | :------ | :------ | :------ | :------ | :------ | :------ | 
 | London Lesbian Film Festival | | | | | | |
 | Aeolian Pride Choruses | | | | | | |
-| Trans* London Social :transgender_flag: | Social | pflag London | | | Free | |
-| Trans Collective  :transgender_flag: | Social | pflag London | | | Free | |
-| Queerdos  | Social | pflag London | | | Free | |
-| Parents & Caregivers Group | Support | pflag London | | | Free | |
-| Queer Sewcial | Social | QX | | | Free | |
-| Monthly Hike | Social <br> Sports & Rec | QX | | | Free | |
-| Book Club | Social | QX | | | Free | |
-| Queer Crafters | Queer Nexus | | | | | |
-| Karaoke for Homosexuals | Social | Honey Dip | | | | |
-| Social Run | Social <br> Sports & Rec | Frontrunners | London Bicycle Cafe | | Free | |
-| Trans & NB Munch :underage: :transgender_flag: | Social | | | | Free | 18+ event <br> Must contact organisers for event location and approval. |
+| Trans* London Social <br> :transgender_flag: <br> *pflag London*| Social | | | Free | |
+| Trans Collective <br> :transgender_flag: <br> *pflag London* | Social |  | | Free | |
+| Queerdos <br> *pflag London* | Social | | | Free | |
+| Parents & Caregivers Group <br> *pflag London*| Support | pflag London | | | Free | |
+| Queer Sewcial <br> *QX*| Social | | | Free | |
+| Monthly Hike <br> *QX*| Social <br> Sports & Rec |  | | Free | |
+| Book Club <br> *QX* | Social | | | Free | |
+| Queer Crafters <br> *Queer Nexus* | Social <br> Arts and Crafts | | | | | |
+| Karaoke for Homosexuals <br> *Honey Dip* | Social | | | | | |
+| Social Run <br> *Frontrunners* | Social <br> Sports & Rec | Tuesday 5:30pm <br> Saturday 9:00am | London Bicycle Cafe | | Free | |
+| Trans & NB Munch <br> :underage: :transgender_flag: | Social | 2nd Saturday | See notes. | Free | Contact organisers for location. <br> Prior approval needed. |
 
 
