@@ -344,10 +344,11 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 {: .prompt-warning }
 
 #### In-Person AND Virtual
+
 | Name | Practitioner | Services | Specialty | Notes |
 | :------ | :------ | :------ | :------ | :------ | :------ |
 | Blueprint <br> Counselling | RP <br> RP(Q) <br> RSW <br> Student | Individual Therapy <br> Relationships <br> ADHD/ASD Assessment <br> Group Therapy <br> Art Therapy <br> Family Therapy | Trans <br> Queer | Queer-owned | 
-
+| [Full Circle CTS](https://www.psychologytoday.com/ca/therapists/full-circle-counselling-therapy-services-london-on/802511) | Individual Therapy <br> Couples Therapy | Neurodivergent | Free consult <br> $165 per session |
 
 #### Virtual Only 
 
@@ -363,10 +364,12 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | [Karly Green](https://www.psychologytoday.com/ca/therapists/karly-green-london-on/1826190) | RP(Q) | Individual Therapy | Queer <br> Chronic Illness | Unknown cost |
 | [Devon Church](https://www.psychologytoday.com/ca/therapists/devon-church-rn-dementia-caregiving-sex-therapy-st-thomas-on/1176299) | RP | Individual Therapy | Trans <br> Queer | Free consult <br> $165 per session |
 | [Nicole Zouki](https://www.psychologytoday.com/ca/therapists/nicole-zouki-toronto-on/1166448) | RP | Individual Therapy | Queer | Free consult <br> $160 per session <br> Sliding scale available |
-| [Hope N Valletta](https://www.psychologytoday.com/ca/therapists/hope-n-valletta-toronto-on/762177( | RP | Individual Therapy <br> Couples Therapy | ENM <br> Neurodivergent | Free consult <br> $170 per session |
+| [Hope N Valletta](https://www.psychologytoday.com/ca/therapists/hope-n-valletta-toronto-on/762177) | RP | Individual Therapy <br> Couples Therapy | ENM <br> Neurodivergent | Free consult <br> $170 per session |
 | [Charlie Parker-McKay](https://www.psychologytoday.com/ca/therapists/charlie-parker-mckay-toronto-on/1025984) | RP | Individual Therapy | Neurodivergent | Free consult <br> $180 per session |
 | [Andrew Holmes](https://www.psychologytoday.com/ca/therapists/andrew-holmes-toronto-on/418986) | RSW | Individual Therapy <br> Couples Therapy <br> Group Therapy | Trans | Free consult <br> $200 per session |
 | [Sarah Szpak](https://www.psychologytoday.com/ca/therapists/sarah-szpak-london-on/1034197) | RSW | Individual Therapy | Trans <br> Queer | Free consult <br> $160 per session |
+| [Yael Shoham](https://www.psychologytoday.com/ca/therapists/yael-shoham-kaleidoscope-counselling-collective-toronto-on/1374806) | RSW | Individual Therapy <br> Couples Therapy | Neurodivergent | Free consult <br> $175 per session |
+| [Brooke Holman](https://www.psychologytoday.com/ca/therapists/brooke-holman-london-on/1384958) | RP(Q) | Individual Therapy | Queer | Free consult <br> $140 per session | Queer, non-binary therapist |
 
 
  
