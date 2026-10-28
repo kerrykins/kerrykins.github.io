@@ -348,7 +348,8 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | Name | Practitioner | Services | Specialty | Notes |
 | :------ | :------ | :------ | :------ | :------ | :------ |
 | Blueprint <br> Counselling | RP <br> RP(Q) <br> RSW <br> Student | Individual Therapy <br> Relationships <br> ADHD/ASD Assessment <br> Group Therapy <br> Art Therapy <br> Family Therapy | Trans <br> Queer | Queer-owned | 
-| [Full Circle CTS](https://www.psychologytoday.com/ca/therapists/full-circle-counselling-therapy-services-london-on/802511) | Individual Therapy <br> Couples Therapy | Neurodivergent | Free consult <br> $165 per session |
+| [Full Circle CTS](https://www.psychologytoday.com/ca/therapists/full-circle-counselling-therapy-services-london-on/802511) | | Individual Therapy <br> Couples Therapy | Neurodivergent | Free consult <br> $165 per session |
+| [Annie Murru](https://www.psychologytoday.com/ca/therapists/annie-murru-london-on/1377933) | RP(Q) | Individual Therapy <br> Group Therapy | Trans <br> Queer | Free consult <br> $150 per session |
 
 #### Virtual Only 
 
@@ -371,6 +372,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | [Yael Shoham](https://www.psychologytoday.com/ca/therapists/yael-shoham-kaleidoscope-counselling-collective-toronto-on/1374806) | RSW | Individual Therapy <br> Couples Therapy | Neurodivergent | Free consult <br> $175 per session |
 | [Brooke Holman](https://www.psychologytoday.com/ca/therapists/brooke-holman-london-on/1384958) | RP(Q) | Individual Therapy | Queer | Free consult <br> $140 per session <br> Queer, non-binary therapist | 
 | [Christine Krickhan](https://www.psychologytoday.com/ca/therapists/christine-krickhan-london-on/968855) | RP | Individual Therapy | Queer | Free consult <br> $175 per session |
+| [Kimberly Anne Gautreau](https://www.psychologytoday.com/ca/therapists/kimberly-anne-gautreau-london-on/808825) | RSW | Individual Therapy <br> Couples Therapy | Trans | Free consult <br> $160 per session |
 
 ### Permanent Hair Removal (London) 
 
