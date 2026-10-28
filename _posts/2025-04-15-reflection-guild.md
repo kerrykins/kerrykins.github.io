@@ -45,14 +45,16 @@ The goodbyes I didn’t get from the people I thought would reach out left a mar
 Fortunately, bitterness doesn’t erase beauty.
 
 ![Desktop View](/images/wow17.jpg){: width="972" height="589"}
-_Finishing our first Val'anyr, Hammer of Ancient Kings despite pugging every week and battling absences during Ulduar!
+_Finishing our first Val'anyr, Hammer of Ancient Kings despite pugging every week and battling absences during Ulduar!_
 
 For nearly two years, I served as guild master. Two years is a span of time that holds weight. It was a time of joyful chaos. It was a time where people felt safe enough to be themselves. Even if most of it faded or evolved into something else, it happened. Because it happened, it matters. 
+
+![Desktop View](/images/wow19.jpg){: width="972" height="589"}
+_Nothing like a cosy and gay sleepover after a guild Black Temple run, right?_
 
 To my former guildmates, I wish you the very best. I hope the guild continues to grow and thrive in ways I couldn’t have imagined. I hope that I added something positive to your lives during the time we shared.
 
 I’ve long since logged out. The title is gone. I've set it all of it down. But I'll carry the lessons, the failures, and the connections I made.  
 
 Some other guild photos:
-![Desktop View](/images/wow19.jpg){: width="972" height="589"}
 ![Desktop View](/images/wow18.jpg){: width="972" height="589"}
