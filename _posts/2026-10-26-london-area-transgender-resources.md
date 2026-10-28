@@ -299,15 +299,15 @@ WIP
 **WIP**
 
 **All events listed are queer-friendly.** In addition:
-- :transgender_flag: are events specifically for the trans community (including non-binary and other gender-diverse folx)
-- :underage: are events that are 18+
+🏳️‍⚧ are events specifically for the trans community (including non-binary and other gender-diverse folx)
+🔞 are events that are 18+
 
 | Event Name | Type of Event | Date & Time | Location | Cost | Notes |
 | :------ | :------ | :------ | :------ | :------ | :------ | :------ | 
 | London Lesbian Film Festival | | | | | | |
 | Aeolian Pride Choruses | | | | | | |
-| Trans* London Social <br> :transgender_flag: <br> *pflag London*| Social | | | Free | |
-| Trans Collective <br> :transgender_flag: <br> *pflag London* | Social |  | | Free | |
+| Trans* London Social <br> 🏳️‍⚧️ <br> *pflag London*| Social | | | Free | |
+| Trans Collective <br> 🏳️‍⚧️ <br> *pflag London* | Social |  | | Free | |
 | Queerdos <br> *pflag London* | Social | | | Free | |
 | Parents & Caregivers Group <br> *pflag London*| Support | pflag London | | | Free | |
 | Queer Sewcial <br> *QX*| Social <br> Arts & Crafts | | | Free | |
@@ -316,6 +316,6 @@ WIP
 | Queer Crafters <br> *Queer Nexus* | Social <br> Arts & Crafts | | | | | |
 | Karaoke for Homosexuals <br> *Honey Dip* | Social | | | | | |
 | Social Run <br> *Frontrunners* | Social <br> Sports & Rec | Tuesday 5:30pm <br> Saturday 9:00am | London Bicycle Cafe | | Free | |
-| Trans & NB Munch <br> :underage: :transgender_flag: | Social | 2nd Saturday | See notes. | Free | Contact organisers for location. <br> Prior approval needed. |
+| Trans & NB Munch <br> 🔞 🏳️‍⚧️ | Social | 2nd Saturday | See notes. | Free | Contact organisers for location. <br> Prior approval needed. |
 
 
