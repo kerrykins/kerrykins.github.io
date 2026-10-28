@@ -369,7 +369,8 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | [Andrew Holmes](https://www.psychologytoday.com/ca/therapists/andrew-holmes-toronto-on/418986) | RSW | Individual Therapy <br> Couples Therapy <br> Group Therapy | Trans | Free consult <br> $200 per session |
 | [Sarah Szpak](https://www.psychologytoday.com/ca/therapists/sarah-szpak-london-on/1034197) | RSW | Individual Therapy | Trans <br> Queer | Free consult <br> $160 per session |
 | [Yael Shoham](https://www.psychologytoday.com/ca/therapists/yael-shoham-kaleidoscope-counselling-collective-toronto-on/1374806) | RSW | Individual Therapy <br> Couples Therapy | Neurodivergent | Free consult <br> $175 per session |
-| [Brooke Holman](https://www.psychologytoday.com/ca/therapists/brooke-holman-london-on/1384958) | RP(Q) | Individual Therapy | Queer | Free consult <br> $140 per session | Queer, non-binary therapist |
+| [Brooke Holman](https://www.psychologytoday.com/ca/therapists/brooke-holman-london-on/1384958) | RP(Q) | Individual Therapy | Queer | Free consult <br> $140 per session <br> Queer, non-binary therapist | 
+| [Christine Krickhan](https://www.psychologytoday.com/ca/therapists/christine-krickhan-london-on/968855) | RP | Individual Therapy | Queer | Free consult <br> $175 per session |
 
 ### Permanent Hair Removal (London) 
 
