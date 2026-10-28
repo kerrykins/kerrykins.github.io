@@ -242,7 +242,7 @@ On the other hand, RHO recognises individualised approaches for non-binary peopl
 
 ### Transition-Related Surgeries (TRS)
 
-| Organisation | Information | Additional Details | 
+| Organisation | Information | Notes | 
 | :---- | :------------ | :------ |
 | Rainbow Health Ontario | [TRS Summary Sheets](https://www.rainbowhealthontario.ca/wp-content/uploads/2024/09/Gender-Affirming-Surgery-Summary-Sheets-Series-1.pdf) | Information about breast augmentation, top surgery, <br> vaginoplasty, hysterectomy & salpingo-oophorectomy, <br> phalloplasty, metoidioplasty, orchiectomy, <br> and a surgery preparation guide. 
 | Rainbow Health Ontario | [Referrals, Letters, Surgery](https://www.rainbowhealthontario.ca/TransHealthGuide/resources-referralsadvocacy.html) | | 
@@ -267,7 +267,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 > Check with the office as intake may be closed.
 {: .prompt-warning }
 
-| Name of Service | Type of Provider | Contact Information | Additional Details |
+| Name of Service | Type of Provider | Contact Information | Notes |
 | :------- | :------- | :------ | :------- |
 | [Gender Pathways Service](https://www.lhsc.on.ca/gender-pathways-service) | Multidisciplinary | gps@lhsc.on.ca | 17yo or younger only |
 | [Gender Care at LIHC](https://lihc.on.ca/programs-services/gender-care/) | Primary Care  | 519-660-0874 ext. 3  <br>  transhealth@lihc.on.ca | 16+ only <br> Intake CLOSED |
@@ -310,10 +310,10 @@ All events listed are queer-friendly. In addition:
 | Trans Collective <br> :transgender_flag: <br> *pflag London* | Social |  | | Free | |
 | Queerdos <br> *pflag London* | Social | | | Free | |
 | Parents & Caregivers Group <br> *pflag London*| Support | pflag London | | | Free | |
-| Queer Sewcial <br> *QX*| Social | | | Free | |
+| Queer Sewcial <br> *QX*| Social <br> Arts & Crafts | | | Free | |
 | Monthly Hike <br> *QX*| Social <br> Sports & Rec |  | | Free | |
 | Book Club <br> *QX* | Social | | | Free | |
-| Queer Crafters <br> *Queer Nexus* | Social <br> Arts and Crafts | | | | | |
+| Queer Crafters <br> *Queer Nexus* | Social <br> Arts & Crafts | | | | | |
 | Karaoke for Homosexuals <br> *Honey Dip* | Social | | | | | |
 | Social Run <br> *Frontrunners* | Social <br> Sports & Rec | Tuesday 5:30pm <br> Saturday 9:00am | London Bicycle Cafe | | Free | |
 | Trans & NB Munch <br> :underage: :transgender_flag: | Social | 2nd Saturday | See notes. | Free | Contact organisers for location. <br> Prior approval needed. |
