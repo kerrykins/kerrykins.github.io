@@ -295,7 +295,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | **Dr. Laura Sovran** | OB/GYN | OB/GYN | | |
 | **Dr. Stephanie Black** | OB/GYN | OB/GYN | | |
 | **Dr. Stephanie Moltner** | OB/GYN | HRT <br> OB/GYN <br> Post-Op Care | | |
-| **CAMH Gender Identity Clinic** <br> *Virtual* | Psychiatry | 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychiatry <br> Psychosocial Support | 17+ only. <br> No HRT |
+| [**CAMH Gender Identity Clinic**](https://www.camh.ca/en/patients-and-families/programs-and-services/gender-identity-clinic-adult) <br> *Virtual* | Psychiatry | 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychiatry <br> Psychosocial Support | 17+ only. <br> No HRT |
 | [**Horizon Care Ontario**](https://horizon-care.ca/) <br> *Virtual* <br> *Self-Referral* | Primary (MD) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | |
 | [**JHunter NP Services**](https://www.jhunternpservices.ca/) <br> *Virtual* <br> *Self-Referral* | Primary (NP) | Unknown | RHO training suggests training <br> in HRT, surgery, and puberty <br> supprression. |
 
@@ -325,8 +325,8 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | :------ | :------ | :------ | :------ | 
 | Riverbend Pharmacy | | | |
 | [**Canadian Apothecary**](https://canapo.ca/) <br> 519-439-4100 | | | |
-| [North London Medical Pharmacy](https://nlmpharmacy.com/index.html) <br> 519-474-1313 | EV in Sesame Oil (2.5mL) <br> 20mg/mL: $1.50/mg | | |
-| [True North London Compounding Pharmacy](https://truenorthcompounding.ca/) <br> 519-471-8622 | EV in Sesame/Cottonseed Oil <br> 10-40mg/ml | | |
+| [**North London Medical Pharmacy**](https://nlmpharmacy.com/index.html) <br> 519-474-1313 | EV in Sesame Oil (2.5mL) <br> 20mg/mL: $1.50/mg | | |
+| [**True North London Compounding Pharmacy**](https://truenorthcompounding.ca/) <br> 519-471-8622 | EV in Sesame/Cottonseed Oil <br> 10-40mg/ml | | |
  	
 ### Injection Supplies
 
