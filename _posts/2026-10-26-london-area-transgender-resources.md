@@ -298,7 +298,7 @@ WIP
 
 **WIP**
 
-All events listed are queer-friendly. In addition:
+**All events listed are queer-friendly.** In addition:
 - :transgender_flag: are events specifically for the trans community (including non-binary and other gender-diverse folx)
 - :underage: are events that are 18+
 
