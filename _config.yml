@@ -16,7 +16,7 @@ timezone: America/Toronto
 
 title: Kerry # the main title
 
-tagline: Welcome to my personal blog! # it will display as the subtitle
+tagline: Welcome ! # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Welcome!
@@ -40,7 +40,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/kerrykins # change to your GitHub homepage
+    # - https://github.com/kerrykins # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
