@@ -6,7 +6,7 @@ date: 2026-10-26 00:00:00 -0400
 categories: [Information]
 tags: [info, trans, LGBTQ+, LondonON]
 pin: true
-math: true
+math: false
 mermaid: true
 toc: true
 comments: true
@@ -300,10 +300,10 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 
 | Name of Service | Provider | Services | Cost |
 | :------- | :------- | :------ | :------- | 
-| [Foria Clinic](https://www.foriaclinic.com/) | Primary (MD) <br> Primary (NP) |  | Initial $299 <br> Hormone Start $199 <br> Patient Transfer $199 <br> Follow Up $99 <br> Surgery Assess. & Referral $199 <br> Counselling $150 <br> Voice Training $145 | 
-| Michelle Hermans | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assess. | Unknown |
-| Care & Family Health | Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. | $450 + HST per year, or <br> $100 per visit |
-| [Acceptance Clinic](https://www.acceptanceclinic.ca/virtual-gender-affirming-care-nurse-practitioners) | Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | $150-$360/hr |
+| [Foria Clinic](https://www.foriaclinic.com/) <br> *Virtual* | Primary (MD) <br> Primary (NP) |  | Initial $299 <br> Hormone Start $199 <br> Patient Transfer $199 <br> Follow Up $99 <br> Surgery Assess. & Referral $199 <br> Counselling $150 <br> Voice Training $145 | 
+| Michelle Hermans <br> *Virtual* | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assess. | Unknown |
+| Care & Family Health <br> *Virtual* | Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. | $450 + HST per year, or <br> $100 per visit |
+| [Acceptance Clinic](https://www.acceptanceclinic.ca/virtual-gender-affirming-care-nurse-practitioners) <br> *Virtual* | Primary (NP) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | $150-$360/hr |
 
 
 ### Compounding Pharmacies (London) 
