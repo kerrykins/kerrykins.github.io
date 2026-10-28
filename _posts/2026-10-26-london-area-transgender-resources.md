@@ -298,7 +298,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | **Dr. Stephanie Moltner** | OB/GYN | HRT <br> OB/GYN <br> Post-Op Care | | |
 | **CAMH Gender Identity Clinic** <br> *Virtual* | Psychiatry | 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychiatry <br> Psychosocial Support | 17+ only. <br> No HRT |
 | [**Horizon Care Ontario**](https://horizon-care.ca/) <br> *Virtual* <br> *Self-Referral* | Primary (MD) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | |
-| [**JHunter NP Services**](https://www.jhunternpservices.ca/) <br> *Virtual* <br> *Self-Referral* | Primary (NP) | Unknown | RHO training suggests training <br> in HRT, surgery, and puberty supprression. |
+| [**JHunter NP Services**](https://www.jhunternpservices.ca/) <br> *Virtual* <br> *Self-Referral* | Primary (NP) | Unknown | RHO training suggests training <br> in HRT, surgery, and puberty <br> supprression. |
 
 
 #### Private
@@ -343,10 +343,33 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 > This section is work in progress. 
 {: .prompt-warning }
 
-| Name | Practitioner | Delivery | Services | Lived Experience | Notes |
-| :------ | :------ | :------ | :------ | :------ | :------ | :------ | 
-| Blueprint <br> Counselling | RP <br> RP(Q) <br> RSW <br> Student | In-Person <br> Virtual | Individual Therapy <br> Relationships <br> ADHD/ASD Assessment <br> Group Therapy <br> Art Therapy <br> Family Therapy | Trans <br> Queer | Queer-owned | 
+#### In-Person AND Virtual
+| Name | Practitioner | Services | Specialty | Notes |
+| :------ | :------ | :------ | :------ | :------ | :------ |
+| Blueprint <br> Counselling | RP <br> RP(Q) <br> RSW <br> Student | Individual Therapy <br> Relationships <br> ADHD/ASD Assessment <br> Group Therapy <br> Art Therapy <br> Family Therapy | Trans <br> Queer | Queer-owned | 
 
+
+#### Virtual Only 
+
+> Some therapists in this section may offer in-person options. However, since in-person options are not in London, they will be considered as virtual only. 
+{: .prompt-info }
+
+| Name | Practitioner | Services | Specialty | Notes |
+| :------ | :------ | :------ | :------ | :------ | :------ |
+| [Sj Vriend](https://www.psychologytoday.com/ca/therapists/sj-vriend-ottawa-on/1113431) | RP | Virtual | Individual Therapy | Trans <br> Queer| Free consult <br> $190 per session |
+| [Asher Faerstein](https://www.svnctum.ca/psychotherapy-toronto) | RP | Virtual | Individual Therapy | Queer <br> Neurodivergent | Free consult <br> $170 per session |
+| [Centrepeace](https://centrepeacelondon.ca/lgbtq-affirming-therapist-in-london-ontario) | RSW | Individual Therapy | Queer | Free consult <br> $165 per session <br> Sliding scale available |
+| [Calire Salisbury](https://www.psychologytoday.com/ca/therapists/claire-salisbury-london-on/281497) | RP | Individual Therapy | Trans <br> Queer | Free consult <br> Unknown cost |
+| [Karly Green](https://www.psychologytoday.com/ca/therapists/karly-green-london-on/1826190) | RP(Q) | Individual Therapy | Queer <br> Chronic Illness | Unknown cost |
+| [Devon Church](https://www.psychologytoday.com/ca/therapists/devon-church-rn-dementia-caregiving-sex-therapy-st-thomas-on/1176299) | RP | Individual Therapy | Trans <br> Queer | Free consult <br> $165 per session |
+| [Nicole Zouki](https://www.psychologytoday.com/ca/therapists/nicole-zouki-toronto-on/1166448) | RP | Individual Therapy | Queer | Free consult <br> $160 per session <br> Sliding scale available |
+| [Hope N Valletta](https://www.psychologytoday.com/ca/therapists/hope-n-valletta-toronto-on/762177( | RP | Individual Therapy <br> Couples Therapy | ENM <br> Neurodivergent | Free consult <br> $170 per session |
+| [Charlie Parker-McKay](https://www.psychologytoday.com/ca/therapists/charlie-parker-mckay-toronto-on/1025984) | RP | Individual Therapy | Neurodivergent | Free consult <br> $180 per session |
+| [Andrew Holmes](https://www.psychologytoday.com/ca/therapists/andrew-holmes-toronto-on/418986) | RSW | Individual Therapy <br> Couples Therapy <br> Group Therapy | Trans | Free consult <br> $200 per session |
+| [Sarah Szpak](https://www.psychologytoday.com/ca/therapists/sarah-szpak-london-on/1034197) | RSW | Individual Therapy | Trans <br> Queer | Free consult <br> $160 per session |
+
+
+ 
 
 ### Permanent Hair Removal (London) 
 
