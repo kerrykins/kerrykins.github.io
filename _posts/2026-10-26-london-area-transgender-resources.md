@@ -14,7 +14,12 @@ comments: true
 ---
 
 > This was written as part of a resource post for a local Discord server for Trans Awareness Month 2026 🏳️‍⚧️. Updates are not guaranteed to keep this post up-to-date.
+
+**Disclosure**: Resources listed in this document are not listed based on the quality. This guide's purpose is to help identify and list relevant resources. **Always do your own research.**
 {: .prompt-info }
+
+>  Kerry does not take any responsibility for the accuracy of the information presented in this guide. 
+(: .prompt-warning)
 
 > **Current Status (10/28/26)**: Working on verifying and adding London-specific resources for:
 - Compounding Pharmacies
@@ -24,6 +29,14 @@ comments: true
 - Queer & Trans Socials 
 - Housing & Food
 {: .prompt-info }
+
+## Using This Guide 
+
+Use the table of contents to the right to jump to sections. 
+
+The first four sections (Gender Affirming Resources Ontario Spreadsheet, Organisations, Resources, and Accessing Medical Gender Affirming Care) contains general information that is relevant in London as it is in another Ontario city. Thus, you should expect links to sites and organisations that operates province (or even country) wide. 
+
+The last section only lists London specific resources. If you are only interested in this, use the table of contents to navigate to this quickly. 
 
 ## Gender Affirming Resources Ontario Spreadsheet
 
