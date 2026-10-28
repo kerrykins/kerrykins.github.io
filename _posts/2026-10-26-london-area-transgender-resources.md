@@ -267,18 +267,45 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 > Check with the office as intake may be closed.
 {: .prompt-warning }
 
-| Name of Service | Type of Provider | Contact Information | Notes |
-| :------- | :------- | :------ | :------- |
-| [Gender Pathways Service](https://www.lhsc.on.ca/gender-pathways-service) | Multidisciplinary | gps@lhsc.on.ca | 17yo or younger only |
-| [Gender Care at LIHC](https://lihc.on.ca/programs-services/gender-care/) | Primary Care  | 519-660-0874 ext. 3  <br>  transhealth@lihc.on.ca | 16+ only <br> Intake CLOSED |
-| Dr. AJ MacDonald | Primary Care | 519-433-2996 |  |
-| Dr. Emily Brennan | Endocrinologist | 519-850-3234 |  |
-| Dr. Julia Creider | Endocrinologist | 519-601-8621 |  |
-| Dr. Stanislaus Van Uum | Endocrinologist | 519-646-6170 |  |
-| Dr. Ranjit Singarayer | Endocrinologist | 226-680-0802 |  |
-| [Foria Clinic](https://www.foriaclinic.com/) | Virtual Clinic |  |  |
+#### OHIP Covered 
+| Name of Service | Provider | Services | Contact | Notes |
+| :------- | :------- | :------ | :------- | :------- |
+| [Gender Pathways Service](https://www.lhsc.on.ca/gender-pathways-service) | Endocrinologist | HRT <br> Puberty Suppression <br> Psychosocial Support | gps@lhsc.on.ca | 17yo or younger only |
+| [Gender Care at LIHC](https://lihc.on.ca/programs-services/gender-care/) | Primary (MD) <br> Primary (NP) | HRT <br> 1st Surgery Assessment <br> 2nd Surgery Assessment <br> Psychosocial Support | 519-660-0874 ext. 3  <br>  transhealth@lihc.on.ca | 16+ only <br> Intake CLOSED |
+| Dr. AJ MacDonald | Primary (MD) | | 519-433-2996 |  |
+| Western University <br> Health & Wellness | Primary (MD) | HRT <br> 1st Surgery Assessment <br> 2nd Surgery Assessment <br> Post-Op Care <br> Psychosocial Support | | Western University students only. |
+| Dr. Emily Brennan | Endocrinologist | HRT | 519-850-3234 |  |
+| Dr. Julia Creider | Endocrinologist | HRT | 519-601-8621 |  |
+| Dr. Stanislaus Van Uum | Endocrinologist | HRT | 519-646-6170 |  |
+| Dr. Ranjit Singarayer | Endocrinologist | HRT | 226-680-0802 |  |
+| Dr. Debbie Penava | OB/GYN | OB/GYN | | |
+| Dr. Laura Sovran | OB/GYN | OB/GYN | | |
+| Dr. Stephanie Black | OB/GYN | OB/GYN | | |
+| Dr. Stephanie Moltner | OB/GYN | HRT <br> OB/GYN <br> Post-Op Care | | |
+| CAMH Gender Identity Clinic <br> *Virtual* | Psychiatry | 1st Surgery Assessment <br> 2nd Surgery Assessment <br> Psychiatry <br> Psychosocial Support | 17+ only. <br> No HRT |
+| | 
+
+
+#### Private
+| Name of Service | Provider | Services | Cost |
+| :------- | :------- | :------ | :------- | 
+| [Foria Clinic](https://www.foriaclinic.com/) | Primary (MD) <br> Primary (NP) |  | Initial $299 <br> Hormone Start $199 <br> Patient Transfer $199 <br> Follow Up $99 <br> Surgery Assessment & Referral $199 <br> Counselling $150 <br> Voice Training $145 | 
+| Michelle Hermans | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assessment | Unknown |
+| Care & Family Health | Primary (NP) | HRT <br> 1st Surgery Assessment <br> 2nd Surgery Assessment | $450 + HST per year, or <br> $100 per visit |
+| [Acceptance Clinic](https://www.acceptanceclinic.ca/virtual-gender-affirming-care-nurse-practitioners) | Primary (NP) | HRT <br> 1st Surgery Assessment <br> 2nd Surgery Assessment <br> Psychosocial Support | $150-$360/hr |
+
 
 ### Compounding Pharmacies (London) 
+
+WIP
+
+| Name | Formulations & Cost | Shipping | Notes | 
+| :------ | :------ | :------ | :------ | 
+| Riverbend Pharmacy | | | |
+| Canadian Apothecary | | | |
+| North London Medical Pharmacy | EV in Sesame Oil (2.5mL) <br> 20mg/mL: $1.50/mg | | |
+
+### Injection Supplies
 
 WIP
 
@@ -290,7 +317,7 @@ WIP
 
 | Name | Practitioner | Delivery | Services | Lived Experience | Notes |
 | :------ | :------ | :------ | :------ | :------ | :------ | :------ | 
-| Blueprint Counselling | RP <br> RP(Q) <br> RSW <br> Student | In-Person <br> Virtual | Individual Therapy <br> Relationships <br> ADHD/ASD Assessment <br> Group Therapy <br> Art Therapy <br> Family Therapy | Trans <br> Queer | Queer-owned | 
+| Blueprint <br> Counselling | RP <br> RP(Q) <br> RSW <br> Student | In-Person <br> Virtual | Individual Therapy <br> Relationships <br> ADHD/ASD Assessment <br> Group Therapy <br> Art Therapy <br> Family Therapy | Trans <br> Queer | Queer-owned | 
 
 
 ### Permanent Hair Removal (London) 
@@ -305,7 +332,6 @@ WIP
 > 🏳️‍⚧ are events specifically for the trans community (including non-binary and other gender-diverse folx) <br> 
 > 🔞 are events that are 18+
 {: .prompt-tip }
-
 
 | Event Name | Type of Event | Date & Time | Location | Cost | Notes |
 | :------ | :------ | :------ | :------ | :------ | :------ | :------ | 
