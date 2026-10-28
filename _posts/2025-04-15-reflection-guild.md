@@ -26,7 +26,7 @@ In late 2022, I joined a queer guild. At the time, I was closeted, crumbling, an
 
 Then I became guild master. 
 
-![Desktop View](/images/wow3.png){: width="300" height="355"}
+![Desktop View](/images/wow3.png){: width="972" height="589"}
 _The first thing I did when I became guild master was to change the guild tabard to this beautiful, kinda gay design 8)!_
 
 ![Desktop View](/images/wow14.jpg){: width="972" height="589"}
@@ -55,6 +55,6 @@ I’ve long since logged out. The title is gone. I've set it all of it down. But
 
 Some other guild photos:
 
-![Desktop View](/images/wow19.jpg){: width="972" height="589" .w-50 .left}
-![Desktop View](/images/wow18.jpg){: width="972" height="589" .w-50 .right}
-![Desktop View](/images/wow17.jpg){: width="972" height="589" .w-50 .right}
+![Desktop View](/images/wow19.jpg){: width="972" height="589"}
+![Desktop View](/images/wow18.jpg){: width="972" height="589"}
+![Desktop View](/images/wow17.jpg){: width="972" height="589"}
