@@ -254,6 +254,8 @@ See [TRS Frequently Asked Questions](https://www.rainbowhealthontario.ca/wp-cont
 
 ## London Area Resources 
 
+Resources listed in this section are at least anecdotally noted as trans-friendly. If the resource explicitly notes they are trans-friendly (for example, on their website), it will also be noted here. 
+
 ### GAC Medical Providers (London)
 
 Below is a list of clinics/medical professionals that offer GAC in London, Ontario. 
@@ -290,8 +292,23 @@ WIP
 
 ### Queer & Trans Socials (London) 
 
-WIP
+**WIP**
+
+| Event Name | Type of Event | Organiser | Date & Time | Demographic | Description |
+| London Lesbian Film Festival | | | | | | 
+| Aeolian Pride Choruses | | | | | | 
+| Trans* London Social | Social | pflag London | | | | 
+| Trans Collective  | Social | pflag London | | | | 
+| Queerdos  | Social | pflag London | | | | 
+| Parents & Caregivers Group | Support | pflag London | | | |
+| Queer Sewcial | Social | QX | | | |
+| Monthly Hike | Social | QX | | | |
+| Book Club | Social | QX | | | |
+| Karaoke for Homosexuals | Social | Honey Dip | | | |
+| Social Run | Social | Frontrunners London ON | London Bicycle Cafe | | |
+| Trans & NB Munch | Social | | | | 18+ event <br> Must contact organisers for event location and approval. |
+
 
 ## Acknowledgements
 
-I wish to thank the author of the *Gender Affirming Resources Ontario* spreadsheet for compiling so many resources for the whole province. 
+I wish to thank the author of the *Gender Affirming Resources Ontario* spreadsheet for compiling so many resources for the whole province - some of these pertaining to London was copied and pasted into this guide. 
