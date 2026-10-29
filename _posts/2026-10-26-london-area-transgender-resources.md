@@ -415,6 +415,21 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 | :----- | :----- |
 | [**Voice Clinic @ St. Michael's Hospital**](https://drive.google.com/file/d/1soJyOnpnPQVUEEnkh5YBKfWlPwOD_Pr9/view) | 18+ <br> Feminisation focus <br> Virtual only <br> 4 entry points per year <br> Faciliated by Speech-Language Pathologists <br> 10 weeks or group sessions + individual assessments + mid-point check-ins <br> Sliding scale of $10-$45 per session
 
+### Clothing and Accessories 
+
+> Sites explicitly marketing as a crossdressing store are omitted from this list. 
+{: .prompt-info }
+
+| Service Name | Specialty | Details |
+| :----- | :----- | :----- |
+| [**TheBreastFormStore**](https://thebreastformstore.com/) | Breast Forms | Online (based in BC) |
+| [**Enfemme**](https://enfemmestyle.com/) | Feminine Fashion <br> Breast Form <br> Tucking Underwear <br> Wigs | Online |
+| [**gc2b**](https://gc2b.co/) | Binders | Online <br> Based in U.S. |
+| [**Flavnt**](https://flavnt.com/) | Binders <br> General Fashion | Online <br> Based in U.S. |
+| [**Shapeshifters**](https://shapeshifters.co/) | Binders <br> Sports Bras | Online <br> Based in U.S. |
+| [**GenderGear.ca**](https://www.gendergear.ca/) | Binders <br> Bras <br> Breast Forms <br> Dilation <br> Packing <br> Pumps | Online <br> Worker-owned cooperative <br> Trans and non-binary ownership |
+| [**Transguy Supply**](https://transguysupply.com/) | Binders <br> Grooming Products <br> Masculine Fashion <br> Packing <br> Prosthetics | Online <br> Based in U.S. <br> Trans ownership |
+
 ### Queer & Trans Socials (London) 
 
 > This section is a work in progress. 
