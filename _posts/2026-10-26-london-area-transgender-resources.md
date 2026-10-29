@@ -286,21 +286,20 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | Name of Service | Provider | Services | Notes |
 | :------- | :------- | :------ | :------- | :------- |
 | **Dr. AJ MacDonald** <br> 519-433-2996 | Primary (MD) | |  |
-| [**Gender Care @ LIHC**](https://lihc.on.ca/programs-services/gender-care/) <br> 519-660-0874 ext. 3  <br>  transhealth@lihc.on.ca | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | 16+ only <br> Intake CLOSED |
+| [**Horizon Care Ontario**](https://horizon-care.ca/) <br> *Virtual* <br> *Self-Referral* | Primary (MD) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | |
 | **Western University** <br> **Health & Wellness** <br> 519-661-3030 | Primary (MD) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | UWO students only. |
+| [**Gender Care @ LIHC**](https://lihc.on.ca/programs-services/gender-care/) <br> 519-660-0874 ext. 3  <br>  transhealth@lihc.on.ca | Primary (NP) | HRT <br> Puberty Suppression <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Post-Op Care <br> Psychosocial Support | 16+ only <br> Intake CLOSED |
+| [**JHunter NP Services**](https://www.jhunternpservices.ca/) <br> *Virtual* <br> *Self-Referral* | Primary (NP) | Unknown | RHO training suggests training <br> in HRT, surgery, and puberty <br> supprression. |
 | **Dr. Emily Brennan** <br> 519-850-3234 | Endocrinologist | HRT |  |
 | **Dr. Julia Creider** <br> 519-601-8621 | Endocrinologist | HRT |  |
-| **Dr. Stanislaus Van Uum** <br> 519-646-6170 | Endocrinologist | HRT |  |
 | **Dr. Ranjit Singarayer** <br> 226-680-0802 | Endocrinologist | HRT |  |
+| **Dr. Stanislaus Van Uum** <br> 519-646-6170 | Endocrinologist | HRT |  |
 | [**Gender Pathways Service**](https://www.lhsc.on.ca/gender-pathways-service) <br> gps@lhsc.on.ca | Endocrinologist | HRT <br> Puberty Suppression <br> Psychosocial Support | 17yo or younger only |
 | **Dr. Debbie Penava** | OB/GYN | OB/GYN | | |
 | **Dr. Laura Sovran** | OB/GYN | OB/GYN | | |
 | **Dr. Stephanie Black** | OB/GYN | OB/GYN | | |
 | **Dr. Stephanie Moltner** | OB/GYN | HRT <br> OB/GYN <br> Post-Op Care | | |
 | [**CAMH Gender Identity Clinic**](https://www.camh.ca/en/patients-and-families/programs-and-services/gender-identity-clinic-adult) <br> *Virtual* | Psychiatry | 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychiatry <br> Psychosocial Support | 17+ only. <br> No HRT |
-| [**Horizon Care Ontario**](https://horizon-care.ca/) <br> *Virtual* <br> *Self-Referral* | Primary (MD) | HRT <br> 1st Surgery Assess. <br> 2nd Surgery Assess. <br> Psychosocial Support | |
-| [**JHunter NP Services**](https://www.jhunternpservices.ca/) <br> *Virtual* <br> *Self-Referral* | Primary (NP) | Unknown | RHO training suggests training <br> in HRT, surgery, and puberty <br> supprression. |
-
 
 #### Private
 
@@ -395,8 +394,8 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 | Name | Services | Bottom Surgery Prep | Notes | 
 | :------ | :------ | :------ | :------ | :------ | :------ |
 | [**Venus Beauty and Wellness**](https://venusbeautywellness.ca/) | Electrolysis <br> Laser | |
-| [**Afterglow Laser Spa**](https://www.afterglowlaserspa.com/) | Laser | Promos and packages available |
-| [**Bombshell Hair and Wellness**](https://www.londonbombshell.ca/) | Laser | Packages available |
+| [**Afterglow Laser Spa**](https://www.afterglowlaserspa.com/) | Laser |  | Promos and packages available |
+| [**Bombshell Hair and Wellness**](https://www.londonbombshell.ca/) | Laser |  | Packages available |
 
 ### Queer & Trans Socials (London) 
 
@@ -437,12 +436,12 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 
 | Place Name | Address | Venue Type | Description | Notes |
 | :------ | :------ | :------ | 
-| [**DoughEV**](https://doughev.com/) <br> 548-391-4851 <br> doughevlondon@gmail.com | 621 Dundas Street | Cafe | |
-| **London Brewing Co-Op** | | Brewery |  ||
-| **ReImagine Co.** |||||
-| **Honey Dip** || Nightlife |  ||
-| **Poacher's Arms** || Pub <br> Nightlife | ||
-| **Supply & Demand** ||Pub |  ||
+| [**DoughEV**](https://doughev.com/) <br> 548-391-4851 <br> doughevlondon@gmail.com | 621 Dundas St. | Cafe | | |
+| [**London Brewing Co-Op**](https://www.londonbrewing.ca/) | 521 Burbrook Pl. | Brewery |  ||
+| [**ReImagine Co.**](https://reimagineco.ca/) | 206 Piccadilly St. | Third Space |  ||
+| [**Honey Dip**](https://www.honeydipbar.com/) | 621 Dundas St. | Nightlife |  | |
+| [**Poacher's Arms**](https://www.instagram.com/poachers_arms/) | 171 Queens Ave. | Pub <br> Nightlife | ||
+| [**Supply & Demand**] ||Pub |  ||
 
 ### Food Support
 
