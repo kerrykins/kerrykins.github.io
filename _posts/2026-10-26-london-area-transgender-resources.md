@@ -316,13 +316,14 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 > This section is a work in progress. 
 {: .prompt-warning }
 
-The following pharmacies in London have compounded drugs for the trans community. 
+The following pharmacies have compounded drugs for the trans community in London. 
 
 | Name | Phone | Fax | Notes | 
 | :------ | :------ | :------ | :------ | 
 | [**Canadian Apothecary**](https://canapo.ca/) | 519-439-4100 | | |
 | [**North London Medical Pharmacy**](https://nlmpharmacy.com/index.html) | 519-474-1313 | | |
 | [**True North London <br> Compounding Pharmacy**](https://truenorthcompounding.ca/) | 519-471-8622 | | |
+| [**Pace Pharmacy**](https://pacepharmacy.com/) | 416-515-7223 (Downtown Toronto) <br> 416-423-7224 (Leaside) | 416-515-7224 (Downtown Toronto) <br> 416-423-7224 (Leaside) | Based in Toronto but ships across Canada |
  	
 ### Injection Supplies
 
