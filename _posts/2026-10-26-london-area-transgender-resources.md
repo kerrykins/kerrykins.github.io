@@ -321,9 +321,9 @@ The following pharmacies have compounded drugs for the trans community in London
 | Name | Phone | Fax | Notes | 
 | :------ | :------ | :------ | :------ | 
 | [**Canadian Apothecary**](https://canapo.ca/) | 519-439-4100 | | |
-| [**North London Medical Pharmacy**](https://nlmpharmacy.com/index.html) | 519-474-1313 | | |
+| [**North London <br> Medical Pharmacy**](https://nlmpharmacy.com/index.html) | 519-474-1313 | | |
 | [**True North London <br> Compounding Pharmacy**](https://truenorthcompounding.ca/) | 519-471-8622 | | |
-| [**Pace Pharmacy**](https://pacepharmacy.com/) | 416-515-7223 (Downtown Toronto) <br> 416-423-7224 (Leaside) | 416-515-7224 (Downtown Toronto) <br> 416-423-7224 (Leaside) | Based in Toronto but ships across Canada |
+| [**Pace Pharmacy**](https://pacepharmacy.com/) | 416-515-7223 (DT Toronto) <br> 416-423-7224 (Leaside) | 416-515-7224 (DT Toronto) <br> 416-423-7224 (Leaside) | Based in Toronto but ships across Canada <br> Free delivery if conditions met. |
  	
 ### Injection Supplies
 
@@ -378,7 +378,7 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 | [Karly Green](https://www.psychologytoday.com/ca/therapists/karly-green-london-on/1826190) <br> RP(Q) | Individual Therapy | Queer <br> Chronic Illness | Unknown cost <br> **Queer therapist** |
 | [Nicole Zouki](https://www.psychologytoday.com/ca/therapists/nicole-zouki-toronto-on/1166448) <br> RP | Individual Therapy | Queer | Free consult <br> $160 per session <br> Sliding scale available <br> **Queer therapist** |
 | [Pamela Bailey](https://centrepeacelondon.ca/lgbtq-affirming-therapist-in-london-ontario) <br> RSW | Individual Therapy | Queer | Free consult <br> $165 per session <br> Sliding scale available <br> **Queer therapist** |
-| [Sj Vriend](https://www.psychologytoday.com/ca/therapists/sj-vriend-ottawa-on/1113431) <br> RP | Individual Therapy | Trans <br> Queer| Free consult <br> $190 per session <br> **CPATH & WPATH member** <br> **Queer therapist** |
+| [Sj Vriend](https://www.psychologytoday.com/ca/therapists/sj-vriend-ottawa-on/1113431) <br> RP | Individual Therapy | Trans <br> Queer| Free consult <br> $190 per session <br> **CPATH & WPATH member** <br> **Queer therapist** | [Rainbow Counselling](https://rainbowcounselling.ca/) <br> RSW <br> RP, RP(Q) <br>  | Individual Therapy <br> Couples Therapy <br> Family Therapy | Queer <br> Neurodivergent | Free consult <br> Prices vary based on therapist chosen <br> Queer, trans, non-binary therapists |
 | [Trans Wellness Ontario](https://www.transwellness.ca/individual-services) | Individual Therapy  | Trans <br> Queer | Free <br> [Intake Request Form](https://docs.google.com/forms/d/e/1FAIpQLSen9P1ghQ2U3boFJr3xLoA-1kUHBdUFMQgaXAiZJm7m9OOn_w/viewform) <br> Intake does not guarantee service <br> Significant waitlist
 | [Yael Shoham](https://www.psychologytoday.com/ca/therapists/yael-shoham-kaleidoscope-counselling-collective-toronto-on/1374806) <br> RSW | Individual Therapy <br> Couples Therapy | Neurodivergent | Free consult <br> $175 per session |
 
