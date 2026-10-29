@@ -381,9 +381,11 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 
 | Name | Services | Bottom Surgery Prep | Notes | 
 | :------ | :------ | :------ | :------ | :------ | :------ |
-| [**Venus Beauty and Wellness**](https://venusbeautywellness.ca/) | Electrolysis <br> Laser | |
-| [**Afterglow Laser Spa**](https://www.afterglowlaserspa.com/) | Laser |  | Promos and packages available |
+| [**Afterglow Laser Spa**](https://www.afterglowlaserspa.com/) | Laser |  | Promos and packages available <br> All gender pricing |
 | [**Bombshell Hair and Wellness**](https://www.londonbombshell.ca/) | Laser |  | Packages available |
+| [**Dermace Laser & Skin Clinic**](https://dermacelaserclinic.ca/services/service/3085/) | Laser |  | |
+| [**North London <br> Electrolysis and Laser**](https://northlondonelect.com/) | Electrolysis | 
+| [**Venus Beauty and Wellness**](https://venusbeautywellness.ca/) | Electrolysis <br> Laser | |
 
 ### Queer & Trans Socials (London) 
 
