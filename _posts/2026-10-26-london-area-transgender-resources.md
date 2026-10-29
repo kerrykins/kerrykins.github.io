@@ -48,21 +48,6 @@ The last section only lists London specific resources. If you are only intereste
 
 Someone [compiled a spreadsheet](https://docs.google.com/spreadsheets/d/111o63Tvt20heohe9KtRW_AZPBKOz4kpZ1pb7r0CJpvU/edit?gid=1664012296#gid=1664012296) for gender affirming resources in Ontario. It is *phenomenal* work. Note the scope of the spreadsheet is for Ontario. The spreadsheet covers the following topics:
 
-- HRT, Surgery Assessments, Post-Op Care 
-- Compounding Pharmacies
-- Injection Supplies
-- Allied Health Professionals 
-- Trans-Friendly Psychotherapists
-- Permanent Hair Removal 
-- ID Change Clinics/Funds 
-- Gender Affirming Surgery 
-- Gender Affirming Gear/Funds 
-- Gender Affirming Services 
-- Queer & Trans Socials, Fun Things to Do 
-- Helpful Links 
-- For Healthcare Providers 
-- Housing & Food
-
 As of the updating of this article (check the update time at the top), the spreadsheet was last updated on **August 17, 2026**. 
 
 > This post serves to support and supplement information found in the spreadsheet, especially focusing on resources in London, ON. 
