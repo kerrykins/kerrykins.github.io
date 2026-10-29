@@ -321,12 +321,13 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 > This section is a work in progress. 
 {: .prompt-warning }
 
-| Name | Formulations & Cost | Shipping | Notes | 
+The following pharmacies in London have compounded drugs for the trans community. 
+
+| Name | Phone | Fax | Notes | 
 | :------ | :------ | :------ | :------ | 
-| Riverbend Pharmacy | | | |
-| [**Canadian Apothecary**](https://canapo.ca/) <br> 519-439-4100 | | | |
-| [**North London Medical Pharmacy**](https://nlmpharmacy.com/index.html) <br> 519-474-1313 | EV in Sesame Oil (2.5mL) <br> 20mg/mL: $1.50/mg | | |
-| [**True North London <br> Compounding Pharmacy**](https://truenorthcompounding.ca/) <br> 519-471-8622 | EV in Sesame/Cottonseed Oil <br> 10-40mg/ml | | |
+| [**Canadian Apothecary**](https://canapo.ca/) | 519-439-4100 | | |
+| [**North London Medical Pharmacy**](https://nlmpharmacy.com/index.html) | 519-474-1313 | | |
+| [**True North London <br> Compounding Pharmacy**](https://truenorthcompounding.ca/) | 519-471-8622 | | |
  	
 ### Injection Supplies
 
@@ -360,8 +361,8 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 | [Annie Murru](https://www.psychologytoday.com/ca/therapists/annie-murru-london-on/1377933) | RP(Q) | Individual Therapy <br> Group Therapy | Trans <br> Queer | Free consult <br> $150 per session |
 | [Dakota Grass](https://www.psychologytoday.com/ca/therapists/dakota-grass-london-on/1238198) | RSW <br> RP(Q) | Individual Therapy <br> Couples Therapy | Queer | Free consult <br> $160 per session <br> Waitlist |
 | [Darryl DeRoches](https://www.psychologytoday.com/ca/therapists/darryl-deroches-london-on/827995) | RSW | Individual Therapy <br> Couples Therapy | ENM | $170 per session |
-| [Kimberly Anne Gautreau](https://www.psychologytoday.com/ca/therapists/kimberly-anne-gautreau-london-on/808825) <br> RSW | Individual Therapy <br> Couples Therapy | Trans | Free consult <br> $160 per session |
-| [Sarah Szpak](https://www.psychologytoday.com/ca/therapists/sarah-szpak-london-on/1034197) <br> RSW | Individual Therapy | Trans <br> Queer | Free consult <br> $160 per session |
+| [Kimberly Anne Gautreau](https://www.psychologytoday.com/ca/therapists/kimberly-anne-gautreau-london-on/808825) | RSW | Individual Therapy <br> Couples Therapy | Trans | Free consult <br> $160 per session |
+| [Sarah Szpak](https://www.psychologytoday.com/ca/therapists/sarah-szpak-london-on/1034197) | RSW | Individual Therapy | Trans <br> Queer | Free consult <br> $160 per session |
 
 #### Virtual Only 
 
