@@ -159,6 +159,10 @@ As of the updating of this article (check the update time at the top), the sprea
 - [Supporting Your Child's Gender Identity and Expression](https://www.rainbowhealthontario.ca/wp-content/uploads/2022/03/Supporting-Your-Childs-Gender-Identity-and-Expression-1.pdf)
 - [Advocating For Your Gender Independent Child](https://www.rainbowhealthontario.ca/wp-content/uploads/2022/03/Advocating-For-Your-Gender-Independent-Child-May-2022.pdf)
 
+### For Family Members
+
+- [Families in TRANSition](https://rootsinwellness.ca/wp-content/uploads/2018/04/families-in-transition.pdf)
+
 ### For Youth
 
 - [LGBTQ+ Youth HeLP](https://www.youthhelp.net/)
@@ -228,11 +232,12 @@ On the other hand, RHO recognises individualised approaches for non-binary peopl
 
 ### Transition-Related Surgeries (TRS)
 
-| Organisation | Information | Notes | 
+| Source | Information | Notes | 
 | :---- | :------------ | :------ |
 | Rainbow Health Ontario | [TRS Summary Sheets](https://www.rainbowhealthontario.ca/wp-content/uploads/2024/09/Gender-Affirming-Surgery-Summary-Sheets-Series-1.pdf) | Information about breast augmentation, top surgery, <br> vaginoplasty, hysterectomy & salpingo-oophorectomy, <br> phalloplasty, metoidioplasty, orchiectomy, <br> and a surgery preparation guide. 
 | Rainbow Health Ontario | [Referrals, Letters, Surgery](https://www.rainbowhealthontario.ca/TransHealthGuide/resources-referralsadvocacy.html) | | 
 | Women's College Hospital | [TRS Information](https://www.womenscollegehospital.ca/care-programs/surgery/transition-related-surgery/) |  | 
+| CAMH | [Transition-Related Surgery (TRS) FAQ](https://camh.ca/-/media/files/transrelatedsurgery-faq-en-pdf.pdf)
   
 ### Accessing TRS
 
@@ -241,6 +246,11 @@ Unlike HRT's informed consent model, OHIP-funded surgeries require provincial ap
 After your provider submits the funding application, the Ministry of Health muskert approve it before any surgery can take place. 
 
 See [TRS Frequently Asked Questions](https://www.rainbowhealthontario.ca/wp-content/uploads/2025/08/RHO-GAS-FAQ.pdf) for information about assessments, referrals, and OHIP coverage.
+
+### Gender-Affirming Surgeons in Canada
+
+: TransHealthcare compiled a list of gender-affirming surgeons practicing in Canada. The list can be filtered by procedures such as breast augmentation, FFS, FMS, hysterectomy, top surgery, etc.
+br[**TransHealthcare List of Gender-Affirming Surgeons in Canada**](https://www.transhealthcare.org/canada/)
 
 ## London Area Resources 
 
@@ -386,6 +396,24 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 | [**Dermace Laser & Skin Clinic**](https://dermacelaserclinic.ca/services/service/3085/) | Laser |  | |
 | [**North London <br> Electrolysis and Laser**](https://northlondonelect.com/) | Electrolysis | 
 | [**Venus Beauty and Wellness**](https://venusbeautywellness.ca/) | Electrolysis <br> Laser | |
+
+### ID Clinics
+
+> This section is a work in progress. 
+{: .prompt-warning }
+
+| Service Name | Details |
+| :----- | :----- |
+| [**HCLC Trans ID Clinic**](https://hamiltonjustice.ca/en/community-justice/queer-justice/) | Every 3rd Thursday from 5:30pm-7:45pm <br> Virtual option available <br> Run by the Hamilton Community Legal Clinic <br> Priority given to Hamilton residents |
+
+### Voice Training 
+
+> This section is a work in progress. 
+{: .prompt-warning }
+
+| Service Name | Details |
+| :----- | :----- |
+| [**Voice Clinic @ St. Michael's Hospital**](https://drive.google.com/file/d/1soJyOnpnPQVUEEnkh5YBKfWlPwOD_Pr9/view) | 18+ <br> Feminisation focus <br> Virtual only <br> 4 entry points per year <br> Faciliated by Speech-Language Pathologists <br> 10 weeks or group sessions + individual assessments + mid-point check-ins <br> Sliding scale of $10-$45 per session
 
 ### Queer & Trans Socials (London) 
 
