@@ -412,7 +412,7 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 | **Monthly Hike** <br> *by QX*| Social <br> Sports & Rec |  | Varies | Free | |
 | **Parents & Caregivers Group** <br> *by pflag London*| Support | | See notes | Free |  Contact organisers for location.|
 | **Queerdos** <br> *by pflag London* | Social | | See notes | Free | Contact organisers for location. |
-| **Queer Crafters** <br> *by Queer Nexus* | Social <br> Arts & Crafts | 1st Monday | Tea Haus | Free | |
+| **Queer Crafters** <br> *by Queer Nexus* | Social <br> Arts & Crafts | 1st Monday <br> 12pm-2pm | Tea Haus | Free | |
 | **Queer Sewcial** <br> *by QX*| Social <br> Arts & Crafts | | Central Library | Free | |
 | **Social Run** <br> *by Frontrunners* | Social <br> Sports & Rec | Tuesday 5:30pm <br> Saturday 9:00am | London Bicycle Cafe | Free| |
 | **Trans Collective** 🏳️‍⚧️ <br> *by pflag London* | Social | 1st Wednesday <br> 6pm-8:30pm | See notes | Free | Contact organisers for location. |
@@ -426,7 +426,14 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 > This section is a work in progress. 
 {: .prompt-warning }
 
-TBA: DoughEV, London Brewing Co-Op, ReImagine Co., Honey Dip, Poacher's Arms, Supply & Demand
+| Place Name | Address | Venue Type | Description | Notes |
+| :------ | :------ | :------ | 
+| [DoughEV](https://doughev.com/) <br> 548-391-4851 <br> doughevlondon@gmail.com | 621 Dundas Street | Cafe | |
+| London Brewing Co-Op | || Brewery ||
+| ReImagine Co. |||||
+| Honey Dip ||| Nightlife ||
+| Poacher's Arms ||| Pub <br> Nightlife ||
+| Supply & Demand ||| Pub ||
 
 ### Food Support
 
