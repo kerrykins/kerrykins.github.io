@@ -397,24 +397,24 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 > Only recurring events are listed here. A weekly event calendar is published to the Queer Nexus Discord server. 
 {: .prompt-tip }
 
-| Event Name | Type of Event | Date & Time | Location | Cost | 
+| Event Name | Type of Event | Date & Time | Location | Free? | 
 | :------ | :------ | :------ | :------ | :------ | :------ | 
-| **Aeolian Pride Choruses** | Social <br> Music & Dance | Sunday 7pm-9:30pm[^fn3] <br> (Rehearsals)| | $60 per season |
-| **Board Game Social** <br> *by QX* | Social | | Crouch Library | Free | 
-| **Book Club** <br> *by QX* | Social | | Central Library | Free | |
-| **Karaoke for Homosexuals** <br> *by Honey Dip* | Social <br> Music & Dance | 1st Wednesday <br> 6pm-12am | Honey Dip | Free | 
+| **Aeolian Pride Choruses** | Social <br> Music & Dance | Sunday 7pm-9:30pm[^fn3] <br> (Rehearsals)| | ✘[^fn4] |
+| **Board Game Social** <br> *by QX* | Social | | Crouch Library | ✔ | 
+| **Book Club** <br> *by QX* | Social | | Central Library | ✔ | |
+| **Karaoke for Homosexuals** <br> *by Honey Dip* | Social <br> Music & Dance | 1st Wednesday <br> 6pm-12am | Honey Dip | ✔ | 
 | **London Lesbian Film Festival** | | | | | | |
-| **Monthly Hike** <br> *by QX*| Social <br> Sports & Rec |  | Varies | Free | |
-| **Parents & Caregivers Group** <br> *by pflag London*| Support | | *Location Hidden*[^fn1]  | Free |  
-| **Queeraoke** | Social <br> Music & Dance | Monday <br> 6pm-9pm | London Brewing Co-Op | Free | 
-| **Queerdos** <br> *by pflag London* | Social | | *Location Hidden*[^fn1] | Free | 
-| **Queer Crafters** <br> *by Queer Nexus* | Social <br> Arts & Crafts | 1st Monday <br> 12pm-2pm | Tea Haus | Free | 
-| **Queer Sewcial** <br> *by QX*| Social <br> Arts & Crafts | | Central Library | Free | 
-| **Social Run** <br> *by Frontrunners* | Social <br> Sports & Rec | Tuesday 5:30pm <br> Saturday 9:00am | London Bicycle Cafe | Free| 
-| **Trans Collective** 🏳️‍⚧️ <br> *by pflag London* | Social | 1st Wednesday <br> 6pm-8:30pm | *Location Hidden*[^fn1]  | Free | 
-| **Trans & Friends Social** 🏳️‍⚧ <br> *by Queer Nexus* | Social | Varying Dates & Time | Covent Garden Market | Free | 
-| **Trans\* London Social** 🏳️‍⚧️ <br> *by pflag London*| Social | 4th Wednesday <br> 6pm-8:30pm | *Location Hidden*[^fn1]  | Free | 
-| **Trans & NB Munch** 🔞 🏳️‍⚧️ | Social | 2nd Saturday <br> 3:30pm-5:30pm | *Location Hidden*[^fn1] <br> *Approval Needed*[^fn2] | Free | 
+| **Monthly Hike** <br> *by QX*| Social <br> Sports & Rec |  | Varies | ✔ | |
+| **Parents & Caregivers Group** <br> *by pflag London*| Support | | *Location Hidden*[^fn1]  | ✔ |  
+| **Queeraoke** | Social <br> Music & Dance | Monday <br> 6pm-9pm | London Brewing Co-Op | ✔ | 
+| **Queerdos** <br> *by pflag London* | Social | | *Location Hidden*[^fn1] | ✔ | 
+| **Queer Crafters** <br> *by Queer Nexus* | Social <br> Arts & Crafts | 1st Monday <br> 12pm-2pm | Tea Haus | ✔ | 
+| **Queer Sewcial** <br> *by QX*| Social <br> Arts & Crafts | | Central Library | ✔ | 
+| **Social Run** <br> *by Frontrunners* | Social <br> Sports & Rec | Tuesday 5:30pm <br> Saturday 9:00am | London Bicycle Cafe | ✔ | 
+| **Trans Collective** 🏳️‍⚧️ <br> *by pflag London* | Social | 1st Wednesday <br> 6pm-8:30pm | *Location Hidden*[^fn1]  | ✔ | 
+| **Trans & Friends Social** 🏳️‍⚧ <br> *by Queer Nexus* | Social | Varying Dates & Time | Covent Garden Market | ✔ | 
+| **Trans\* London Social** 🏳️‍⚧️ <br> *by pflag London*| Social | 4th Wednesday <br> 6pm-8:30pm | *Location Hidden*[^fn1]  | ✔ | 
+| **Trans & NB Munch** 🔞 🏳️‍⚧️ | Social | 2nd Saturday <br> 3:30pm-5:30pm | *Location Hidden*[^fn1] <br> *Approval Needed*[^fn2] | ✔ | 
 
 #### Trans-Friendly Social Venues
 
@@ -446,5 +446,6 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 [^fn1]: Location is not publicly displayed for safety concerns. You must ontact organisers for the location. 
 [^fn2]: Prior approval is needed to be allowed entry to the event. You must contact the organisers prior to the event.
 [^fn3]: Additional dates and times for performance dates and dress rehearsals.
+[^fn4]: $60 per season.
 
   
