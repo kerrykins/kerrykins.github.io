@@ -390,6 +390,15 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 > This section is a work in progress. 
 {: .prompt-warning }
 
+> Prices are fluctuating too often to reliably list them here. Call the business to inquire about prices.
+{: .prompt-info }
+
+| Name | Services | Bottom Surgery Prep | Notes | 
+| :------ | :------ | :------ | :------ | :------ | :------ |
+| [**Venus Beauty and Wellness**](https://venusbeautywellness.ca/) | Electrolysis <br> Laser | |
+| [**Afterglow Laser Spa**](https://www.afterglowlaserspa.com/) | Laser | Promos and packages available |
+| [**Bombshell Hair and Wellness**](https://www.londonbombshell.ca/) | Laser | Packages available |
+
 ### Queer & Trans Socials (London) 
 
 > This section is a work in progress. 
