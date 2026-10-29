@@ -413,7 +413,7 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 
 | Event Name | Type of Event | Date & Time | Location | Cost | Notes |
 | :------ | :------ | :------ | :------ | :------ | :------ | :------ | 
-| **Aeolian Pride Choruses** | Social <br> Music & Dance | | | | | |
+| **Aeolian Pride Choruses** | Social <br> Music & Dance | | | | $60 per season | |
 | **Board Game Social** <br> *by QX* | Social | | Crouch Library | Free | |
 | **Book Club** <br> *by QX* | Social | | Central Library | Free | |
 | **Karaoke for Homosexuals** <br> *by Honey Dip* | Social <br> Music & Dance | 1st Wednesday <br> 6pm-12am | Honey Dip | Free | |
