@@ -403,21 +403,21 @@ In Psychology Today, therapists can list three specialities and many expertise. 
 
 | Event Name | Type of Event | Date & Time | Location | Cost | Notes |
 | :------ | :------ | :------ | :------ | :------ | :------ | :------ | 
-| London Lesbian Film Festival | | | | | | |
-| Aeolian Pride Choruses | | | | | | |
-| Trans* London Social <br> 🏳️‍⚧️ <br> *by pflag London*| Social | 4th Wednesday <br> 6pm-8:30pm | See notes | Free | Contact organisers for location.|
-| Trans Collective <br> 🏳️‍⚧️ <br> *by pflag London* | Social | 1st Wednesday <br> 6pm-8:30pm | See notes | Free | Contact organisers for location. |
-| Queerdos <br> *by pflag London* | Social | | See notes | Free | Contact organisers for location. |
-| Parents & Caregivers Group <br> *by pflag London*| Support | | See notes | Free |  Contact organisers for location.|
-| Queer Sewcial <br> *by QX*| Social <br> Arts & Crafts | | Central Library | Free | |
-| Monthly Hike <br> *by QX*| Social <br> Sports & Rec |  | Varies | Free | |
-| Book Club <br> *by QX* | Social | | Central Library | Free | |
-| Board Game Social <br> *by QX* | Social | | Crouch Library | Free | |
-| Queer Crafters <br> *by Queer Nexus* | Social <br> Arts & Crafts | 1st Monday | Tea Haus | Free | |
-| Karaoke for Homosexuals <br> *by Honey Dip* | Social | 1st Wednesday <br> 6pm-12am | Honey Dip | Free | |
-| Social Run <br> *by Frontrunners* | Social <br> Sports & Rec | Tuesday 5:30pm <br> Saturday 9:00am | London Bicycle Cafe | Free| |
-| Trans & NB Munch <br> 🔞 🏳️‍⚧️ | Social | 2nd Saturday <br> 3:30pm-5:30pm | See notes | Free | Contact organisers for location. <br> Prior approval needed. |
-| Trans & Friends Social <br> 🏳️‍⚧ <br> *by Queer Nexus* | Social | Varying Dates & Time | Covent Garden Market | Free | 
+| **London Lesbian Film Festival** | | | | | | |
+| **Aeolian Pride Choruses** | | | | | | |
+| **Trans\* London Social** <br> 🏳️‍⚧️ <br> *by pflag London*| Social | 4th Wednesday <br> 6pm-8:30pm | See notes | Free | Contact organisers for location.|
+| **Trans Collective** <br> 🏳️‍⚧️ <br> *by pflag London* | Social | 1st Wednesday <br> 6pm-8:30pm | See notes | Free | Contact organisers for location. |
+| **Queerdos** <br> *by pflag London* | Social | | See notes | Free | Contact organisers for location. |
+| **Parents & Caregivers Group** <br> *by pflag London*| Support | | See notes | Free |  Contact organisers for location.|
+| **Queer Sewcial** <br> *by QX*| Social <br> Arts & Crafts | | Central Library | Free | |
+| **Monthly Hike** <br> *by QX*| Social <br> Sports & Rec |  | Varies | Free | |
+| **Book Club** <br> *by QX* | Social | | Central Library | Free | |
+| **Board Game Social** <br> *by QX* | Social | | Crouch Library | Free | |
+| **Queer Crafters** <br> *by Queer Nexus* | Social <br> Arts & Crafts | 1st Monday | Tea Haus | Free | |
+| **Karaoke for Homosexuals** <br> *by Honey Dip* | Social | 1st Wednesday <br> 6pm-12am | Honey Dip | Free | |
+| **Social Run** <br> *by Frontrunners* | Social <br> Sports & Rec | Tuesday 5:30pm <br> Saturday 9:00am | London Bicycle Cafe | Free| |
+| **Trans & NB Munch** <br> 🔞 🏳️‍⚧️ | Social | 2nd Saturday <br> 3:30pm-5:30pm | See notes | Free | Contact organisers for location. <br> Prior approval needed. |
+| **Trans & Friends Social** <br> 🏳️‍⚧ <br> *by Queer Nexus* | Social | Varying Dates & Time | Covent Garden Market | Free | 
 
 #### Trans-Friendly Social Venues
 
