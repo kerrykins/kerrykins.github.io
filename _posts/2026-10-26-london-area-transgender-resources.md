@@ -328,7 +328,7 @@ Below is a list of clinics/medical professionals that offer GAC in London, Ontar
 | Riverbend Pharmacy | | | |
 | [**Canadian Apothecary**](https://canapo.ca/) <br> 519-439-4100 | | | |
 | [**North London Medical Pharmacy**](https://nlmpharmacy.com/index.html) <br> 519-474-1313 | EV in Sesame Oil (2.5mL) <br> 20mg/mL: $1.50/mg | | |
-| [**True North London Compounding Pharmacy**](https://truenorthcompounding.ca/) <br> 519-471-8622 | EV in Sesame/Cottonseed Oil <br> 10-40mg/ml | | |
+| [**True North London <br> Compounding Pharmacy**](https://truenorthcompounding.ca/) <br> 519-471-8622 | EV in Sesame/Cottonseed Oil <br> 10-40mg/ml | | |
  	
 ### Injection Supplies
 
@@ -351,7 +351,7 @@ TBA: They Spa
 
 Most psychotherapists listed below were found either in the *Gender Affirming Resources* spreadsheet *or* from Psychology Today. 
 
-In Psychology Today, therapists can list three specialities and many expertise. Only therapists noting they specialise in trans, queer, neurodivergent, and ENM are listed below. 
+In Psychology Today, therapists can list three specialities and many areas of expertise. Only therapists noting they specialise in trans, queer, neurodivergent, and ENM are listed below. 
 
 #### In-Person AND Virtual
 
