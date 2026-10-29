@@ -431,9 +431,6 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 | **Trans\* London Social** 🏳️‍⚧️ <br> *by pflag London*| Social | 4th Wednesday <br> 6pm-8:30pm | *Location Hidden*[^fn1]  | Free | 
 | **Trans & NB Munch** 🔞 🏳️‍⚧️ | Social | 2nd Saturday <br> 3:30pm-5:30pm | *Location Hidden*[^fn1] <br> *Approval Needed*[^fn2] | Free | Contact organisers for location. <br> Prior approval needed. |
 
-[^fn1]: Location is not publicly displayed for safety concerns. You must ontact organisers for the location. 
-[^fn2]: Prior approval is needed to be allowed entry to the event. You must contact the organisers prior to the event.
-
 #### Trans-Friendly Social Venues
 
 > This section is a work in progress. 
@@ -460,5 +457,8 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 [**Homes for Queers London, ON, Canada**](https://www.facebook.com/groups/1252161064853796/)
 : Facebook group for the queer community to look for roommates or post their available listings that are queer friendly. 
 
+## Footnotes
+[^fn1]: Location is not publicly displayed for safety concerns. You must ontact organisers for the location. 
+[^fn2]: Prior approval is needed to be allowed entry to the event. You must contact the organisers prior to the event.
 
   
