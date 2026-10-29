@@ -414,10 +414,10 @@ In Psychology Today, therapists can list three specialities and many expertise. 
 | **Queer Crafters** <br> *by Queer Nexus* | Social <br> Arts & Crafts | 1st Monday | Tea Haus | Free | |
 | **Queer Sewcial** <br> *by QX*| Social <br> Arts & Crafts | | Central Library | Free | |
 | **Social Run** <br> *by Frontrunners* | Social <br> Sports & Rec | Tuesday 5:30pm <br> Saturday 9:00am | London Bicycle Cafe | Free| |
-| **Trans Collective** <br> 🏳️‍⚧️ <br> *by pflag London* | Social | 1st Wednesday <br> 6pm-8:30pm | See notes | Free | Contact organisers for location. |
-| **Trans & Friends Social** <br> 🏳️‍⚧ <br> *by Queer Nexus* | Social | Varying Dates & Time | Covent Garden Market | Free | 
-| **Trans\* London Social** <br> 🏳️‍⚧️ <br> *by pflag London*| Social | 4th Wednesday <br> 6pm-8:30pm | See notes | Free | Contact organisers for location.|
-| **Trans & NB Munch** <br> 🔞 🏳️‍⚧️ | Social | 2nd Saturday <br> 3:30pm-5:30pm | See notes | Free | Contact organisers for location. <br> Prior approval needed. |
+| **Trans Collective** 🏳️‍⚧️ <br> *by pflag London* | Social | 1st Wednesday <br> 6pm-8:30pm | See notes | Free | Contact organisers for location. |
+| **Trans & Friends Social** 🏳️‍⚧ <br> *by Queer Nexus* | Social | Varying Dates & Time | Covent Garden Market | Free | 
+| **Trans\* London Social** 🏳️‍⚧️ <br> *by pflag London*| Social | 4th Wednesday <br> 6pm-8:30pm | See notes | Free | Contact organisers for location.|
+| **Trans & NB Munch** 🔞 🏳️‍⚧️ | Social | 2nd Saturday <br> 3:30pm-5:30pm | See notes | Free | Contact organisers for location. <br> Prior approval needed. |
 
 
 #### Trans-Friendly Social Venues
