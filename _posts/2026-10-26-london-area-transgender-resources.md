@@ -359,6 +359,7 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 | [Full Circle CTS](https://www.psychologytoday.com/ca/therapists/full-circle-counselling-therapy-services-london-on/802511) | | Individual Therapy <br> Couples Therapy | Neurodivergent | Free consult <br> $165 per session |
 | [Annie Murru](https://www.psychologytoday.com/ca/therapists/annie-murru-london-on/1377933) | RP(Q) | Individual Therapy <br> Group Therapy | Trans <br> Queer | Free consult <br> $150 per session |
 | [Dakota Grass](https://www.psychologytoday.com/ca/therapists/dakota-grass-london-on/1238198) | RSW <br> RP(Q) | Individual Therapy <br> Couples Therapy | Queer | Free consult <br> $160 per session <br> Waitlist |
+| [Darryl DeRoches](https://www.psychologytoday.com/ca/therapists/darryl-deroches-london-on/827995) | RSW | Individual Therapy <br> Couples Therapy | ENM | $170 per session |
 
 #### Virtual Only 
 
@@ -370,7 +371,7 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 | [Andrew Holmes](https://www.psychologytoday.com/ca/therapists/andrew-holmes-toronto-on/418986) <br> RSW | Individual Therapy <br> Couples Therapy <br> Group Therapy | Trans | Free consult <br> $200 per session |
 | [Asher Faerstein](https://www.svnctum.ca/psychotherapy-toronto) <br> RP | Individual Therapy | Queer <br> Neurodivergent | Free consult <br> $170 per session |
 | [Brooke Holman](https://www.psychologytoday.com/ca/therapists/brooke-holman-london-on/1384958) <br> RP(Q) | Individual Therapy | Queer | Free consult <br> $140 per session <br> **Queer, non-binary therapist** | 
-| [Calire Salisbury](https://www.psychologytoday.com/ca/therapists/claire-salisbury-london-on/281497) <br> RP | Individual Therapy | Trans <br> Queer | Free consult <br> Unknown cost |
+| [Claire Salisbury](https://www.psychologytoday.com/ca/therapists/claire-salisbury-london-on/281497) <br> RP | Individual Therapy | Trans <br> Queer | Free consult <br> Unknown cost |
 | [Centrepeace](https://centrepeacelondon.ca/lgbtq-affirming-therapist-in-london-ontario) <br> RSW | Individual Therapy | Queer | Free consult <br> $165 per session <br> Sliding scale available |
 | [Charlie Parker-McKay](https://www.psychologytoday.com/ca/therapists/charlie-parker-mckay-toronto-on/1025984) <br> RP | Individual Therapy | Neurodivergent | Free consult <br> $180 per session |
 | [Christine Krickhan](https://www.psychologytoday.com/ca/therapists/christine-krickhan-london-on/968855) <br> RP | Individual Therapy | Queer | Free consult <br> $175 per session |
@@ -381,6 +382,7 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 | [Nicole Zouki](https://www.psychologytoday.com/ca/therapists/nicole-zouki-toronto-on/1166448) <br> RP | Individual Therapy | Queer | Free consult <br> $160 per session <br> Sliding scale available |
 | [Sarah Szpak](https://www.psychologytoday.com/ca/therapists/sarah-szpak-london-on/1034197) <br> RSW | Individual Therapy | Trans <br> Queer | Free consult <br> $160 per session |
 | [Sj Vriend](https://www.psychologytoday.com/ca/therapists/sj-vriend-ottawa-on/1113431) <br> RP | Individual Therapy | Trans <br> Queer| Free consult <br> $190 per session <br> **CPATH & WPATH member** |
+| [Trans Wellness Ontario](https://www.transwellness.ca/individual-services) | Individual Therapy  | Trans <br> Queer | Free <br> [Intake Request Form](https://docs.google.com/forms/d/e/1FAIpQLSen9P1ghQ2U3boFJr3xLoA-1kUHBdUFMQgaXAiZJm7m9OOn_w/viewform) <br> Intake does not guarantee service <br> Significant waitlist
 | [Yael Shoham](https://www.psychologytoday.com/ca/therapists/yael-shoham-kaleidoscope-counselling-collective-toronto-on/1374806) <br> RSW | Individual Therapy <br> Couples Therapy | Neurodivergent | Free consult <br> $175 per session |
 
 ### Permanent Hair Removal (London) 
