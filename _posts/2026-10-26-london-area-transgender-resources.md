@@ -358,7 +358,7 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 | :------ | :------ | :------ | :------ | :------ | :------ |
 | Blueprint <br> Counselling | RP <br> RP(Q) <br> RSW <br> Student | Individual Therapy <br> Relationships <br> ADHD/ASD Assessment <br> Group Therapy <br> Art Therapy <br> Family Therapy | Trans <br> Queer | Queer-owned | 
 | [Full Circle CTS](https://www.psychologytoday.com/ca/therapists/full-circle-counselling-therapy-services-london-on/802511) | | Individual Therapy <br> Couples Therapy | Neurodivergent | Free consult <br> $165 per session |
-| [Annie Murru](https://www.psychologytoday.com/ca/therapists/annie-murru-london-on/1377933) | RP(Q) | Individual Therapy <br> Group Therapy | Trans <br> Queer | Free consult <br> $150 per session |
+| [Annie Murru](https://www.psychologytoday.com/ca/therapists/annie-murru-london-on/1377933) | RP(Q) | Individual Therapy <br> Group Therapy | Trans <br> Queer | Free consult <br> $150 per session <br> **Queer therapist** |
 | [Dakota Grass](https://www.psychologytoday.com/ca/therapists/dakota-grass-london-on/1238198) | RSW <br> RP(Q) | Individual Therapy <br> Couples Therapy | Queer | Free consult <br> $160 per session <br> Waitlist |
 | [Darryl DeRoches](https://www.psychologytoday.com/ca/therapists/darryl-deroches-london-on/827995) | RSW | Individual Therapy <br> Couples Therapy | ENM | $170 per session |
 | [Kimberly Anne Gautreau](https://www.psychologytoday.com/ca/therapists/kimberly-anne-gautreau-london-on/808825) | RSW | Individual Therapy <br> Couples Therapy | Trans | Free consult <br> $160 per session |
@@ -453,3 +453,7 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 | [**Food for Queers**](https://queerevents.ca/foodforqueers) | Free | Provides no cost grocery kits for 2SLGBTQIA+ folks |
 | [**Queer Food Bank (QFB)**](https://www.pflaglondon.ca/queer-food-bank) | Low-cost <br> Free | Food bank |
 
+### Housing 
+
+[Homes for Queers London, ON, Canada](https://www.facebook.com/groups/1252161064853796/)
+: Facebook group for the queer community to look for roommates or post their available listings that are queer friendly. 
