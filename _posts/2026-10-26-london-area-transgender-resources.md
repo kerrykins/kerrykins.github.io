@@ -362,7 +362,7 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 
 #### Virtual Only 
 
-> Some therapists in this section may offer in-person options. However, since in-person options are not in London, they will be considered as virtual only. 
+> Some therapists in this section may offer in-person options. However, since their in-person options are not in London, they will be considered as virtual only. 
 {: .prompt-info }
 
 | Name | Practitioner | Services | Specialty | Notes |
@@ -418,7 +418,7 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 | **London Lesbian Film Festival** | | | | | | |
 | **Monthly Hike** <br> *by QX*| Social <br> Sports & Rec |  | Varies | Free | |
 | **Parents & Caregivers Group** <br> *by pflag London*| Support | | See notes | Free |  Contact organisers for location.|
-| **Queeraoke** | Social <br> Music & Dance | | London Brewing Co-Op | Free | |
+| **Queeraoke** | Social <br> Music & Dance | Monday <br> 6pm-9pm | London Brewing Co-Op | Free | |
 | **Queerdos** <br> *by pflag London* | Social | | See notes | Free | Contact organisers for location. |
 | **Queer Crafters** <br> *by Queer Nexus* | Social <br> Arts & Crafts | 1st Monday <br> 12pm-2pm | Tea Haus | Free | |
 | **Queer Sewcial** <br> *by QX*| Social <br> Arts & Crafts | | Central Library | Free | |
