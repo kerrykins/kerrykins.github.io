@@ -349,7 +349,7 @@ TBA: They Spa
 
 #### Methodology 
 
-Most psychotherapists listed below were found either in the *Gender Affirming Resources* spreadsheet *or* from Psychology Today. 
+Most psychotherapists listed below were found either in the *Gender Affirming Resources* spreadsheet or from Psychology Today. 
 
 In Psychology Today, therapists can list three specialities and many areas of expertise. Only therapists noting they specialise in trans, queer, neurodivergent, and ENM are listed below. 
 
@@ -428,17 +428,17 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 
 | Place Name | Address | Venue Type | Description | Notes |
 | :------ | :------ | :------ | 
-| [DoughEV](https://doughev.com/) <br> 548-391-4851 <br> doughevlondon@gmail.com | 621 Dundas Street | Cafe | |
-| London Brewing Co-Op | || Brewery ||
-| ReImagine Co. |||||
-| Honey Dip ||| Nightlife ||
-| Poacher's Arms ||| Pub <br> Nightlife ||
-| Supply & Demand ||| Pub ||
+| [**DoughEV**](https://doughev.com/) <br> 548-391-4851 <br> doughevlondon@gmail.com | 621 Dundas Street | Cafe | |
+| **London Brewing Co-Op** | || Brewery ||
+| **ReImagine Co.** |||||
+| **Honey Dip** ||| Nightlife ||
+| **Poacher's Arms** ||| Pub <br> Nightlife ||
+| **Supply & Demand** ||| Pub ||
 
 ### Food Support
 
 | Name | Cost | Notes |
 | :----- | :----- | :----- |
-| [Food for Queers](https://queerevents.ca/foodforqueers) | Free | Provides no cost grocery kits for 2SLGBTQIA+ folks |
-| [Queer Food Bank (QFB)](https://www.pflaglondon.ca/queer-food-bank) | Low-cost <br> Free | Food bank |
+| [**Food for Queers**](https://queerevents.ca/foodforqueers) | Free | Provides no cost grocery kits for 2SLGBTQIA+ folks |
+| [**Queer Food Bank (QFB)**](https://www.pflaglondon.ca/queer-food-bank) | Low-cost <br> Free | Food bank |
 
