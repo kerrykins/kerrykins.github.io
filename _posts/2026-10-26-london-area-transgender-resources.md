@@ -414,7 +414,7 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 
 | Event Name | Type of Event | Date & Time | Location | Cost | 
 | :------ | :------ | :------ | :------ | :------ | :------ | 
-| **Aeolian Pride Choruses** | Social <br> Music & Dance | Sunday 7pm-9:30pm <br> (Rehearsals)| | | $60 per season | 
+| **Aeolian Pride Choruses** | Social <br> Music & Dance | Sunday 7pm-9:30pm[^fn3] <br> (Rehearsals)| | $60 per season |
 | **Board Game Social** <br> *by QX* | Social | | Crouch Library | Free | 
 | **Book Club** <br> *by QX* | Social | | Central Library | Free | |
 | **Karaoke for Homosexuals** <br> *by Honey Dip* | Social <br> Music & Dance | 1st Wednesday <br> 6pm-12am | Honey Dip | Free | 
@@ -460,5 +460,6 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 ## Footnotes
 [^fn1]: Location is not publicly displayed for safety concerns. You must ontact organisers for the location. 
 [^fn2]: Prior approval is needed to be allowed entry to the event. You must contact the organisers prior to the event.
+[^fn3]: Additional dates and times for performance dates and dress rehearsals.
 
   
