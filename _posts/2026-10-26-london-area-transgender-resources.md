@@ -413,13 +413,14 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 
 | Event Name | Type of Event | Date & Time | Location | Cost | Notes |
 | :------ | :------ | :------ | :------ | :------ | :------ | :------ | 
-| **Aeolian Pride Choruses** | | | | | | |
+| **Aeolian Pride Choruses** | Social <br> Music & Dance | | | | | |
 | **Board Game Social** <br> *by QX* | Social | | Crouch Library | Free | |
 | **Book Club** <br> *by QX* | Social | | Central Library | Free | |
-| **Karaoke for Homosexuals** <br> *by Honey Dip* | Social | 1st Wednesday <br> 6pm-12am | Honey Dip | Free | |
+| **Karaoke for Homosexuals** <br> *by Honey Dip* | Social <br> Music & Dance | 1st Wednesday <br> 6pm-12am | Honey Dip | Free | |
 | **London Lesbian Film Festival** | | | | | | |
 | **Monthly Hike** <br> *by QX*| Social <br> Sports & Rec |  | Varies | Free | |
 | **Parents & Caregivers Group** <br> *by pflag London*| Support | | See notes | Free |  Contact organisers for location.|
+| **Queeraoke** | Social <br> Music & Dance | | London Brewing Co-Op | Free | |
 | **Queerdos** <br> *by pflag London* | Social | | See notes | Free | Contact organisers for location. |
 | **Queer Crafters** <br> *by Queer Nexus* | Social <br> Arts & Crafts | 1st Monday <br> 12pm-2pm | Tea Haus | Free | |
 | **Queer Sewcial** <br> *by QX*| Social <br> Arts & Crafts | | Central Library | Free | |
