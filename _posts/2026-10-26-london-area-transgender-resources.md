@@ -429,7 +429,7 @@ In Psychology Today, therapists can list three specialities and many areas of ex
 | **Trans Collective** 🏳️‍⚧️ <br> *by pflag London* | Social | 1st Wednesday <br> 6pm-8:30pm | *Location Hidden*[^fn1]  | Free | 
 | **Trans & Friends Social** 🏳️‍⚧ <br> *by Queer Nexus* | Social | Varying Dates & Time | Covent Garden Market | Free | 
 | **Trans\* London Social** 🏳️‍⚧️ <br> *by pflag London*| Social | 4th Wednesday <br> 6pm-8:30pm | *Location Hidden*[^fn1]  | Free | 
-| **Trans & NB Munch** 🔞 🏳️‍⚧️ | Social | 2nd Saturday <br> 3:30pm-5:30pm | *Location Hidden*[^fn1] <br> *Approval Needed*[^fn2] | Free | Contact organisers for location. <br> Prior approval needed. |
+| **Trans & NB Munch** 🔞 🏳️‍⚧️ | Social | 2nd Saturday <br> 3:30pm-5:30pm | *Location Hidden*[^fn1] <br> *Approval Needed*[^fn2] | Free | 
 
 #### Trans-Friendly Social Venues
 
