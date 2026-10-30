@@ -16,7 +16,7 @@ timezone: America/Toronto
 
 title: Kerry # the main title
 
-tagline: Welcome ! # it will display as the subtitle
+tagline: Welcome! # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Welcome!
